@@ -1,0 +1,2934 @@
+{
+  "version": 3.1,
+  "presentation": "LnP Sheet 1",
+  "slideDict": {
+    "new_slide": "new_slide",
+    "Exo1": "Exo1",
+    "Logic": "Logic",
+    "Proof": "Proof",
+    "graph_hom": "graph_hom",
+    "Proof_of_res_ref_complete": "Proof_of_res_ref_complete",
+    "resolution_ind": "resolution_ind",
+    "SAT": "SAT",
+    "resolution_ind2": "resolution_ind2",
+    "Proof_of_pos_res_ref": "Proof_of_pos_res_ref",
+    "ind_pos_2": "ind_pos_2",
+    "interpolant": "interpolant",
+    "ind_pos_1": "ind_pos_1",
+    "flip_Horn": "flip_Horn",
+    "Walk_Horn": "Walk_Horn",
+    "2_occurrence": "2_occurrence",
+    "Horn": "Horn",
+    "case_1": "case_1",
+    "case_2": "case_2",
+    "case_3": "case_3",
+    "case_4": "case_4",
+    "case_5": "case_5"
+  },
+  "tree": {
+    "type": "child",
+    "name": "Root",
+    "id": "new_slide",
+    "enabled": "enabled",
+    "merged": false,
+    "children": [
+      {
+        "type": "child",
+        "name": "Logic",
+        "id": "Logic",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "show",
+            "id": "Group_5",
+            "enabled": "enabled",
+            "name": "A formula in variables amounts to a function",
+            "merged": false,
+            "keywords": [
+              "A formula in variables amounts to a function"
+            ],
+            "eventId": "8"
+          },
+          {
+            "type": "show",
+            "id": "CNF",
+            "enabled": "enabled",
+            "name": "(CNF)",
+            "merged": false,
+            "keywords": [
+              "(CNF)"
+            ],
+            "eventId": "9"
+          },
+          {
+            "type": "show",
+            "id": "straight_line_program",
+            "enabled": "enabled",
+            "name": "/ straight-line program",
+            "merged": false,
+            "keywords": [
+              "/ straight-line program"
+            ],
+            "eventId": "10"
+          },
+          {
+            "type": "child",
+            "name": "graph hom",
+            "id": "graph_hom",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_52",
+                "enabled": "enabled",
+                "name": "Group 5",
+                "merged": false,
+                "keywords": [
+                  "Group 5"
+                ],
+                "eventId": "32"
+              },
+              {
+                "type": "show",
+                "id": "Group_9",
+                "enabled": "enabled",
+                "name": "k",
+                "merged": false,
+                "keywords": [
+                  "k",
+                  "i",
+                  "j"
+                ],
+                "eventId": "33"
+              },
+              {
+                "type": "show",
+                "id": "Group_62",
+                "enabled": "enabled",
+                "name": "¬rik",
+                "merged": false,
+                "keywords": [
+                  "rij",
+                  "¬rik"
+                ],
+                "eventId": "34"
+              },
+              {
+                "type": "show",
+                "id": "Group_7",
+                "enabled": "enabled",
+                "name": "rij",
+                "merged": false,
+                "keywords": [
+                  "rij",
+                  "j'",
+                  "i'",
+                  "k'"
+                ],
+                "eventId": "35"
+              },
+              {
+                "type": "show",
+                "id": "Group_8",
+                "enabled": "enabled",
+                "name": "Group 8",
+                "merged": false,
+                "keywords": [
+                  "Group 8"
+                ],
+                "eventId": "36"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_4",
+                "enabled": "enabled",
+                "name": "Arrow 4",
+                "merged": false,
+                "keywords": [
+                  "Arrow 4"
+                ],
+                "eventId": "37"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_2",
+                "enabled": "enabled",
+                "name": "Arrow 2",
+                "merged": false,
+                "keywords": [
+                  "Arrow 2"
+                ],
+                "eventId": "38"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_3",
+                "enabled": "enabled",
+                "name": "Arrow 3",
+                "merged": false,
+                "keywords": [
+                  "Arrow 3"
+                ],
+                "eventId": "39"
+              },
+              {
+                "type": "show",
+                "id": "_bigwedge_i__bigvee__i___h__ii__",
+                "enabled": "enabled",
+                "name": "\\bigwedge_i \\bigvee_{i'} h_{ii'} \n\\quad\\wedge\\quad\\bigwedge_i \\bigwedge_{i' \\neq{} j'} \\neg{}h_{ii'} \\vee \\neg{}h_{ij'} \n\\quad\\wedge\\quad \\bigwedge_{i,j,i',j'} \\neg{}h_{ii'} \\vee \\neg{}h_{jj'} \\vee \\neg{}r_{ij} \\vee r'_{i'j'}",
+                "merged": false,
+                "keywords": [
+                  "\\bigwedge_i \\bigvee_{i'} h_{ii'} \n\\quad\\wedge\\quad\\bigwedge_i \\bigwedge_{i' \\neq{} j'} \\neg{}h_{ii'} \\vee \\neg{}h_{ij'} \n\\quad\\wedge\\quad \\bigwedge_{i,j,i',j'} \\neg{}h_{ii'} \\vee \\neg{}h_{jj'} \\vee \\neg{}r_{ij} \\vee r'_{i'j'}"
+                ],
+                "eventId": "40"
+              },
+              {
+                "type": "show",
+                "id": "every_vertex_maps_to___1_vertex",
+                "enabled": "enabled",
+                "name": "every vertex maps to ≥ 1 vertex",
+                "merged": false,
+                "keywords": [
+                  "every vertex maps to ≥ 1 vertex"
+                ],
+                "eventId": "41"
+              },
+              {
+                "type": "show",
+                "id": "every_vertex_maps_to___1_vertex2",
+                "enabled": "enabled",
+                "name": "every vertex maps to ≤ 1 vertex",
+                "merged": false,
+                "keywords": [
+                  "every vertex maps to ≤ 1 vertex"
+                ],
+                "eventId": "42"
+              },
+              {
+                "type": "show",
+                "id": "edges_map_to_edges",
+                "enabled": "enabled",
+                "name": "edges map to edges",
+                "merged": false,
+                "keywords": [
+                  "edges map to edges"
+                ],
+                "eventId": "43"
+              },
+              {
+                "type": "show",
+                "id": "This_formula_in_h__r__r__is_satisfiable_iff_h_is_a_graph_homomorphism_",
+                "enabled": "enabled",
+                "name": "This formula in h, r, r' is satisfiable iff h is a graph homomorphism.",
+                "merged": false,
+                "keywords": [
+                  "This formula in h, r, r' is satisfiable iff h is a graph homomorphism."
+                ],
+                "eventId": "44"
+              },
+              {
+                "type": "show",
+                "id": "Group_17",
+                "enabled": "enabled",
+                "name": "pos",
+                "merged": false,
+                "keywords": [
+                  "pos",
+                  "neg"
+                ],
+                "eventId": "45"
+              }
+            ],
+            "keywords": [
+              "Example: graph homomorphism",
+              "graph hom"
+            ],
+            "eventId": "12",
+            "originalParams": {
+              "Group_52": {
+                "opacity": 1
+              },
+              "Group_9": {
+                "opacity": 1
+              },
+              "Group_62": {
+                "opacity": 1
+              },
+              "Group_7": {
+                "opacity": 1
+              },
+              "Group_8": {
+                "opacity": 1
+              },
+              "Arrow_4": {
+                "opacity": 1
+              },
+              "Arrow_2": {
+                "opacity": 1
+              },
+              "Arrow_3": {
+                "opacity": 1
+              },
+              "_bigwedge_i__bigvee__i___h__ii__": {
+                "opacity": 1
+              },
+              "every_vertex_maps_to___1_vertex": {
+                "opacity": 1
+              },
+              "every_vertex_maps_to___1_vertex2": {
+                "opacity": 1
+              },
+              "edges_map_to_edges": {
+                "opacity": 1
+              },
+              "This_formula_in_h__r__r__is_satisfiable_iff_h_is_a_graph_homomorphism_": {
+                "opacity": 1
+              },
+              "Group_17": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "Exo1",
+            "id": "Exo1",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_9",
+                "enabled": "enabled",
+                "name": "homomorphism Km → G = m-clique in G",
+                "merged": false,
+                "keywords": [
+                  "(a)",
+                  "homomorphism Km → G = m-clique in G"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Group_11",
+                "enabled": "enabled",
+                "name": "Group 11",
+                "merged": false,
+                "keywords": [
+                  "Group 11"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "Group_92",
+                "enabled": "enabled",
+                "name": "Group 9",
+                "merged": false,
+                "keywords": [
+                  "Group 9"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "Group_10",
+                "enabled": "enabled",
+                "name": "homomorphism G → Km = m-colouring of G",
+                "merged": false,
+                "keywords": [
+                  "(b)",
+                  "homomorphism G → Km = m-colouring of G"
+                ],
+                "eventId": "3"
+              }
+            ],
+            "keywords": [
+              "Exercise 1",
+              "Write Km for the complete graph on m vertices.",
+              "Exo1"
+            ],
+            "eventId": "13",
+            "originalParams": {
+              "Group_9": {
+                "opacity": 1
+              },
+              "Group_10": {
+                "opacity": 1
+              },
+              "Group_92": {
+                "opacity": 1
+              },
+              "Ellipse_12": {
+                "opacity": 1
+              },
+              "Group_11": {
+                "opacity": 1
+              }
+            }
+          }
+        ],
+        "keywords": [
+          "Propositional logic",
+          "Logic"
+        ],
+        "eventId": "2",
+        "originalParams": {
+          "Group_5": {
+            "opacity": 1
+          },
+          "CNF": {
+            "opacity": 1
+          },
+          "straight_line_program": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "Proof",
+        "id": "Proof",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "show",
+            "id": "Given_F_in_CNF_",
+            "enabled": "enabled",
+            "name": "Given F in CNF:",
+            "merged": false,
+            "keywords": [
+              "Given F in CNF:"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "show",
+            "id": "C_0__C_1__C_2___dots__C_m",
+            "enabled": "enabled",
+            "name": "C_1,\\ C_2,\\ C_3,\\ \\dots,\\ C_m",
+            "merged": true,
+            "keywords": [
+              "C_1,\\ C_2,\\ C_3,\\ \\dots,\\ C_m"
+            ],
+            "eventId": "12"
+          },
+          {
+            "type": "show",
+            "id": "Text",
+            "enabled": "enabled",
+            "name": "∨ clause in F",
+            "merged": false,
+            "keywords": [
+              "∨ clause in F"
+            ],
+            "eventId": "13"
+          },
+          {
+            "type": "show",
+            "id": "__clause_in_F",
+            "enabled": "enabled",
+            "name": "clause ∈ F",
+            "merged": false,
+            "keywords": [
+              "clause ∈ F"
+            ],
+            "eventId": "14"
+          },
+          {
+            "type": "show",
+            "id": "C_0___C__0__cup___p__",
+            "enabled": "enabled",
+            "name": "C_1 = C'_1 \\sqcup \\{p\\}",
+            "merged": false,
+            "keywords": [
+              "C_1 = C'_1 \\sqcup \\{p\\}"
+            ],
+            "eventId": "15"
+          },
+          {
+            "type": "show",
+            "id": "C_1___C__1__cup____neg__p__",
+            "enabled": "enabled",
+            "name": "C_2 = C'_2 \\sqcup \\{\\neg{}p\\}",
+            "merged": false,
+            "keywords": [
+              "C_2 = C'_2 \\sqcup \\{\\neg{}p\\}"
+            ],
+            "eventId": "16"
+          },
+          {
+            "type": "show",
+            "id": "C_2___C__1__cup_C__2",
+            "enabled": "enabled",
+            "name": "C_3 = C'_1 \\cup C'_2",
+            "merged": false,
+            "keywords": [
+              "C_3 = C'_1 \\cup C'_2"
+            ],
+            "eventId": "17"
+          },
+          {
+            "type": "child",
+            "name": "Proof of res-ref-complete",
+            "id": "Proof_of_res_ref_complete",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_132",
+                "enabled": "enabled",
+                "name": "Proof: by induction on .",
+                "merged": false,
+                "keywords": [
+                  "Proof: by induction on ."
+                ],
+                "eventId": "25"
+              },
+              {
+                "type": "show",
+                "id": "Base_case__n___0",
+                "enabled": "enabled",
+                "name": "Base case: ;",
+                "merged": false,
+                "keywords": [
+                  "Base case: ;"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "n_0",
+                "enabled": "enabled",
+                "name": "n=0",
+                "merged": true,
+                "keywords": [
+                  "n=0"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "Only_clause_is___",
+                "enabled": "enabled",
+                "name": "only clause is □;",
+                "merged": true,
+                "keywords": [
+                  "only clause is □;"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "only_CNF_s_are____or_____",
+                "enabled": "enabled",
+                "name": "only CNF's are {} or {□}.",
+                "merged": false,
+                "keywords": [
+                  "only CNF's are {} or {□}."
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "Line_13",
+                "enabled": "enabled",
+                "name": "Line 13",
+                "merged": false,
+                "keywords": [
+                  "Line 13"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Inductive_step_",
+                "enabled": "enabled",
+                "name": "Inductive step:",
+                "merged": false,
+                "keywords": [
+                  "Inductive step:"
+                ],
+                "eventId": "26"
+              },
+              {
+                "type": "child",
+                "name": "resolution-ind",
+                "id": "resolution_ind",
+                "enabled": "enabled",
+                "merged": false,
+                "children": [
+                  {
+                    "type": "show",
+                    "id": "___bigcup__C_in__F____neg__p_n_not_in__C__C__setminus___p_n__",
+                    "enabled": "enabled",
+                    "name": "= \\bigcup_{C\\in{}F : \\neg{}p_n\\not\\in{}C} C \\setminus \\{p_n\\}",
+                    "merged": false,
+                    "keywords": [
+                      "= \\bigcup_{C\\in{}F : \\neg{}p_n\\not\\in{}C} C \\setminus \\{p_n\\}"
+                    ],
+                    "eventId": "27"
+                  },
+                  {
+                    "type": "show",
+                    "id": "This_is_a_CNF__still_unsatisfiable__in_fewer_variables__so_",
+                    "enabled": "enabled",
+                    "name": "This is a CNF, still unsatisfiable, in fewer variables. So:",
+                    "merged": false,
+                    "keywords": [
+                      "This is a CNF, still unsatisfiable, in fewer variables. So:"
+                    ],
+                    "eventId": "1"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_14",
+                    "enabled": "enabled",
+                    "name": "Group 12",
+                    "merged": false,
+                    "keywords": [
+                      "Group 12"
+                    ],
+                    "eventId": "30"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Line_14",
+                    "enabled": "enabled",
+                    "name": "Line 14",
+                    "merged": true,
+                    "keywords": [
+                      "Line 14"
+                    ],
+                    "eventId": "6"
+                  },
+                  {
+                    "type": "show",
+                    "id": "__p___q__r__",
+                    "enabled": "enabled",
+                    "name": "\\{p_1, ¬p_2, p_3\\}",
+                    "merged": true,
+                    "keywords": [
+                      "\\{p_1, ¬p_2, p_3\\}"
+                    ],
+                    "eventId": "7"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Line_15",
+                    "enabled": "enabled",
+                    "name": "Line 15",
+                    "merged": true,
+                    "keywords": [
+                      "Line 15"
+                    ],
+                    "eventId": "8"
+                  },
+                  {
+                    "type": "show",
+                    "id": "___q__r__",
+                    "enabled": "enabled",
+                    "name": "\\{¬p_2, p_3\\}",
+                    "merged": true,
+                    "keywords": [
+                      "\\{¬p_2, p_3\\}"
+                    ],
+                    "eventId": "9"
+                  },
+                  {
+                    "type": "show",
+                    "id": "__r__",
+                    "enabled": "enabled",
+                    "name": "\\{p_3\\}",
+                    "merged": true,
+                    "keywords": [
+                      "\\{p_3\\}"
+                    ],
+                    "eventId": "10"
+                  },
+                  {
+                    "type": "show",
+                    "id": "____",
+                    "enabled": "enabled",
+                    "name": "\\{\\}",
+                    "merged": true,
+                    "keywords": [
+                      "\\{\\}"
+                    ],
+                    "eventId": "11"
+                  },
+                  {
+                    "type": "show",
+                    "id": "___p__",
+                    "enabled": "enabled",
+                    "name": "\\{¬p_1\\}",
+                    "merged": true,
+                    "keywords": [
+                      "\\{¬p_1\\}"
+                    ],
+                    "eventId": "12"
+                  },
+                  {
+                    "type": "show",
+                    "id": "__q__r__",
+                    "enabled": "enabled",
+                    "name": "\\{p_2, p_3\\}",
+                    "merged": true,
+                    "keywords": [
+                      "\\{p_2, p_3\\}"
+                    ],
+                    "eventId": "13"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_13",
+                    "enabled": "enabled",
+                    "name": "Either never occurs — done",
+                    "merged": false,
+                    "keywords": [
+                      "Either never occurs — done"
+                    ],
+                    "eventId": "25"
+                  },
+                  {
+                    "type": "show",
+                    "id": "__or_we",
+                    "enabled": "enabled",
+                    "name": ", or",
+                    "merged": false,
+                    "keywords": [
+                      ", or"
+                    ],
+                    "eventId": "22"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "__p___q__r__",
+                    "enabled": "enabled",
+                    "name": "\\{p_1, ¬p_2, p_3\\}",
+                    "merged": true,
+                    "keywords": [
+                      "\\{p_1, ¬p_2, p_3\\}"
+                    ],
+                    "eventId": "14"
+                  },
+                  {
+                    "type": "show",
+                    "id": "__p_1___p_2__p_3____color_red_p_4___",
+                    "enabled": "enabled",
+                    "name": "\\{p_1, ¬p_2, p_3, {\\color{red}p_4}\\}",
+                    "merged": true,
+                    "keywords": [
+                      "\\{p_1, ¬p_2, p_3, {\\color{red}p_4}\\}"
+                    ],
+                    "eventId": "2"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "___q__r__",
+                    "enabled": "enabled",
+                    "name": "\\{¬p_2, p_3\\}",
+                    "merged": false,
+                    "keywords": [
+                      "\\{¬p_2, p_3\\}"
+                    ],
+                    "eventId": "15"
+                  },
+                  {
+                    "type": "show",
+                    "id": "___q__r____color_red_s___",
+                    "enabled": "enabled",
+                    "name": "\\{¬p_2, p_3, {\\color{red}p_4}\\}",
+                    "merged": true,
+                    "keywords": [
+                      "\\{¬p_2, p_3, {\\color{red}p_4}\\}"
+                    ],
+                    "eventId": "3"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "__r__",
+                    "enabled": "enabled",
+                    "name": "\\{p_3\\}",
+                    "merged": false,
+                    "keywords": [
+                      "\\{p_3\\}"
+                    ],
+                    "eventId": "17"
+                  },
+                  {
+                    "type": "show",
+                    "id": "__r____color_red_s___",
+                    "enabled": "enabled",
+                    "name": "\\{p_3, {\\color{red}p_4}\\}",
+                    "merged": true,
+                    "keywords": [
+                      "\\{p_3, {\\color{red}p_4}\\}"
+                    ],
+                    "eventId": "5"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "____",
+                    "enabled": "enabled",
+                    "name": "\\{\\}",
+                    "merged": false,
+                    "keywords": [
+                      "\\{\\}"
+                    ],
+                    "eventId": "18"
+                  },
+                  {
+                    "type": "show",
+                    "id": "____color_red_s___",
+                    "enabled": "enabled",
+                    "name": "\\{{\\color{red}p_4}\\}",
+                    "merged": true,
+                    "keywords": [
+                      "\\{{\\color{red}p_4}\\}"
+                    ],
+                    "eventId": "19"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "___p__",
+                    "enabled": "enabled",
+                    "name": "\\{¬p_1\\}",
+                    "merged": false,
+                    "keywords": [
+                      "\\{¬p_1\\}"
+                    ],
+                    "eventId": "28"
+                  },
+                  {
+                    "type": "show",
+                    "id": "___p_1____color_red_p_4___",
+                    "enabled": "enabled",
+                    "name": "\\{¬p_1, {\\color{red}p_4}\\}",
+                    "merged": true,
+                    "keywords": [
+                      "\\{¬p_1, {\\color{red}p_4}\\}"
+                    ],
+                    "eventId": "29"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_132",
+                    "enabled": "enabled",
+                    "name": "we have a proof of .",
+                    "merged": false,
+                    "keywords": [
+                      "we have a proof of ."
+                    ],
+                    "eventId": "26"
+                  }
+                ],
+                "keywords": [
+                  "resolution-ind"
+                ],
+                "eventId": "22",
+                "originalParams": {
+                  "This_is_a_CNF__still_unsatisfiable__in_fewer_variables__so_": {
+                    "opacity": 1
+                  },
+                  "__p_1___p_2__p_3____color_red_p_4___": {
+                    "opacity": 1
+                  },
+                  "___q__r____color_red_s___": {
+                    "opacity": 1
+                  },
+                  "__r____color_red_s___": {
+                    "opacity": 1
+                  },
+                  "Line_14": {
+                    "opacity": 1
+                  },
+                  "__p___q__r__": {
+                    "opacity": 1
+                  },
+                  "Line_15": {
+                    "opacity": 1
+                  },
+                  "___q__r__": {
+                    "opacity": 1
+                  },
+                  "__r__": {
+                    "opacity": 1
+                  },
+                  "____": {
+                    "opacity": 1
+                  },
+                  "___p__": {
+                    "opacity": 1
+                  },
+                  "__q__r__": {
+                    "opacity": 1
+                  },
+                  "____color_red_s___": {
+                    "opacity": 1
+                  },
+                  "Group_12": {
+                    "opacity": 1
+                  },
+                  "__or_we": {
+                    "opacity": 1
+                  },
+                  "Group_13": {
+                    "opacity": 1
+                  },
+                  "Group_132": {
+                    "opacity": 1
+                  },
+                  "___bigcup__C_in__F____neg__p_n_not_in__C__C__setminus___p_n__": {
+                    "opacity": 1
+                  },
+                  "___p_1____color_red_p_4___": {
+                    "opacity": 1
+                  },
+                  "Group_14": {
+                    "opacity": 1
+                  }
+                }
+              },
+              {
+                "type": "child",
+                "name": "resolution-ind2",
+                "id": "resolution_ind2",
+                "enabled": "enabled",
+                "merged": true,
+                "children": [
+                  {
+                    "type": "show",
+                    "id": "This_is_a_CNF__still_unsatisfiable__in_fewer_variables__so_",
+                    "enabled": "enabled",
+                    "name": "This is a CNF, still unsatisfiable, in fewer variables. So:",
+                    "merged": false,
+                    "keywords": [
+                      "This is a CNF, still unsatisfiable, in fewer variables. So:"
+                    ],
+                    "eventId": "2"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_123124",
+                    "enabled": "enabled",
+                    "name": "Group done",
+                    "merged": false,
+                    "keywords": [
+                      "Group done"
+                    ],
+                    "eventId": "4"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Either_never_occurs___done",
+                    "enabled": "enabled",
+                    "name": "Either never occurs — done",
+                    "merged": false,
+                    "keywords": [
+                      "Either never occurs — done"
+                    ],
+                    "eventId": "10"
+                  },
+                  {
+                    "type": "show",
+                    "id": "we_have_a_proof_of__",
+                    "enabled": "enabled",
+                    "name": ", or we have a proof of.",
+                    "merged": false,
+                    "keywords": [
+                      "we have a proof of .",
+                      ", or we have a proof of."
+                    ],
+                    "eventId": "13"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "Group_123124",
+                    "enabled": "enabled",
+                    "name": "Group done",
+                    "merged": true,
+                    "keywords": [
+                      "Group done"
+                    ],
+                    "eventId": "5"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_123125",
+                    "enabled": "enabled",
+                    "name": "Group not done",
+                    "merged": true,
+                    "keywords": [
+                      "Group not done"
+                    ],
+                    "eventId": "3"
+                  }
+                ],
+                "keywords": [
+                  "resolution-ind2"
+                ],
+                "eventId": "27",
+                "originalParams": {
+                  "This_is_a_CNF__still_unsatisfiable__in_fewer_variables__so_": {
+                    "opacity": 1
+                  },
+                  "Group_123125": {
+                    "opacity": 1
+                  },
+                  "Group_123124": {
+                    "opacity": 1
+                  },
+                  "Either_never_occurs___done": {
+                    "opacity": 1
+                  },
+                  "we_have_a_proof_of__": {
+                    "opacity": 1
+                  }
+                }
+              },
+              {
+                "type": "show",
+                "id": "Group_15",
+                "enabled": "enabled",
+                "name": "Group 15",
+                "merged": false,
+                "keywords": [
+                  "Group 15"
+                ],
+                "eventId": "28"
+              },
+              {
+                "type": "show",
+                "id": "_leq__2__n_1__1",
+                "enabled": "enabled",
+                "name": "\\text{of length}\\leq2^{n+1}-1",
+                "merged": false,
+                "keywords": [
+                  "\\text{of length}\\leq2^{n+1}-1"
+                ],
+                "eventId": "29"
+              },
+              {
+                "type": "show",
+                "id": "Text",
+                "enabled": "enabled",
+                "name": "\\text{length }1",
+                "merged": false,
+                "keywords": [
+                  "\\text{length }1"
+                ],
+                "eventId": "31"
+              },
+              {
+                "type": "show",
+                "id": "Text2",
+                "enabled": "enabled",
+                "name": "\\leq2^{1}-1",
+                "merged": false,
+                "keywords": [
+                  "\\leq2^{1}-1"
+                ],
+                "eventId": "32"
+              },
+              {
+                "type": "show",
+                "id": "_text_length___leq2_n",
+                "enabled": "enabled",
+                "name": "\\text{length} \\leq2^n - 1",
+                "merged": false,
+                "keywords": [
+                  "\\text{length} \\leq2^n - 1"
+                ],
+                "eventId": "33"
+              },
+              {
+                "type": "show",
+                "id": "__2__n_1__12",
+                "enabled": "enabled",
+                "name": "(≤ 2^{n+1}-1)",
+                "merged": false,
+                "keywords": [
+                  "(≤ 2^{n+1}-1)"
+                ],
+                "eventId": "37"
+              },
+              {
+                "type": "show",
+                "id": "_text_length___leq2_n2",
+                "enabled": "enabled",
+                "name": "\\text{length} \\leq2^n - 1",
+                "merged": false,
+                "keywords": [
+                  "\\text{length} \\leq2^n - 1"
+                ],
+                "eventId": "34"
+              },
+              {
+                "type": "show",
+                "id": "_text_length___leq2_n_2_n_1",
+                "enabled": "enabled",
+                "name": "\\text{length} \\leq2\\cdot(2^n-1)+1",
+                "merged": false,
+                "keywords": [
+                  "\\text{length} \\leq2\\cdot(2^n-1)+1"
+                ],
+                "eventId": "35"
+              },
+              {
+                "type": "show",
+                "id": "__2__n_1__1",
+                "enabled": "enabled",
+                "name": "= 2^{n+1}-1",
+                "merged": false,
+                "keywords": [
+                  "= 2^{n+1}-1"
+                ],
+                "eventId": "36"
+              }
+            ],
+            "keywords": [
+              "Claim: unsatisfiable ⇒ ∃resolution proof of □.",
+              "Proof of res-ref-complete"
+            ],
+            "eventId": "8",
+            "originalParams": {
+              "Base_case__n___0": {
+                "opacity": 1
+              },
+              "Only_clause_is___": {
+                "opacity": 1
+              },
+              "only_CNF_s_are____or_____": {
+                "opacity": 1
+              },
+              "Line_13": {
+                "opacity": 1
+              },
+              "n_0": {
+                "opacity": 1
+              },
+              "Group_132": {
+                "opacity": 1
+              },
+              "Inductive_step_": {
+                "opacity": 1
+              },
+              "Group_15": {
+                "opacity": 1
+              },
+              "_leq__2__n_1__1": {
+                "opacity": 1
+              },
+              "Text": {
+                "opacity": 1
+              },
+              "Text2": {
+                "opacity": 1
+              },
+              "_text_length___leq2_n": {
+                "opacity": 1
+              },
+              "_text_length___leq2_n2": {
+                "opacity": 1
+              },
+              "_text_length___leq2_n_2_n_1": {
+                "opacity": 1
+              },
+              "__2__n_1__1": {
+                "opacity": 1
+              },
+              "__2__n_1__12": {
+                "opacity": 1
+              },
+              "Exercise_1": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "Proof of pos-res-ref",
+            "id": "Proof_of_pos_res_ref",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "_leq__2__n_1__1",
+                "enabled": "enabled",
+                "name": "positive",
+                "merged": false,
+                "keywords": [
+                  "positive"
+                ],
+                "eventId": "21"
+              },
+              {
+                "type": "show",
+                "id": "Group_16",
+                "enabled": "enabled",
+                "name": "—",
+                "merged": false,
+                "keywords": [
+                  "—"
+                ],
+                "eventId": "22"
+              },
+              {
+                "type": "show",
+                "id": "Group_162",
+                "enabled": "enabled",
+                "name": "only CNF's are {} or {□}.",
+                "merged": false,
+                "keywords": [
+                  "Base case: ;",
+                  "only clause is □;",
+                  "only CNF's are {} or {□}.",
+                  "Proof: by induction on ."
+                ],
+                "eventId": "23"
+              },
+              {
+                "type": "show",
+                "id": "positive2",
+                "enabled": "enabled",
+                "name": "positive",
+                "merged": false,
+                "keywords": [
+                  "positive"
+                ],
+                "eventId": "24"
+              },
+              {
+                "type": "show",
+                "id": "Inductive_step_",
+                "enabled": "enabled",
+                "name": "Inductive step:",
+                "merged": false,
+                "keywords": [
+                  "Inductive step:"
+                ],
+                "eventId": "25"
+              },
+              {
+                "type": "child",
+                "name": "ind-pos 1",
+                "id": "ind_pos_1",
+                "enabled": "enabled",
+                "merged": false,
+                "children": [
+                  {
+                    "type": "show",
+                    "id": "positive",
+                    "enabled": "enabled",
+                    "name": "positive",
+                    "merged": false,
+                    "keywords": [
+                      "positive"
+                    ],
+                    "eventId": "5"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_13",
+                    "enabled": "enabled",
+                    "name": "Either never occurs — done",
+                    "merged": false,
+                    "keywords": [
+                      "Either never occurs — done"
+                    ],
+                    "eventId": "2"
+                  },
+                  {
+                    "type": "show",
+                    "id": "__or_",
+                    "enabled": "enabled",
+                    "name": ", or ",
+                    "merged": false,
+                    "keywords": [
+                      ", or "
+                    ],
+                    "eventId": "10"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "Group_not_done",
+                    "enabled": "enabled",
+                    "name": "Group done",
+                    "merged": true,
+                    "keywords": [
+                      "Group done"
+                    ],
+                    "eventId": "16"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_123125",
+                    "enabled": "enabled",
+                    "name": "Group not done",
+                    "merged": true,
+                    "keywords": [
+                      "Group not done"
+                    ],
+                    "eventId": "9"
+                  },
+                  {
+                    "type": "show",
+                    "id": "still",
+                    "enabled": "enabled",
+                    "name": "still",
+                    "merged": false,
+                    "keywords": [
+                      "still"
+                    ],
+                    "eventId": "6"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_132",
+                    "enabled": "enabled",
+                    "name": "we have a proof of .",
+                    "merged": false,
+                    "keywords": [
+                      "we have a proof of ."
+                    ],
+                    "eventId": "4"
+                  },
+                  {
+                    "type": "show",
+                    "id": "positive2",
+                    "enabled": "enabled",
+                    "name": "positive",
+                    "merged": true,
+                    "keywords": [
+                      "positive"
+                    ],
+                    "eventId": "11"
+                  }
+                ],
+                "keywords": [
+                  "This is a CNF, still unsatisfiable, in fewer variables. So:",
+                  "ind-pos 1"
+                ],
+                "eventId": "20",
+                "originalParams": {
+                  "Group_13": {
+                    "opacity": 1
+                  },
+                  "Group_132": {
+                    "opacity": 1
+                  },
+                  "positive": {
+                    "opacity": 1
+                  },
+                  "still": {
+                    "opacity": 1
+                  },
+                  "Group_123125": {
+                    "opacity": 1
+                  },
+                  "__or_": {
+                    "opacity": 1
+                  },
+                  "positive2": {
+                    "opacity": 1
+                  },
+                  "Group_not_done": {
+                    "opacity": 1
+                  }
+                }
+              },
+              {
+                "type": "child",
+                "name": "ind-pos 2",
+                "id": "ind_pos_2",
+                "enabled": "enabled",
+                "merged": true,
+                "children": [
+                  {
+                    "type": "show",
+                    "id": "Either_never_occurs___done",
+                    "enabled": "enabled",
+                    "name": "Either never occurs — done",
+                    "merged": false,
+                    "keywords": [
+                      "Either never occurs — done"
+                    ],
+                    "eventId": "2"
+                  },
+                  {
+                    "type": "show",
+                    "id": "__or_",
+                    "enabled": "enabled",
+                    "name": ", or ",
+                    "merged": false,
+                    "keywords": [
+                      ", or "
+                    ],
+                    "eventId": "3"
+                  },
+                  {
+                    "type": "hide",
+                    "id": "done",
+                    "enabled": "enabled",
+                    "name": "done",
+                    "merged": true,
+                    "keywords": [
+                      "done"
+                    ],
+                    "eventId": "1"
+                  },
+                  {
+                    "type": "show",
+                    "id": "not_done",
+                    "enabled": "enabled",
+                    "name": "not done",
+                    "merged": true,
+                    "keywords": [
+                      "not done"
+                    ],
+                    "eventId": "4"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_16",
+                    "enabled": "enabled",
+                    "name": "Group 16",
+                    "merged": false,
+                    "keywords": [
+                      "Group 16"
+                    ],
+                    "eventId": "7"
+                  },
+                  {
+                    "type": "show",
+                    "id": "still",
+                    "enabled": "enabled",
+                    "name": "still",
+                    "merged": false,
+                    "keywords": [
+                      "still"
+                    ],
+                    "eventId": "8"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_17",
+                    "enabled": "enabled",
+                    "name": "we have a proof of .",
+                    "merged": false,
+                    "keywords": [
+                      "we have a proof of ."
+                    ],
+                    "eventId": "9"
+                  }
+                ],
+                "keywords": [
+                  "This is a CNF, still unsatisfiable, in fewer variables. So:",
+                  "positive",
+                  "ind-pos 2"
+                ],
+                "eventId": "26",
+                "originalParams": {
+                  "done": {
+                    "opacity": 1
+                  },
+                  "Either_never_occurs___done": {
+                    "opacity": 1
+                  },
+                  "__or_": {
+                    "opacity": 1
+                  },
+                  "not_done": {
+                    "opacity": 1
+                  },
+                  "Group_16": {
+                    "opacity": 1
+                  },
+                  "still": {
+                    "opacity": 1
+                  },
+                  "Group_17": {
+                    "opacity": 1
+                  }
+                }
+              }
+            ],
+            "keywords": [
+              "Claim: unsatisfiable ⇒ ∃resolution proof of □.",
+              "Proof of pos-res-ref"
+            ],
+            "eventId": "18",
+            "originalParams": {
+              "_leq__2__n_1__1": {
+                "opacity": 1
+              },
+              "Group_16": {
+                "opacity": 1
+              },
+              "Group_162": {
+                "opacity": 1
+              },
+              "positive2": {
+                "opacity": 1
+              },
+              "Inductive_step_": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "Exercise_1",
+            "enabled": "enabled",
+            "name": "exo2",
+            "merged": false,
+            "keywords": [
+              "exo2"
+            ],
+            "eventId": "19"
+          },
+          {
+            "type": "show",
+            "id": "exo2",
+            "enabled": "enabled",
+            "name": "exo3",
+            "merged": true,
+            "keywords": [
+              "exo3"
+            ],
+            "eventId": "20"
+          }
+        ],
+        "keywords": [
+          "Resolution proof",
+          "Proof"
+        ],
+        "eventId": "3",
+        "originalParams": {
+          "Given_F_in_CNF_": {
+            "opacity": 1
+          },
+          "C_0__C_1__C_2___dots__C_m": {
+            "opacity": 1
+          },
+          "Text": {
+            "opacity": 1
+          },
+          "__clause_in_F": {
+            "opacity": 1
+          },
+          "C_0___C__0__cup___p__": {
+            "opacity": 1
+          },
+          "C_1___C__1__cup____neg__p__": {
+            "opacity": 1
+          },
+          "C_2___C__1__cup_C__2": {
+            "opacity": 1
+          },
+          "Exercise_1": {
+            "opacity": 1
+          },
+          "exo2": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "interpolant",
+        "id": "interpolant",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "show",
+            "id": "Group_39",
+            "enabled": "enabled",
+            "name": "\"Resolution has feasible monotone interpolation.\"",
+            "merged": false,
+            "keywords": [
+              "\"Resolution has feasible monotone interpolation.\""
+            ],
+            "eventId": "1"
+          },
+          {
+            "type": "show",
+            "id": "If_F_x__z____G_y__z__is_unsatisfiable__then_there_is_a_monotone_I_z_",
+            "enabled": "enabled",
+            "name": "Input: F(x, z) ∧ G(y, z) is unsatisfiable C1, ..., Cm is a resolution refutation z only appears positively in F",
+            "merged": false,
+            "keywords": [
+              "Input: F(x, z) ∧ G(y, z) is unsatisfiable C1, ..., Cm is a resolution refutation z only appears positively in F"
+            ],
+            "eventId": "2"
+          },
+          {
+            "type": "show",
+            "id": "Text2",
+            "enabled": "enabled",
+            "name": "Output: straight-line programs e1(z), ..., em(z),",
+            "merged": false,
+            "keywords": [
+              "Output: straight-line programs e1(z), ..., em(z),"
+            ],
+            "eventId": "4"
+          },
+          {
+            "type": "show",
+            "id": "Group_38",
+            "enabled": "enabled",
+            "name": "Ci ∈ F  ei = false",
+            "merged": false,
+            "keywords": [
+              "Ci ∈ F  ei = false",
+              "Ci ∈ G  ei = true"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "Group_382",
+            "enabled": "enabled",
+            "name": "Ci = Cj\\{z} ∨ Ck\\{¬z}  ei = (ej ∨ z) ∧ ek",
+            "merged": false,
+            "keywords": [
+              "Ci = Cj\\{x} ∪ Ck\\{¬x}  ei = ej ∨ ek",
+              "Ci = Cj\\{y} ∪ Ck\\{¬y}  ei = ej ∧ ek",
+              "Ci = Cj\\{z} ∪ Ck\\{¬z}  ei = (ej ∨ z) ∧ ek",
+              "Ci = Cj\\{z} ∨ Ck\\{¬z}  ei = (ej ∨ z) ∧ ek"
+            ],
+            "eventId": "6"
+          },
+          {
+            "type": "show",
+            "id": "z_only_appears_positively",
+            "enabled": "enabled",
+            "name": "z only appears positively in ei",
+            "merged": false,
+            "keywords": [
+              "z only appears positively in ei"
+            ],
+            "eventId": "7"
+          },
+          {
+            "type": "show",
+            "id": "monotone_in_z__satisfying",
+            "enabled": "enabled",
+            "name": "monotone in z,",
+            "merged": false,
+            "keywords": [
+              "monotone in z,"
+            ],
+            "eventId": "8"
+          },
+          {
+            "type": "show",
+            "id": "Group_383",
+            "enabled": "enabled",
+            "name": "v⟦ei⟧ = 0 and v⟦Ci|x, +z⟧ = 0 ⟹ v⟦F⟧ = 0",
+            "merged": false,
+            "keywords": [
+              "v⟦ei⟧ = 0 and v⟦Ci|x,+z⟧ = 0 ⟹ v⟦F⟧ = 0",
+              "such that:",
+              "v⟦ei⟧ = 0 and v⟦Ci|x, +z⟧ = 0 ⟹ v⟦F⟧ = 0"
+            ],
+            "eventId": "9"
+          },
+          {
+            "type": "show",
+            "id": "z_only_appears_positively_in_ei",
+            "enabled": "enabled",
+            "name": "discard any y and any ¬ z",
+            "merged": false,
+            "keywords": [
+              "discard any y and any ¬ z"
+            ],
+            "eventId": "13"
+          },
+          {
+            "type": "show",
+            "id": "v_ei____0_and_v_Ci_x___z____0",
+            "enabled": "enabled",
+            "name": "v⟦ei⟧ = 1 and v⟦Ci|y, ±z⟧ = 0 ⟹",
+            "merged": false,
+            "keywords": [
+              "v⟦ei⟧ = 1 and v⟦Ci|y, ±z⟧ = 0 ⟹"
+            ],
+            "eventId": "10"
+          },
+          {
+            "type": "show",
+            "id": "discard_any_y_and_any___z",
+            "enabled": "enabled",
+            "name": "discard any x",
+            "merged": false,
+            "keywords": [
+              "discard any x"
+            ],
+            "eventId": "14"
+          },
+          {
+            "type": "show",
+            "id": "Text",
+            "enabled": "enabled",
+            "name": "v⟦G⟧ = 0",
+            "merged": false,
+            "keywords": [
+              "v⟦G⟧ = 0"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "show",
+            "id": "Group_40",
+            "enabled": "enabled",
+            "name": "Thanks to Mahesh Viswanathan for the correct and convenient inductive hypothesis!",
+            "merged": false,
+            "keywords": [
+              "Thanks to Mahesh Viswanathan for the correct and convenient inductive hypothesis!",
+              "https://courses.grainger.illinois.edu/cs498mv/fa2018/CraigInterpolation.pdf"
+            ],
+            "eventId": "25"
+          },
+          {
+            "type": "show",
+            "id": "z_only_appears_positively_in_F__s_t_____I_z____F_x__z__and_I_z____G_y__z_",
+            "enabled": "enabled",
+            "name": "so ⊧ ¬em(z) → F(x, z) and ⊧ em(z) → G(y, z)",
+            "merged": false,
+            "keywords": [
+              "so ⊧ ¬em(z) → F(x, z) and ⊧ em(z) → G(y, z)"
+            ],
+            "eventId": "12"
+          },
+          {
+            "type": "child",
+            "name": "case 1",
+            "id": "case_1",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "never",
+                "enabled": "enabled",
+                "name": "never",
+                "merged": false,
+                "keywords": [
+                  "never"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "yes__vacuously",
+                "enabled": "enabled",
+                "name": "yes, vacuously",
+                "merged": false,
+                "keywords": [
+                  "yes, vacuously"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "Group_38",
+                "enabled": "enabled",
+                "name": "= Ci",
+                "merged": false,
+                "keywords": [
+                  "= Ci"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "yes__as_Ci_is_a_clause_in_F",
+                "enabled": "enabled",
+                "name": "yes, as Ci is a clause in F",
+                "merged": false,
+                "keywords": [
+                  "yes, as Ci is a clause in F"
+                ],
+                "eventId": "4"
+              }
+            ],
+            "keywords": [
+              "v⟦ei⟧ = 0 and v⟦Ci|x,+z⟧ = 0 ⟹ v⟦F⟧ = 0",
+              "Ci ∈ F  ei = false",
+              "v⟦ei⟧ = 1 and v⟦Ci|y, ±z⟧ = 0 ⟹",
+              "case 1"
+            ],
+            "eventId": "3",
+            "originalParams": {
+              "never": {
+                "opacity": 1
+              },
+              "Group_38": {
+                "opacity": 1
+              },
+              "yes__vacuously": {
+                "opacity": 1
+              },
+              "yes__as_Ci_is_a_clause_in_F": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "case 2",
+            "id": "case_2",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_382",
+                "enabled": "enabled",
+                "name": "yes, vacuously",
+                "merged": false,
+                "keywords": [
+                  "never",
+                  "yes, vacuously"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Group_38",
+                "enabled": "enabled",
+                "name": "yes, as Ci is a clause in G",
+                "merged": false,
+                "keywords": [
+                  "= Ci",
+                  "yes, as Ci is a clause in G"
+                ],
+                "eventId": "2"
+              }
+            ],
+            "keywords": [
+              "Ci ∈ G  ei = true",
+              "v⟦ei⟧ = 0 and v⟦Ci|x,+z⟧ = 0 ⟹ v⟦F⟧ = 0",
+              "v⟦ei⟧ = 1 and v⟦Ci|y, ±z⟧ = 0 ⟹",
+              "case 2"
+            ],
+            "eventId": "16",
+            "originalParams": {
+              "Group_382": {
+                "opacity": 1
+              },
+              "Group_38": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "case 3",
+            "id": "case_3",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [],
+            "keywords": [
+              "Ci = Cj\\{x} ∪ Ck\\{¬ x}  ei = ej ∨ ek",
+              "v⟦ei⟧ = 0 and v⟦Ci|x,+z⟧ = 0 ⟹ v⟦F⟧ = 0",
+              "v⟦ei⟧ = 1 and v⟦Ci|y, ±z⟧ = 0 ⟹",
+              "Assume: v⟦ei⟧ = 0 — so v⟦ej⟧ = 0 and v⟦ek⟧ = 0; v⟦Ci|x,+z⟧ = 0 — so v⟦Cj|x,+z \\ {x}⟧ = 0 and v⟦Ck|x,+z \\ {¬ x}⟧ = 0.",
+              "Then: if v⟦x⟧ = 0 then v⟦Cj|x,+z⟧ = 0, so v⟦F⟧ = 0 by induction; if v⟦x⟧ = 1 then v⟦Ck|x,+z⟧ = 0, so v⟦F⟧ = 0 by induction.",
+              "Note Ci|x,+z = Cj\\{x}|x,+z ∪ Ck\\{¬ x}|x,+z",
+              "= Cj|x,+z\\{x} ∪ Ck|x,+z\\{¬ x}",
+              "Assume: v⟦Ci|y,z⟧ = 0 — so v⟦Cj|y,z⟧ = 0 and v⟦Ck|y,z⟧ = 0; v⟦ei⟧ = 1 — so either v⟦ej⟧ = 1, which gives v⟦G⟧ = 0 by induction; or v⟦ek⟧ = 1, which gives v⟦G⟧ = 0 by induction.",
+              "Note Ci|y,z = Cj|y,z ∪ Ck|y,z",
+              "case 3"
+            ],
+            "eventId": "17",
+            "originalParams": {
+              "Assume__v_ei____0___so_v_ej____0_and_v_ek____0__v_Ci_x__z____0___so_v_Cj_x__z____x_____0_and_v_Ck_x__z______x_____0_": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "case 4",
+            "id": "case_4",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [],
+            "keywords": [
+              "Ci = Cj\\{y} ∪ Ck\\{¬y}  ei = ej ∧ ek",
+              "v⟦ei⟧ = 0 and v⟦Ci|x,+z⟧ = 0 ⟹ v⟦F⟧ = 0",
+              "v⟦ei⟧ = 1 and v⟦Ci|y, ±z⟧ = 0 ⟹",
+              "v⟦Cj|x,+z⟧ = 0 and v⟦Ck|y,+z⟧ = 0; v⟦ej⟧ = 0 or v⟦ek⟧ = 0; so v⟦F⟧ = 0 by induction.",
+              "v⟦Cj|y,z\\ {y}⟧ = 0 and v⟦Ck|y,z\\ {¬ y}⟧ = 0; v⟦ej⟧ = 1 and v⟦ek⟧ = 1; so v⟦G⟧ = 0 by induction.",
+              "case 4"
+            ],
+            "eventId": "23",
+            "originalParams": {}
+          },
+          {
+            "type": "child",
+            "name": "case 5",
+            "id": "case_5",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [],
+            "keywords": [
+              "Ci = Cj\\{z} ∪ Ck\\{¬z}  ei = (ej ∨ z) ∧ ek",
+              "v⟦ei⟧ = 0 and v⟦Ci|x,+z⟧ = 0 ⟹ v⟦F⟧ = 0",
+              "v⟦ei⟧ = 1 and v⟦Ci|y, ±z⟧ = 0 ⟹",
+              "Assume: v⟦Ci|x,+z⟧ = 0 — so v⟦Cj|x,+z \\ {z}⟧ = 0 and v⟦Ck|x,+z⟧ = 0. v⟦ei⟧ = 0 — so (v⟦ej⟧ = 0 and v⟦z⟧ = 0) or v⟦ek⟧ = 0;",
+              "Then: v⟦Cj|x,+z⟧ = 0, so v⟦F⟧ = 0 by induction.",
+              "Then: v⟦F⟧ = 0 by induction.",
+              "Assume: v⟦Ci|y,z⟧ = 0 — so v⟦Cj|y,z \\ {z}⟧ = 0 and v⟦Ck|y,z \\ {¬ z}⟧ = 0. v⟦ei⟧ = 1 — so (v⟦ej⟧ = 1 or v⟦z⟧ = 1) and v⟦ek⟧ = 1 .",
+              "Then: either v⟦z⟧ = 0, so v⟦Cj|y,z⟧ = 0, v⟦G⟧ = 1; or v⟦z⟧ = 1 ... ",
+              "Then: v⟦Ck|y,z⟧ = 0, so v⟦G⟧ = 1.",
+              "case 5"
+            ],
+            "eventId": "24",
+            "originalParams": {}
+          },
+          {
+            "type": "show",
+            "id": "Exercise_5",
+            "enabled": "enabled",
+            "name": "Exercise 5",
+            "merged": false,
+            "keywords": [
+              "Exercise 5"
+            ],
+            "eventId": "20"
+          }
+        ],
+        "keywords": [
+          "Interpolant",
+          "interpolant"
+        ],
+        "eventId": "5",
+        "originalParams": {
+          "Group_39": {
+            "opacity": 1
+          },
+          "If_F_x__z____G_y__z__is_unsatisfiable__then_there_is_a_monotone_I_z_": {
+            "opacity": 1
+          },
+          "Text2": {
+            "opacity": 1
+          },
+          "Group_38": {
+            "opacity": 1
+          },
+          "Group_382": {
+            "opacity": 1
+          },
+          "z_only_appears_positively": {
+            "opacity": 1
+          },
+          "monotone_in_z__satisfying": {
+            "opacity": 1
+          },
+          "Group_383": {
+            "opacity": 1
+          },
+          "v_ei____0_and_v_Ci_x___z____0": {
+            "opacity": 1
+          },
+          "Text": {
+            "opacity": 1
+          },
+          "z_only_appears_positively_in_F__s_t_____I_z____F_x__z__and_I_z____G_y__z_": {
+            "opacity": 1
+          },
+          "z_only_appears_positively_in_ei": {
+            "opacity": 1
+          },
+          "discard_any_y_and_any___z": {
+            "opacity": 1
+          },
+          "Exercise_5": {
+            "opacity": 1
+          },
+          "Group_40": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "SAT",
+        "id": "SAT",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "child",
+            "name": "Horn",
+            "id": "Horn",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_17",
+                "enabled": "enabled",
+                "name": "n ≥ 1 negative literals",
+                "merged": false,
+                "keywords": [
+                  "1 positive literal",
+                  "0 negative literals",
+                  "n ≥ 1 negative literals",
+                  "0 positive literals"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "p1_______pn___q",
+                "enabled": "enabled",
+                "name": "p1 ∨ ⋯ ∨ pn → q",
+                "merged": false,
+                "keywords": [
+                  "p1 ∨ ⋯ ∨ pn → q"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "p1_______pn___false",
+                "enabled": "enabled",
+                "name": "p1 ∨ ⋯ ∨ pn → false",
+                "merged": false,
+                "keywords": [
+                  "p1 ∨ ⋯ ∨ pn → false"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "true___q",
+                "enabled": "enabled",
+                "name": "true → q",
+                "merged": false,
+                "keywords": [
+                  "true → q"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "true___false",
+                "enabled": "enabled",
+                "name": "true → false",
+                "merged": false,
+                "keywords": [
+                  "true → false"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "if_____return_UNSAT",
+                "enabled": "enabled",
+                "name": "if ∃ :  return UNSAT",
+                "merged": false,
+                "keywords": [
+                  "if ∃ :  return UNSAT"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "if_____consider_F____F_true_q___which_is_equisatisfiable_with_F_",
+                "enabled": "enabled",
+                "name": "if ∃ : consider F' = F[true/q], which has 1 fewer variable and is equisatisfiable with F.",
+                "merged": false,
+                "keywords": [
+                  "if ∃ : consider F' = F[true/q], which has 1 fewer variable and is equisatisfiable with F."
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "otherwise_all_of_this_form__return_SAT__with_pi____0_",
+                "enabled": "enabled",
+                "name": "otherwise ∀ of this form: return SAT (with pi := 0)",
+                "merged": false,
+                "keywords": [
+                  "otherwise ∀ of this form: return SAT (with pi := 0)"
+                ],
+                "eventId": "8"
+              }
+            ],
+            "keywords": [
+              "Horn formula: ≤ 1 positive literal in each clause",
+              "Horn"
+            ],
+            "eventId": "4",
+            "originalParams": {
+              "Group_17": {
+                "opacity": 1
+              },
+              "p1_______pn___q": {
+                "opacity": 1
+              },
+              "p1_______pn___false": {
+                "opacity": 1
+              },
+              "true___q": {
+                "opacity": 1
+              },
+              "true___false": {
+                "opacity": 1
+              },
+              "if_____return_UNSAT": {
+                "opacity": 1
+              },
+              "if_____consider_F____F_true_q___which_is_equisatisfiable_with_F_": {
+                "opacity": 1
+              },
+              "otherwise_all_of_this_form__return_SAT__with_pi____0_": {
+                "opacity": 1
+              },
+              "_bad__unit_clause": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "renamable_Horn",
+            "enabled": "enabled",
+            "name": "renamable Horn",
+            "merged": false,
+            "keywords": [
+              "renamable Horn"
+            ],
+            "eventId": "7"
+          },
+          {
+            "type": "child",
+            "name": "flip-Horn",
+            "id": "flip_Horn",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "_____p___q____r____s_____",
+                "enabled": "enabled",
+                "name": "⋯ ∧ (¬p ∨ ¬q ∨ r ∨ s) ∧ ⋯",
+                "merged": false,
+                "keywords": [
+                  "⋯ ∧ (¬p ∨ ¬q ∨ r ∨ s) ∧ ⋯"
+                ],
+                "eventId": "22"
+              },
+              {
+                "type": "show",
+                "id": "Use_fp_to_mean__do_this_flip",
+                "enabled": "enabled",
+                "name": "Use -p to mean: do this flip",
+                "merged": false,
+                "keywords": [
+                  "Use -p to mean: do this flip"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "Group_18",
+                "enabled": "enabled",
+                "name": "need to flip r, s, or both",
+                "merged": false,
+                "keywords": [
+                  "need to flip r, s, or both"
+                ],
+                "eventId": "11"
+              },
+              {
+                "type": "show",
+                "id": "_r____s",
+                "enabled": "enabled",
+                "name": "-r ∨ -s",
+                "merged": false,
+                "keywords": [
+                  "-r ∨ -s"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "Group_19",
+                "enabled": "enabled",
+                "name": "don't flip q, or do but flip r too",
+                "merged": false,
+                "keywords": [
+                  "don't flip q, or do but flip r too"
+                ],
+                "eventId": "13"
+              },
+              {
+                "type": "show",
+                "id": "fp___fq",
+                "enabled": "enabled",
+                "name": "¬-q ∨ -r",
+                "merged": false,
+                "keywords": [
+                  "¬-q ∨ -r"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "Group_20",
+                "enabled": "enabled",
+                "name": "just don't flip both p and q",
+                "merged": false,
+                "keywords": [
+                  "just don't flip both p and q"
+                ],
+                "eventId": "15"
+              },
+              {
+                "type": "show",
+                "id": "_p____q",
+                "enabled": "enabled",
+                "name": "¬-p ∨ ¬-q",
+                "merged": false,
+                "keywords": [
+                  "¬-p ∨ ¬-q"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "show",
+                "id": "Group_182",
+                "enabled": "enabled",
+                "name": "Group 18",
+                "merged": false,
+                "keywords": [
+                  "Group 18"
+                ],
+                "eventId": "17"
+              },
+              {
+                "type": "show",
+                "id": "Group_192",
+                "enabled": "enabled",
+                "name": "where we view -(¬p) := ¬-p.",
+                "merged": false,
+                "keywords": [
+                  "where we view -(¬p) := ¬-p."
+                ],
+                "eventId": "19"
+              },
+              {
+                "type": "show",
+                "id": "This_is_a_2_CNF__with_O__literals___clauses_",
+                "enabled": "enabled",
+                "name": "This is a 2-CNF, with O(#literals²) clauses.",
+                "merged": false,
+                "keywords": [
+                  "This is a 2-CNF, with O(#literals²) clauses."
+                ],
+                "eventId": "21"
+              },
+              {
+                "type": "show",
+                "id": "Exercise_5",
+                "enabled": "enabled",
+                "name": "Exercise 5",
+                "merged": false,
+                "keywords": [
+                  "Exercise 5"
+                ],
+                "eventId": "20"
+              }
+            ],
+            "keywords": [
+              "after p ↔ ¬p for some p's,  ≤ 1 positive literal in each clause",
+              "Horn up to flips:",
+              "flip-Horn"
+            ],
+            "eventId": "2",
+            "originalParams": {
+              "Use_fp_to_mean__do_this_flip": {
+                "opacity": 1
+              },
+              "Group_18": {
+                "opacity": 1
+              },
+              "_r____s": {
+                "opacity": 1
+              },
+              "Group_19": {
+                "opacity": 1
+              },
+              "fp___fq": {
+                "opacity": 1
+              },
+              "Group_20": {
+                "opacity": 1
+              },
+              "_p____q": {
+                "opacity": 1
+              },
+              "Group_182": {
+                "opacity": 1
+              },
+              "Group_192": {
+                "opacity": 1
+              },
+              "Exercise_5": {
+                "opacity": 1
+              },
+              "This_is_a_2_CNF__with_O__literals___clauses_": {
+                "opacity": 1
+              },
+              "_____p___q____r____s_____": {
+                "opacity": 1
+              },
+              "Group_193": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "Walk-Horn",
+            "id": "Walk_Horn",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Krom__use_resolution",
+                "enabled": "enabled",
+                "name": "(Krom '67) use resolution",
+                "merged": false,
+                "keywords": [
+                  "(Krom '67) use resolution"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Tarjan_et_al___SCC_s_of_implication_graph",
+                "enabled": "enabled",
+                "name": "(Tarjan et al. '79) SCC's of implication graph",
+                "merged": false,
+                "keywords": [
+                  "(Tarjan et al. '79) SCC's of implication graph"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Walk_SAT",
+                "enabled": "enabled",
+                "name": "Walk-SAT",
+                "merged": false,
+                "keywords": [
+                  "Walk-SAT"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "Group_32",
+                "enabled": "enabled",
+                "name": "100",
+                "merged": false,
+                "keywords": [
+                  "100",
+                  "001",
+                  "000",
+                  "010",
+                  "111"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "some_satisfying_assignment",
+                "enabled": "enabled",
+                "name": "some satisfying assignment",
+                "merged": false,
+                "keywords": [
+                  "some satisfying assignment"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "current_assignment",
+                "enabled": "enabled",
+                "name": "current assignment",
+                "merged": false,
+                "keywords": [
+                  "current assignment"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Group_323",
+                "enabled": "enabled",
+                "name": "closer",
+                "merged": false,
+                "keywords": [
+                  "closer"
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "show",
+                "id": "Group_33",
+                "enabled": "enabled",
+                "name": "farther",
+                "merged": false,
+                "keywords": [
+                  "farther"
+                ],
+                "eventId": "11"
+              },
+              {
+                "type": "show",
+                "id": "Pick_an_unsatisfied_clause___pick_a_literal___flip_it_",
+                "enabled": "enabled",
+                "name": "Repeat 2n2 times: Pick an unsatisfied clause;  pick a literal;  flip it.",
+                "merged": false,
+                "keywords": [
+                  "Repeat 2n2 times: Pick an unsatisfied clause;  pick a literal;  flip it."
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "Group_37",
+                "enabled": "enabled",
+                "name": "0",
+                "merged": false,
+                "keywords": [
+                  "0",
+                  "1",
+                  "2",
+                  "3"
+                ],
+                "eventId": "13"
+              },
+              {
+                "type": "show",
+                "id": "__0_5",
+                "enabled": "enabled",
+                "name": "≥ 0.5",
+                "merged": false,
+                "keywords": [
+                  "≥ 0.5"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "__0_55",
+                "enabled": "enabled",
+                "name": "≤ 0.5",
+                "merged": false,
+                "keywords": [
+                  "≤ 0.5"
+                ],
+                "eventId": "15"
+              },
+              {
+                "type": "show",
+                "id": "Group_372",
+                "enabled": "enabled",
+                "name": "≥ 0.5",
+                "merged": false,
+                "keywords": [
+                  "≥ 0.5",
+                  "≤ 0.5"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "show",
+                "id": "Text",
+                "enabled": "enabled",
+                "name": "here with probability ≥ 1/2",
+                "merged": false,
+                "keywords": [
+                  "here with probability ≥ 1/2"
+                ],
+                "eventId": "17"
+              },
+              {
+                "type": "show",
+                "id": "also_works_for_Horn_CNF_",
+                "enabled": "enabled",
+                "name": "— also works for Horn-CNF.",
+                "merged": false,
+                "keywords": [
+                  "— also works for Horn-CNF."
+                ],
+                "eventId": "18"
+              },
+              {
+                "type": "show",
+                "id": "pi___0_is_satisfying__as_there_are_no_unit_clauses",
+                "enabled": "enabled",
+                "name": "* ↦ 0 is satisfying, as there are no unit clauses",
+                "merged": false,
+                "keywords": [
+                  "* ↦ 0 is satisfying, as there are no unit clauses"
+                ],
+                "eventId": "19"
+              },
+              {
+                "type": "show",
+                "id": "p1_______pk___x",
+                "enabled": "enabled",
+                "name": "p1 ∧ ⋯ ∧ pk → x",
+                "merged": false,
+                "keywords": [
+                  "p1 ∧ ⋯ ∧ pk → x"
+                ],
+                "eventId": "20"
+              },
+              {
+                "type": "show",
+                "id": "k___1_variables_set_to_1",
+                "enabled": "enabled",
+                "name": "k ≥ 1 variables set to 1; x to 0",
+                "merged": false,
+                "keywords": [
+                  "k ≥ 1 variables set to 1; x to 0"
+                ],
+                "eventId": "21"
+              },
+              {
+                "type": "show",
+                "id": "this_decreases_the_distance_as_long_as_x____false_possibly__was_not_picked",
+                "enabled": "enabled",
+                "name": "this is closer to * ↦ 0 as long as x (= false possibly) was not picked",
+                "merged": false,
+                "keywords": [
+                  "this is closer to * ↦ 0 as long as x (= false possibly) was not picked"
+                ],
+                "eventId": "22"
+              },
+              {
+                "type": "show",
+                "id": "Text2",
+                "enabled": "enabled",
+                "name": "also",
+                "merged": false,
+                "keywords": [
+                  "also"
+                ],
+                "eventId": "24"
+              },
+              {
+                "type": "show",
+                "id": "Exercise_6",
+                "enabled": "enabled",
+                "name": "Exercise 6",
+                "merged": false,
+                "keywords": [
+                  "Exercise 6"
+                ],
+                "eventId": "23"
+              }
+            ],
+            "keywords": [
+              "⋯ ∧ (p ∨ q) ∧ ⋯",
+              "2-CNF:",
+              "Walk-Horn"
+            ],
+            "eventId": "1",
+            "originalParams": {
+              "Krom__use_resolution": {
+                "opacity": 1
+              },
+              "Tarjan_et_al___SCC_s_of_implication_graph": {
+                "opacity": 1
+              },
+              "Walk_SAT": {
+                "opacity": 1
+              },
+              "Group_32": {
+                "opacity": 1
+              },
+              "some_satisfying_assignment": {
+                "opacity": 1
+              },
+              "current_assignment": {
+                "opacity": 1
+              },
+              "Group_323": {
+                "opacity": 1
+              },
+              "Group_33": {
+                "opacity": 1
+              },
+              "Pick_an_unsatisfied_clause___pick_a_literal___flip_it_": {
+                "opacity": 1
+              },
+              "Group_37": {
+                "opacity": 1
+              },
+              "__0_5": {
+                "opacity": 1
+              },
+              "__0_55": {
+                "opacity": 1
+              },
+              "Group_372": {
+                "opacity": 1
+              },
+              "Text": {
+                "opacity": 1
+              },
+              "also_works_for_Horn_CNF_": {
+                "opacity": 1
+              },
+              "pi___0_is_satisfying__as_there_are_no_unit_clauses": {
+                "opacity": 1
+              },
+              "p1_______pk___x": {
+                "opacity": 1
+              },
+              "k___1_variables_set_to_1": {
+                "opacity": 1
+              },
+              "this_decreases_the_distance_as_long_as_x____false_possibly__was_not_picked": {
+                "opacity": 1
+              },
+              "Exercise_6": {
+                "opacity": 1
+              },
+              "Text2": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "_2_occurrence_CNF2",
+            "enabled": "enabled",
+            "name": "at-most-twice-CNF",
+            "merged": false,
+            "keywords": [
+              "at-most-twice-CNF"
+            ],
+            "eventId": "8"
+          },
+          {
+            "type": "child",
+            "name": "2-occurrence",
+            "id": "2_occurrence",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_20",
+                "enabled": "enabled",
+                "name": "F = ⋯ ∧ (p ∨ ⋯0) ∧ (p ∨ ⋯1)",
+                "merged": false,
+                "keywords": [
+                  "F = ⋯ ∧ (p ∨ ⋯0) ∧ (p ∨ ⋯1)",
+                  "no p here"
+                ],
+                "eventId": "19"
+              },
+              {
+                "type": "show",
+                "id": "Group_23",
+                "enabled": "enabled",
+                "name": "F = ⋯ ∧ (p ∨ ⋯0)",
+                "merged": false,
+                "keywords": [
+                  "F = ⋯ ∧ (p ∨ ⋯0)",
+                  "no p here"
+                ],
+                "eventId": "20"
+              },
+              {
+                "type": "show",
+                "id": "Group_26",
+                "enabled": "enabled",
+                "name": "If p only appears positively,",
+                "merged": false,
+                "keywords": [
+                  "If p only appears positively, then",
+                  "F' = ⋯ = F[true/p]",
+                  "no p here",
+                  "has fewer variables; still 2-use; equisatisfiable:",
+                  "If p only appears positively,"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Group_38",
+                "enabled": "enabled",
+                "name": "v",
+                "merged": false,
+                "keywords": [
+                  "v",
+                  "p",
+                  "⋮",
+                  "0"
+                ],
+                "eventId": "18"
+              },
+              {
+                "type": "show",
+                "id": "Group_264",
+                "enabled": "enabled",
+                "name": "v'",
+                "merged": true,
+                "keywords": [
+                  "v'",
+                  "⋮"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "Group_265",
+                "enabled": "enabled",
+                "name": "Group 26",
+                "merged": false,
+                "keywords": [
+                  "Group 26"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Group_27",
+                "enabled": "enabled",
+                "name": "p ↦ 1",
+                "merged": false,
+                "keywords": [
+                  "p ↦ 1"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "Group_262",
+                "enabled": "enabled",
+                "name": "Symmetric if p only appears negatively.",
+                "merged": false,
+                "keywords": [
+                  "F = ⋯ ∧ (¬p ∨ p ∨ ⋯0)",
+                  "no p here",
+                  "Symmetric if p only appears negatively or trivially.",
+                  "Symmetric if p only appears negatively."
+                ],
+                "eventId": "17"
+              },
+              {
+                "type": "show",
+                "id": "Group_272",
+                "enabled": "enabled",
+                "name": "F' = ⋯ ∧ (⋯0 ∨ ⋯1)",
+                "merged": false,
+                "keywords": [
+                  "F' = ⋯ ∧ (⋯0 ∨ ⋯1)",
+                  "no p here"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "v_satisfies_F___v____v___p__satisfies_F__",
+                "enabled": "enabled",
+                "name": "v satisfies F ⟹ v' = v|\\{p} satisfies F':",
+                "merged": false,
+                "keywords": [
+                  "v satisfies F ⟹ v' = v|\\{p} satisfies F':"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "because_resolution_is_sound_",
+                "enabled": "enabled",
+                "name": "because resolution is sound.",
+                "merged": false,
+                "keywords": [
+                  "because resolution is sound."
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "v__satisfies_F____v__satisfies_v__satisfies",
+                "enabled": "enabled",
+                "name": "v' satisfies F' ⟹ v' satisfies ⋯0",
+                "merged": false,
+                "keywords": [
+                  "v' satisfies F' ⟹ v' satisfies ⋯0"
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "show",
+                "id": "__then_v__p___0__satisfies_F_",
+                "enabled": "enabled",
+                "name": "— then v'[p↦0] satisfies F;",
+                "merged": false,
+                "keywords": [
+                  "— then v'[p↦0] satisfies F;"
+                ],
+                "eventId": "11"
+              },
+              {
+                "type": "show",
+                "id": "v__satisfies__1___then_v__p_1__satisfies_F_",
+                "enabled": "enabled",
+                "name": "v' satisfies ⋯1 — then v'[p↦1] satisfies F.",
+                "merged": false,
+                "keywords": [
+                  "v' satisfies ⋯1 — then v'[p↦1] satisfies F."
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "Can_eliminate_variables__without_the_size_blowing_up",
+                "enabled": "enabled",
+                "name": "Can eliminate variables one by one, without the size blowing up",
+                "merged": false,
+                "keywords": [
+                  "Can eliminate variables one by one, without the size blowing up"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "show",
+                "id": "Exercise_7",
+                "enabled": "enabled",
+                "name": "Exercise 7",
+                "merged": false,
+                "keywords": [
+                  "Exercise 7"
+                ],
+                "eventId": "15"
+              }
+            ],
+            "keywords": [
+              "F = ⋯ ∧ (p ∨ ⋯0) ∧ (¬p ∨ ⋯1)",
+              "no p here",
+              "2-occurrence"
+            ],
+            "eventId": "5",
+            "originalParams": {
+              "Group_26": {
+                "opacity": 1
+              },
+              "Group_264": {
+                "opacity": 1
+              },
+              "Group_265": {
+                "opacity": 1
+              },
+              "Group_27": {
+                "opacity": 1
+              },
+              "v_satisfies_F___v____v___p__satisfies_F__": {
+                "opacity": 1
+              },
+              "because_resolution_is_sound_": {
+                "opacity": 1
+              },
+              "v__satisfies_F____v__satisfies_v__satisfies": {
+                "opacity": 1
+              },
+              "__then_v__p___0__satisfies_F_": {
+                "opacity": 1
+              },
+              "v__satisfies__1___then_v__p_1__satisfies_F_": {
+                "opacity": 1
+              },
+              "Group_272": {
+                "opacity": 1
+              },
+              "Exercise_7": {
+                "opacity": 1
+              },
+              "Can_eliminate_variables__without_the_size_blowing_up": {
+                "opacity": 1
+              },
+              "Group_262": {
+                "opacity": 1
+              },
+              "Group_38": {
+                "opacity": 1
+              },
+              "Group_20": {
+                "opacity": 1
+              },
+              "Group_23": {
+                "opacity": 1
+              }
+            }
+          }
+        ],
+        "keywords": [
+          "Easy instances of SAT",
+          "Horn-CNF",
+          "2-CNF",
+          "SAT"
+        ],
+        "eventId": "4",
+        "originalParams": {
+          "renamable_Horn": {
+            "opacity": 1
+          },
+          "_2_occurrence_CNF2": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "show",
+        "id": "Group_32",
+        "enabled": "enabled",
+        "name": "Feedback!",
+        "merged": false,
+        "keywords": [
+          "Feedback!"
+        ],
+        "eventId": "6"
+      }
+    ],
+    "keywords": [
+      "Logic & Proof",
+      "Sheet 1",
+      "Jingjie Yang HT’26",
+      "Problems and solutions courtesy of James Worrell",
+      "Root"
+    ],
+    "eventId": "root",
+    "originalParams": {
+      "Group_32": {
+        "opacity": 1
+      }
+    }
+  },
+  "treeTimeLine": [],
+  "chronicleTimeLine": []
+}
