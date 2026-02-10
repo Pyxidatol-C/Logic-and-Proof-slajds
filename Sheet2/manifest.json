@@ -1,0 +1,2641 @@
+{
+  "version": 3.1,
+  "presentation": "LnP-Sheet2",
+  "slideDict": {
+    "new_slide": "root",
+    "Compactness": "Exo1",
+    "Cutting_planes": "CP",
+    "QE": "QE",
+    "finite_graph": "finite_graph",
+    "infinite_graph": "infinite_graph",
+    "pigeon": "pigeon",
+    "hole": "hole",
+    "3a": "eliminate_one_existential",
+    "exo4": "exo4",
+    "exo5": "exo5",
+    "exists_qf_formula": "exists_qf_formula",
+    "qe": "qe",
+    "finite_cofinite": "finite_cofinite",
+    "Exo3a": "Exo3a",
+    "easy_clauses": "easy_clauses",
+    "equality_clause": "equality_clause",
+    "trivial_clauses": "trivial_clauses",
+    "actual_clauses": "actual_clauses",
+    "Exo3a2": "Exo3a2",
+    "Exo3b": "Exo3b",
+    "Exo3c": "Exo3c",
+    "atomic_periodicity": "ultimate_periodicity",
+    "Exo4b": "multiplication_is_undefinable",
+    "ultimate_periodicity_atomic": "ultimate_periodicity_atomic",
+    "ultimate_periodicity_qf": "ultimate_periodicity_qf",
+    "mxKn_QE": "mxKn_QE",
+    "Th_mxKn_decidable": "Th_mxKn_decidable"
+  },
+  "tree": {
+    "type": "child",
+    "name": "root",
+    "id": "new_slide",
+    "enabled": "enabled",
+    "merged": false,
+    "children": [
+      {
+        "type": "show",
+        "id": "Group_132",
+        "enabled": "enabled",
+        "name": "Propositional logic",
+        "merged": false,
+        "keywords": [
+          "Propositional logic",
+          "∈ {0,1}"
+        ],
+        "eventId": "13"
+      },
+      {
+        "type": "child",
+        "name": "Exo1",
+        "id": "Compactness",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "child",
+            "name": "finite graph",
+            "id": "finite_graph",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Ellipse_2",
+                "enabled": "enabled",
+                "name": "Ellipse 2",
+                "merged": false,
+                "keywords": [
+                  "Ellipse 2"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "Group_7",
+                "enabled": "enabled",
+                "name": "Group 7",
+                "merged": false,
+                "keywords": [
+                  "Group 7"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "Group_5",
+                "enabled": "enabled",
+                "name": "Group 5",
+                "merged": false,
+                "keywords": [
+                  "Group 5"
+                ],
+                "eventId": "13"
+              },
+              {
+                "type": "show",
+                "id": "Group_8",
+                "enabled": "enabled",
+                "name": "Group 8",
+                "merged": false,
+                "keywords": [
+                  "Group 8"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "Group_6",
+                "enabled": "enabled",
+                "name": "Group 6",
+                "merged": false,
+                "keywords": [
+                  "Group 6"
+                ],
+                "eventId": "15"
+              },
+              {
+                "type": "show",
+                "id": "Line_9",
+                "enabled": "enabled",
+                "name": "Line 9",
+                "merged": false,
+                "keywords": [
+                  "Line 9"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "show",
+                "id": "Ellipse_7",
+                "enabled": "enabled",
+                "name": "Ellipse 7",
+                "merged": false,
+                "keywords": [
+                  "Ellipse 7"
+                ],
+                "eventId": "17"
+              },
+              {
+                "type": "show",
+                "id": "Ellipse_9",
+                "enabled": "enabled",
+                "name": "Ellipse 9",
+                "merged": false,
+                "keywords": [
+                  "Ellipse 9"
+                ],
+                "eventId": "18"
+              },
+              {
+                "type": "show",
+                "id": "Line_92",
+                "enabled": "enabled",
+                "name": "Line 9",
+                "merged": false,
+                "keywords": [
+                  "Line 9"
+                ],
+                "eventId": "19"
+              },
+              {
+                "type": "show",
+                "id": "Ellipse_8",
+                "enabled": "enabled",
+                "name": "Ellipse 8",
+                "merged": false,
+                "keywords": [
+                  "Ellipse 8"
+                ],
+                "eventId": "20"
+              },
+              {
+                "type": "show",
+                "id": "Group_10",
+                "enabled": "enabled",
+                "name": "Group 10",
+                "merged": false,
+                "keywords": [
+                  "If this is not a 2-colouring: odd cycle no possible 2-colourings",
+                  "Group 10"
+                ],
+                "eventId": "24"
+              },
+              {
+                "type": "show",
+                "id": "lowest_common_ancestor",
+                "enabled": "enabled",
+                "name": "lowest common ancestor",
+                "merged": false,
+                "keywords": [
+                  "lowest common ancestor"
+                ],
+                "eventId": "24"
+              },
+              {
+                "type": "show",
+                "id": "Group_11",
+                "enabled": "enabled",
+                "name": "Group 11",
+                "merged": false,
+                "keywords": [
+                  "Group 11"
+                ],
+                "eventId": "27"
+              },
+              {
+                "type": "show",
+                "id": "Group_12",
+                "enabled": "enabled",
+                "name": "Group 12",
+                "merged": false,
+                "keywords": [
+                  "Group 12"
+                ],
+                "eventId": "28"
+              },
+              {
+                "type": "show",
+                "id": "odd_cycle_no_possible_2_colourings",
+                "enabled": "enabled",
+                "name": "odd cycle no possible 2-colourings",
+                "merged": false,
+                "keywords": [
+                  "odd cycle no possible 2-colourings"
+                ],
+                "eventId": "25"
+              },
+              {
+                "type": "show",
+                "id": "If_this_is_a_2_colouring__2_colourable_no_possible_odd_cycles",
+                "enabled": "enabled",
+                "name": "If this is a 2-colouring: 2-colourable no possible odd cycles",
+                "merged": false,
+                "keywords": [
+                  "If this is a 2-colouring: 2-colourable no possible odd cycles"
+                ],
+                "eventId": "26"
+              },
+              {
+                "type": "show",
+                "id": "_you_saw_this_in_DAA_in_Prelims__",
+                "enabled": "enabled",
+                "name": "(you saw this in DAA in Prelims!)",
+                "merged": false,
+                "keywords": [
+                  "(you saw this in DAA in Prelims!)"
+                ],
+                "eventId": "27"
+              }
+            ],
+            "keywords": [
+              "Proof: This is true when G is finite:",
+              "finite graph"
+            ],
+            "eventId": "17",
+            "originalParams": {
+              "Ellipse_2": {
+                "opacity": 1
+              },
+              "Group_7": {
+                "opacity": 1
+              },
+              "Group_5": {
+                "opacity": 1
+              },
+              "Group_8": {
+                "opacity": 1
+              },
+              "Group_6": {
+                "opacity": 1
+              },
+              "Line_9": {
+                "opacity": 1
+              },
+              "Ellipse_7": {
+                "opacity": 1
+              },
+              "Ellipse_9": {
+                "opacity": 1
+              },
+              "Line_92": {
+                "opacity": 1
+              },
+              "Ellipse_8": {
+                "opacity": 1
+              },
+              "Group_10": {
+                "opacity": 1
+              },
+              "lowest_common_ancestor": {
+                "opacity": 1
+              },
+              "odd_cycle_no_possible_2_colourings": {
+                "opacity": 1
+              },
+              "If_this_is_a_2_colouring__2_colourable_no_possible_odd_cycles": {
+                "opacity": 1
+              },
+              "_you_saw_this_in_DAA_in_Prelims__": {
+                "opacity": 1
+              },
+              "Group_11": {
+                "opacity": 1
+              },
+              "Group_12": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "infinite graph",
+            "id": "infinite_graph",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_13",
+                "enabled": "enabled",
+                "name": "some finite subgraph H ⊆ G has an odd cycle",
+                "merged": false,
+                "keywords": [
+                  "some finite subgraph H ⊆ G has an odd cycle"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_6",
+                "enabled": "enabled",
+                "name": "Arrow 6",
+                "merged": false,
+                "keywords": [
+                  "Arrow 6"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "as_the_cycle_is_finite2",
+                "enabled": "enabled",
+                "name": "as the cycle is finite",
+                "merged": false,
+                "keywords": [
+                  "as the cycle is finite"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "Group_132",
+                "enabled": "enabled",
+                "name": "some finite subgraph H ⊆ G is not 2-colourable",
+                "merged": false,
+                "keywords": [
+                  "some finite subgraph H ⊆ G is not 2-colourable"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "as_we_ve_just_shown",
+                "enabled": "enabled",
+                "name": "as we've just shown",
+                "merged": false,
+                "keywords": [
+                  "as we've just shown"
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "show",
+                "id": "Group_134",
+                "enabled": "enabled",
+                "name": "some finite subset of { pi ↔ pj | ij ∈ G } is not satisfiable",
+                "merged": false,
+                "keywords": [
+                  "some finite subset of { pi ↔ ¬pj | i, j ∈ G adjacent } is not satisfiable",
+                  "some finite subset of { pi ↔ pj | ij ∈ G } is not satisfiable"
+                ],
+                "eventId": "11"
+              },
+              {
+                "type": "show",
+                "id": "as_the_cycle_is_finite",
+                "enabled": "enabled",
+                "name": "vertex i •/• if pi = 0/1",
+                "merged": false,
+                "keywords": [
+                  "vertex i •/• if pi = 0/1"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "Group_133",
+                "enabled": "enabled",
+                "name": "{ pi ↔ pj | ij ∈ G } is not satisfiable",
+                "merged": false,
+                "keywords": [
+                  "{ pi ↔ ¬pj | i, j ∈ G adjacent } is not satisfiable",
+                  "{ pi ↔ pj | ij ∈ G } is not satisfiable"
+                ],
+                "eventId": "13"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_7",
+                "enabled": "enabled",
+                "name": "Arrow 7",
+                "merged": false,
+                "keywords": [
+                  "Arrow 7"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "compactness",
+                "enabled": "enabled",
+                "name": "compactness",
+                "merged": false,
+                "keywords": [
+                  "compactness"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "show",
+                "id": "Group_136",
+                "enabled": "enabled",
+                "name": ")",
+                "merged": false,
+                "keywords": [
+                  ")"
+                ],
+                "eventId": "19"
+              },
+              {
+                "type": "show",
+                "id": "Group_135",
+                "enabled": "enabled",
+                "name": "G is not 2-colourable",
+                "merged": false,
+                "keywords": [
+                  "G is not 2-colourable"
+                ],
+                "eventId": "15"
+              }
+            ],
+            "keywords": [
+              "When G is infinite,",
+              "G has an odd cycle",
+              "infinite graph"
+            ],
+            "eventId": "18",
+            "originalParams": {
+              "Group_13": {
+                "opacity": 1
+              },
+              "Arrow_6": {
+                "opacity": 1
+              },
+              "as_the_cycle_is_finite2": {
+                "opacity": 1
+              },
+              "Group_132": {
+                "opacity": 1
+              },
+              "as_we_ve_just_shown": {
+                "opacity": 1
+              },
+              "Group_134": {
+                "opacity": 1
+              },
+              "as_the_cycle_is_finite": {
+                "opacity": 1
+              },
+              "Group_133": {
+                "opacity": 1
+              },
+              "Arrow_7": {
+                "opacity": 1
+              },
+              "Group_135": {
+                "opacity": 1
+              },
+              "compactness": {
+                "opacity": 1
+              },
+              "Group_136": {
+                "opacity": 1
+              }
+            }
+          }
+        ],
+        "keywords": [
+          "Exercise 1",
+          "Claim: ",
+          "TFAE for a graph G: G is 2-colourable; G has no cycles of odd length.",
+          "Exo1"
+        ],
+        "eventId": "1",
+        "originalParams": {
+          "Group_4": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "Exo2",
+        "id": "Cutting_planes",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "child",
+            "name": "pigeon",
+            "id": "pigeon",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "_sum__i_in__1__dots_n____x__i__1________x__i__n_1____n",
+                "enabled": "enabled",
+                "name": "\\sum_{i\\in\\{1,\\dots,n\\}} x_{i, 1} + ⋯ + x_{i, n-1} ≥ n",
+                "merged": false,
+                "keywords": [
+                  "\\sum_{i\\in\\{1,\\dots,n\\}} x_{i, 1} + ⋯ + x_{i, n-1} ≥ n"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "Group_14",
+                "enabled": "enabled",
+                "name": "Group 14",
+                "merged": false,
+                "keywords": [
+                  "Group 14"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Group_15",
+                "enabled": "enabled",
+                "name": "Group 15",
+                "merged": false,
+                "keywords": [
+                  "Group 15"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Group_16",
+                "enabled": "enabled",
+                "name": "Group 16",
+                "merged": false,
+                "keywords": [
+                  "Group 16"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "Rectangle_2",
+                "enabled": "enabled",
+                "name": "Rectangle 2",
+                "merged": false,
+                "keywords": [
+                  "Rectangle 2"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "Group_19",
+                "enabled": "enabled",
+                "name": "depth O(log n)",
+                "merged": false,
+                "keywords": [
+                  "depth O(log n)"
+                ],
+                "eventId": "11"
+              }
+            ],
+            "keywords": [
+              "Each pigeon i = 1, ..., n roosts in some hole:",
+              "pigeon"
+            ],
+            "eventId": "1",
+            "originalParams": {
+              "_sum__i_in__1__dots_n____x__i__1________x__i__n_1____n": {
+                "opacity": 1
+              },
+              "Group_14": {
+                "opacity": 1
+              },
+              "Group_15": {
+                "opacity": 1
+              },
+              "Group_16": {
+                "opacity": 1
+              },
+              "Rectangle_2": {
+                "opacity": 1
+              },
+              "Group_19": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "hole",
+            "id": "hole",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "x__i___j____x__i____j____1",
+                "enabled": "enabled",
+                "name": "x_{i', j} + x_{i'', j} ≤ 1",
+                "merged": false,
+                "keywords": [
+                  "x_{i', j} + x_{i'', j} ≤ 1"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "x__i__j_____phantom____x__i__j__x__i____j____1",
+                "enabled": "enabled",
+                "name": "x_{i, j} + \\phantom{{}+x_{i',j}}x_{i'', j} ≤ 1",
+                "merged": false,
+                "keywords": [
+                  "x_{i, j} + \\phantom{{}+x_{i',j}}x_{i'', j} ≤ 1"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "_triangle_trick_",
+                "enabled": "enabled",
+                "name": "\"triangle trick\"",
+                "merged": false,
+                "keywords": [
+                  "\"triangle trick\""
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "Group_21",
+                "enabled": "enabled",
+                "name": "+",
+                "merged": false,
+                "keywords": [
+                  "+"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "Group_20",
+                "enabled": "enabled",
+                "name": "+",
+                "merged": false,
+                "keywords": [
+                  "+"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Group_19",
+                "enabled": "enabled",
+                "name": "//2",
+                "merged": false,
+                "keywords": [
+                  "//2"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "x__i_j____x__i__j____x__i____j____1",
+                "enabled": "enabled",
+                "name": "x_{i,j} + x_{i',j} + x_{i'', j} ≤ 1",
+                "merged": true,
+                "keywords": [
+                  "x_{i,j} + x_{i',j} + x_{i'', j} ≤ 1"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "depth_3",
+                "enabled": "enabled",
+                "name": "depth 3",
+                "merged": false,
+                "keywords": [
+                  "depth 3"
+                ],
+                "eventId": "18"
+              },
+              {
+                "type": "show",
+                "id": "___sum__i___I_1__sqcup_I_2__x__i__j____1",
+                "enabled": "enabled",
+                "name": "\\sum_{i ∈ I_1 \\sqcup I_2} x_{i, j} ≤ 1",
+                "merged": false,
+                "keywords": [
+                  "\\sum_{i ∈ I_1 \\sqcup I_2} x_{i, j} ≤ 1"
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "show",
+                "id": "Group_192",
+                "enabled": "enabled",
+                "name": "Group 19",
+                "merged": false,
+                "keywords": [
+                  "Group 19"
+                ],
+                "eventId": "15"
+              },
+              {
+                "type": "show",
+                "id": "Group_202",
+                "enabled": "enabled",
+                "name": "Group 20",
+                "merged": false,
+                "keywords": [
+                  "Group 20"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "show",
+                "id": "Group_212",
+                "enabled": "enabled",
+                "name": "Group 21",
+                "merged": false,
+                "keywords": [
+                  "Group 21"
+                ],
+                "eventId": "17"
+              },
+              {
+                "type": "show",
+                "id": "Line_25",
+                "enabled": "enabled",
+                "name": "Line 25",
+                "merged": false,
+                "keywords": [
+                  "Line 25"
+                ],
+                "eventId": "21"
+              },
+              {
+                "type": "show",
+                "id": "depth_O_log3_2_n_",
+                "enabled": "enabled",
+                "name": "O(log3/2 n)",
+                "merged": false,
+                "keywords": [
+                  "O(log3/2 n)"
+                ],
+                "eventId": "20"
+              }
+            ],
+            "keywords": [
+              "No hole j is shared by 2 pigeons i ≠ i':",
+              "hole"
+            ],
+            "eventId": "2",
+            "originalParams": {
+              "x__i___j____x__i____j____1": {
+                "opacity": 1
+              },
+              "x__i__j_____phantom____x__i__j__x__i____j____1": {
+                "opacity": 1
+              },
+              "Group_21": {
+                "opacity": 1
+              },
+              "Group_20": {
+                "opacity": 1
+              },
+              "Group_19": {
+                "opacity": 1
+              },
+              "_triangle_trick_": {
+                "opacity": 1
+              },
+              "x__i_j____x__i__j____x__i____j____1": {
+                "opacity": 1
+              },
+              "___sum__i___I_1__sqcup_I_2__x__i__j____1": {
+                "opacity": 1
+              },
+              "Group_192": {
+                "opacity": 1
+              },
+              "Group_202": {
+                "opacity": 1
+              },
+              "Group_212": {
+                "opacity": 1
+              },
+              "depth_3": {
+                "opacity": 1
+              },
+              "depth_O_log3_2_n_": {
+                "opacity": 1
+              },
+              "Line_25": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "Group_26",
+            "enabled": "enabled",
+            "name": "i.e.,",
+            "merged": false,
+            "keywords": [
+              "that is,",
+              "i.e.,"
+            ],
+            "eventId": "7"
+          },
+          {
+            "type": "show",
+            "id": "_sum__j_1___n_1__x__1__j________x__n__j_____n_1_",
+            "enabled": "enabled",
+            "name": "\\sum_{j=1}^{n-1}\n\\sum_{i \\in{}\\{1,\\dots,n\\}}\nx_{i, j} ≤ n-1",
+            "merged": false,
+            "keywords": [
+              "\\sum_{j=1}^{n-1}\n\\sum_{i \\in{}\\{1,\\dots,n\\}}\nx_{i, j} ≤ n-1"
+            ],
+            "eventId": "3"
+          },
+          {
+            "type": "show",
+            "id": "Group_24",
+            "enabled": "enabled",
+            "name": "Group 24",
+            "merged": false,
+            "keywords": [
+              "Group 24"
+            ],
+            "eventId": "4"
+          },
+          {
+            "type": "show",
+            "id": "Group_25",
+            "enabled": "enabled",
+            "name": "O(log2 n)",
+            "merged": true,
+            "keywords": [
+              "O(log2 n)"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "Group_252",
+            "enabled": "enabled",
+            "name": "Group 25",
+            "merged": false,
+            "keywords": [
+              "Group 25"
+            ],
+            "eventId": "6"
+          },
+          {
+            "type": "show",
+            "id": "So_we_have_a_short_and_shallow_cutting_planes_refutation_",
+            "enabled": "enabled",
+            "name": "There is a short and balanced cutting planes refutation.",
+            "merged": false,
+            "keywords": [
+              "There is a short and balanced cutting planes refutation."
+            ],
+            "eventId": "9"
+          }
+        ],
+        "keywords": [
+          "Exercise 2",
+          "PHPn asserts (wrongly) that, for n pigeons and n-1 holes:",
+          "Exo2"
+        ],
+        "eventId": "2",
+        "originalParams": {
+          "_sum__j_1___n_1__x__1__j________x__n__j_____n_1_": {
+            "opacity": 1
+          },
+          "Group_24": {
+            "opacity": 1
+          },
+          "Group_25": {
+            "opacity": 1
+          },
+          "Group_252": {
+            "opacity": 1
+          },
+          "Group_26": {
+            "opacity": 1
+          },
+          "So_we_have_a_short_and_shallow_cutting_planes_refutation_": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "show",
+        "id": "Group_13",
+        "enabled": "enabled",
+        "name": "Predicate logic",
+        "merged": false,
+        "keywords": [
+          "Predicate logic"
+        ],
+        "eventId": "10"
+      },
+      {
+        "type": "show",
+        "id": "cal_A_2",
+        "enabled": "enabled",
+        "name": "cal A?",
+        "merged": false,
+        "keywords": [
+          "cal A?"
+        ],
+        "eventId": "19"
+      },
+      {
+        "type": "show",
+        "id": "__structure",
+        "enabled": "enabled",
+        "name": "σ-structure",
+        "merged": false,
+        "keywords": [
+          "σ-structure"
+        ],
+        "eventId": "11"
+      },
+      {
+        "type": "show",
+        "id": "cal_A_",
+        "enabled": "enabled",
+        "name": "x1?",
+        "merged": false,
+        "keywords": [
+          "x1?"
+        ],
+        "eventId": "17"
+      },
+      {
+        "type": "show",
+        "id": "__A",
+        "enabled": "enabled",
+        "name": "∈ A",
+        "merged": false,
+        "keywords": [
+          "∈ A"
+        ],
+        "eventId": "12"
+      },
+      {
+        "type": "child",
+        "name": "Exo3",
+        "id": "QE",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "show",
+            "id": "Atomic_formulas",
+            "enabled": "enabled",
+            "name": "Atomic formulas:",
+            "merged": false,
+            "keywords": [
+              "Atomic formulas:"
+            ],
+            "eventId": "9"
+          },
+          {
+            "type": "show",
+            "id": "t___t_",
+            "enabled": "enabled",
+            "name": "t < t'",
+            "merged": false,
+            "keywords": [
+              "t < t'"
+            ],
+            "eventId": "10"
+          },
+          {
+            "type": "show",
+            "id": "t___t_2",
+            "enabled": "enabled",
+            "name": "t = t'",
+            "merged": false,
+            "keywords": [
+              "t = t'"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "show",
+            "id": "Group_26",
+            "enabled": "enabled",
+            "name": "Terms:",
+            "merged": false,
+            "keywords": [
+              "Term:",
+              "Terms:"
+            ],
+            "eventId": "13"
+          },
+          {
+            "type": "show",
+            "id": "s_0_",
+            "enabled": "enabled",
+            "name": "s(0)",
+            "merged": false,
+            "keywords": [
+              "s(0)"
+            ],
+            "eventId": "14"
+          },
+          {
+            "type": "show",
+            "id": "s_n_0_",
+            "enabled": "enabled",
+            "name": "s^n(0)",
+            "merged": false,
+            "keywords": [
+              "s^n(0)"
+            ],
+            "eventId": "15"
+          },
+          {
+            "type": "child",
+            "name": "Exo3a",
+            "id": "Exo3a2",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "_mathcal_A__models____begin_aligned____exists__x____F_1_x___wedge_F_2______leftrightarrow____exists__x___F_1_x___wedge_F_2__end_aligned_",
+                "enabled": "enabled",
+                "name": "\\mathcal{A}\\models{} \\begin{aligned}\n&\\exists{}x\\, (F_1(x, \\dots) \\wedge F_2(\\dots)) \\\\\n\\leftrightarrow{}&\\exists{}x\\, F_1(x, \\dots) \\wedge F_2(\\dots)\n\\end{aligned}",
+                "merged": false,
+                "keywords": [
+                  "\\mathcal{A}\\models{} \\begin{aligned}\n&\\exists{}x\\, (F_1(x, \\dots) \\wedge F_2(\\dots)) \\\\\n\\leftrightarrow{}&\\exists{}x\\, F_1(x, \\dots) \\wedge F_2(\\dots)\n\\end{aligned}"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "_y",
+                "enabled": "enabled",
+                "name": "∀\\dots",
+                "merged": false,
+                "keywords": [
+                  "∀\\dots"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "if_n___m__resp__n___m___delete_clause",
+                "enabled": "enabled",
+                "name": "if n < m (resp. n = m), delete clause",
+                "merged": false,
+                "keywords": [
+                  "if n < m (resp. n = m), delete clause"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Group_31",
+                "enabled": "enabled",
+                "name": "otherwise,",
+                "merged": false,
+                "keywords": [
+                  "otherwise,"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "Group_312",
+                "enabled": "enabled",
+                "name": "replace by 2 clauses:",
+                "merged": false,
+                "keywords": [
+                  "replace by 2 clauses:"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "__s_n_x____color_red________t__",
+                "enabled": "enabled",
+                "name": "``s^n(x) {\\color{red}{}≤{}} t''",
+                "merged": false,
+                "keywords": [
+                  "``s^n(x) {\\color{red}{}≤{}} t''"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "hide",
+                "id": "s_n_x____t2",
+                "enabled": "enabled",
+                "name": "s^n(x) < t",
+                "merged": false,
+                "keywords": [
+                  "s^n(x) < t"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "t___s_x_",
+                "enabled": "enabled",
+                "name": "s^{n\\color{magenta} +1}(x)\n=\n{\\color{magenta}s(} t {\\color{magenta})}",
+                "merged": true,
+                "keywords": [
+                  "s^{n\\color{magenta} +1}(x)\n=\n{\\color{magenta}s(} t {\\color{magenta})}"
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "show",
+                "id": "Group_30",
+                "enabled": "enabled",
+                "name": "In each clause, x occurs: exactly once; only in sN(x).",
+                "merged": false,
+                "keywords": [
+                  "In each clause, x occurs: exactly once; only in sN+1(x).",
+                  "In each clause, x occurs: exactly once; only in sN(x)."
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "child",
+                "name": "actual clauses",
+                "id": "actual_clauses",
+                "enabled": "enabled",
+                "merged": false,
+                "children": [
+                  {
+                    "type": "show",
+                    "id": "Group_302",
+                    "enabled": "enabled",
+                    "name": "Group 30",
+                    "merged": false,
+                    "keywords": [
+                      "If no u's:",
+                      "Group 30"
+                    ],
+                    "eventId": "4"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_textbf_true_",
+                    "enabled": "enabled",
+                    "name": "\\textbf{true}",
+                    "merged": false,
+                    "keywords": [
+                      "\\textbf{true}"
+                    ],
+                    "eventId": "5"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Frame_5",
+                    "enabled": "enabled",
+                    "name": "Frame 5",
+                    "merged": false,
+                    "keywords": [
+                      "Otherwise:",
+                      "Frame 5"
+                    ],
+                    "eventId": "6"
+                  }
+                ],
+                "keywords": [
+                  "we may well include this!",
+                  "actual clauses"
+                ],
+                "eventId": "9",
+                "originalParams": {
+                  "Group_302": {
+                    "opacity": 1
+                  },
+                  "_textbf_true_": {
+                    "opacity": 1
+                  },
+                  "Frame_5": {
+                    "opacity": 1
+                  }
+                }
+              }
+            ],
+            "keywords": [
+              ", where F is a ⋀ of:",
+              "does not mention x",
+              "Exo3a"
+            ],
+            "eventId": "17",
+            "originalParams": {
+              "_mathcal_A__models____begin_aligned____exists__x____F_1_x___wedge_F_2______leftrightarrow____exists__x___F_1_x___wedge_F_2__end_aligned_": {
+                "opacity": 1
+              },
+              "if_n___m__resp__n___m___delete_clause": {
+                "opacity": 1
+              },
+              "Group_31": {
+                "opacity": 1
+              },
+              "Group_312": {
+                "opacity": 1
+              },
+              "__s_n_x____color_red________t__": {
+                "opacity": 1
+              },
+              "s_n_x____t2": {
+                "opacity": 1
+              },
+              "Group_30": {
+                "opacity": 1
+              },
+              "t___s_x_": {
+                "opacity": 1
+              },
+              "_y": {
+                "opacity": 1
+              },
+              "Line_63": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "Exo3b",
+            "id": "Exo3b",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_32",
+                "enabled": "enabled",
+                "name": "Prenex form ∀x ⋯ ∃y F*",
+                "merged": false,
+                "keywords": [
+                  "Prenex form ∃a⋯∀y ∃z F*",
+                  "≡",
+                  "quantifier-free",
+                  "Prenex form ∀x ⋯ ∃y F*"
+                ],
+                "eventId": "11"
+              },
+              {
+                "type": "show",
+                "id": "Group_322",
+                "enabled": "enabled",
+                "name": "⋁ of (∧ of atomic and ¬ atomic)",
+                "merged": false,
+                "keywords": [
+                  "⋁ of (∧ of atomic and ¬ atomic)",
+                  "≡"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "___t___t__",
+                "enabled": "enabled",
+                "name": "¬ (t < t')",
+                "merged": false,
+                "keywords": [
+                  "¬ (t < t')"
+                ],
+                "eventId": "13"
+              },
+              {
+                "type": "show",
+                "id": "Group_323",
+                "enabled": "enabled",
+                "name": "t = t' ∨ t' < t",
+                "merged": false,
+                "keywords": [
+                  "t = t' ∨ t' < t"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "___t___t__2",
+                "enabled": "enabled",
+                "name": "¬ (t = t')",
+                "merged": false,
+                "keywords": [
+                  "¬ (t = t')"
+                ],
+                "eventId": "15"
+              },
+              {
+                "type": "show",
+                "id": "Group_324",
+                "enabled": "enabled",
+                "name": "t < t' ∨ t' < t",
+                "merged": false,
+                "keywords": [
+                  "t < t' ∨ t' < t"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "show",
+                "id": "Group_325",
+                "enabled": "enabled",
+                "name": "⋁ of (∧ of atomic)",
+                "merged": false,
+                "keywords": [
+                  "⋁ of (∧ of atomic)",
+                  "re-distribute"
+                ],
+                "eventId": "21"
+              },
+              {
+                "type": "show",
+                "id": "Group_328",
+                "enabled": "enabled",
+                "name": "⋁ ∃z (∧ of atomic)",
+                "merged": false,
+                "keywords": [
+                  "⋁ ∃z (∧ of atomic)"
+                ],
+                "eventId": "17"
+              },
+              {
+                "type": "show",
+                "id": "Group_326",
+                "enabled": "enabled",
+                "name": "∀x G",
+                "merged": false,
+                "keywords": [
+                  "∃a⋯∀y G",
+                  "∀x G"
+                ],
+                "eventId": "18"
+              },
+              {
+                "type": "show",
+                "id": "__x__G",
+                "enabled": "enabled",
+                "name": "≡ ¬∃x ¬G",
+                "merged": false,
+                "keywords": [
+                  "≡ ¬∃x ¬G"
+                ],
+                "eventId": "19"
+              },
+              {
+                "type": "show",
+                "id": "Group_327",
+                "enabled": "enabled",
+                "name": "¬H",
+                "merged": false,
+                "keywords": [
+                  "∃a⋯¬H",
+                  "¬H"
+                ],
+                "eventId": "20"
+              },
+              {
+                "type": "show",
+                "id": "_H",
+                "enabled": "enabled",
+                "name": "¬i",
+                "merged": false,
+                "keywords": [
+                  "H'' — quantifier-free",
+                  "¬i"
+                ],
+                "eventId": "22"
+              }
+            ],
+            "keywords": [
+              "Any formula F",
+              "Exo3b"
+            ],
+            "eventId": "18",
+            "originalParams": {
+              "Group_32": {
+                "opacity": 1
+              },
+              "Group_322": {
+                "opacity": 1
+              },
+              "___t___t__": {
+                "opacity": 1
+              },
+              "Group_323": {
+                "opacity": 1
+              },
+              "___t___t__2": {
+                "opacity": 1
+              },
+              "Group_324": {
+                "opacity": 1
+              },
+              "Group_328": {
+                "opacity": 1
+              },
+              "Group_326": {
+                "opacity": 1
+              },
+              "__x__G": {
+                "opacity": 1
+              },
+              "Group_327": {
+                "opacity": 1
+              },
+              "Group_325": {
+                "opacity": 1
+              },
+              "_H": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "Exo3c",
+            "id": "Exo3c",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "atomic",
+                "enabled": "enabled",
+                "name": "atomic",
+                "merged": false,
+                "keywords": [
+                  "atomic"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Group_31",
+                "enabled": "enabled",
+                "name": "Group 31",
+                "merged": false,
+                "keywords": [
+                  "Group 31"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "t___sl_0_",
+                "enabled": "enabled",
+                "name": "sl(0)",
+                "merged": true,
+                "keywords": [
+                  "sl(0)"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "true_false_define",
+                "enabled": "enabled",
+                "name": "false defines {} — finite true defines the A — cofinite",
+                "merged": false,
+                "keywords": [
+                  "false defines {} — finite true defines the A — cofinite"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "Text",
+                "enabled": "enabled",
+                "name": "defines {t-n} ∩ ℕ — finite",
+                "merged": false,
+                "keywords": [
+                  "defines {t-n} ∩ ℕ — finite"
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "show",
+                "id": "defines__t_n________finite",
+                "enabled": "enabled",
+                "name": "defines 0, ..., t-n-1 — finite",
+                "merged": false,
+                "keywords": [
+                  "defines 0, ..., t-n-1 — finite"
+                ],
+                "eventId": "11"
+              },
+              {
+                "type": "show",
+                "id": "defines_0_______t_n___finite",
+                "enabled": "enabled",
+                "name": "defines ℕ ∩ t-m+1, ... — cofinite",
+                "merged": false,
+                "keywords": [
+                  "defines ℕ ∩ t-m+1, ... — cofinite"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "Group_32",
+                "enabled": "enabled",
+                "name": "Boolean combination",
+                "merged": false,
+                "keywords": [
+                  "quantifier-free",
+                  "Boolean combination"
+                ],
+                "eventId": "24"
+              },
+              {
+                "type": "show",
+                "id": "Group_332",
+                "enabled": "enabled",
+                "name": "cofinite",
+                "merged": false,
+                "keywords": [
+                  "finite",
+                  "cofinite",
+                  "\\cap"
+                ],
+                "eventId": "21"
+              },
+              {
+                "type": "show",
+                "id": "Group_342",
+                "enabled": "enabled",
+                "name": "cofinite",
+                "merged": true,
+                "keywords": [
+                  "finite",
+                  "cofinite",
+                  "\\cap"
+                ],
+                "eventId": "22"
+              },
+              {
+                "type": "show",
+                "id": "Group_352",
+                "enabled": "enabled",
+                "name": "cofinite",
+                "merged": true,
+                "keywords": [
+                  "finite",
+                  "cofinite",
+                  "\\cap"
+                ],
+                "eventId": "23"
+              },
+              {
+                "type": "show",
+                "id": "Group_34",
+                "enabled": "enabled",
+                "name": "finite",
+                "merged": false,
+                "keywords": [
+                  "finite"
+                ],
+                "eventId": "15"
+              },
+              {
+                "type": "show",
+                "id": "Group_35",
+                "enabled": "enabled",
+                "name": "cofinite",
+                "merged": false,
+                "keywords": [
+                  "cofinite",
+                  "finite"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "show",
+                "id": "Group_36",
+                "enabled": "enabled",
+                "name": "cofinite",
+                "merged": false,
+                "keywords": [
+                  "cofinite"
+                ],
+                "eventId": "17"
+              },
+              {
+                "type": "show",
+                "id": "finite7",
+                "enabled": "enabled",
+                "name": "finite",
+                "merged": false,
+                "keywords": [
+                  "finite"
+                ],
+                "eventId": "18"
+              },
+              {
+                "type": "show",
+                "id": "cofinite6",
+                "enabled": "enabled",
+                "name": "cofinite",
+                "merged": false,
+                "keywords": [
+                  "cofinite"
+                ],
+                "eventId": "19"
+              },
+              {
+                "type": "show",
+                "id": "Group_33",
+                "enabled": "enabled",
+                "name": "quantifier elimination",
+                "merged": false,
+                "keywords": [
+                  "all",
+                  "quantifier elimination"
+                ],
+                "eventId": "20"
+              }
+            ],
+            "keywords": [
+              "Subsets of ℕ defined by  formulas are finite or cofinite.",
+              "Exo3c"
+            ],
+            "eventId": "19",
+            "originalParams": {
+              "atomic": {
+                "opacity": 1
+              },
+              "Group_31": {
+                "opacity": 1
+              },
+              "t___sl_0_": {
+                "opacity": 1
+              },
+              "true_false_define": {
+                "opacity": 1
+              },
+              "Text": {
+                "opacity": 1
+              },
+              "defines__t_n________finite": {
+                "opacity": 1
+              },
+              "defines_0_______t_n___finite": {
+                "opacity": 1
+              },
+              "Group_34": {
+                "opacity": 1
+              },
+              "Group_35": {
+                "opacity": 1
+              },
+              "Group_36": {
+                "opacity": 1
+              },
+              "finite7": {
+                "opacity": 1
+              },
+              "cofinite6": {
+                "opacity": 1
+              },
+              "Group_33": {
+                "opacity": 1
+              },
+              "Group_332": {
+                "opacity": 1
+              },
+              "Group_342": {
+                "opacity": 1
+              },
+              "Group_352": {
+                "opacity": 1
+              },
+              "Group_32": {
+                "opacity": 1
+              }
+            }
+          }
+        ],
+        "keywords": [
+          "Exercise 3",
+          "Exo3"
+        ],
+        "eventId": "22",
+        "originalParams": {
+          "Atomic_formulas": {
+            "opacity": 1
+          },
+          "t___t_": {
+            "opacity": 1
+          },
+          "t___t_2": {
+            "opacity": 1
+          },
+          "Group_26": {
+            "opacity": 1
+          },
+          "s_0_": {
+            "opacity": 1
+          },
+          "s_n_0_": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "exo4",
+        "id": "exo4",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "show",
+            "id": "has_quantifier_elimination",
+            "enabled": "enabled",
+            "name": "has quantifier elimination",
+            "merged": false,
+            "keywords": [
+              "has quantifier elimination"
+            ],
+            "eventId": "4"
+          },
+          {
+            "type": "show",
+            "id": "Group_32",
+            "enabled": "enabled",
+            "name": "Presburger arithmetic ",
+            "merged": false,
+            "keywords": [
+              "Presburger arithmetic "
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "Group_322",
+            "enabled": "enabled",
+            "name": "has decidable theory: automata Presburger's proof",
+            "merged": false,
+            "keywords": [
+              "has decidable theory: automata-based proof Presburger's proof",
+              "has decidable theory: automata Presburger's proof"
+            ],
+            "eventId": "7"
+          },
+          {
+            "type": "child",
+            "name": "ultimate-periodicity",
+            "id": "atomic_periodicity",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "child",
+                "name": "ultimate-periodicity-atomic",
+                "id": "ultimate_periodicity_atomic",
+                "enabled": "enabled",
+                "merged": false,
+                "children": [
+                  {
+                    "type": "show",
+                    "id": "Terms__ax___b__b",
+                    "enabled": "enabled",
+                    "name": "Terms: ax + b, c with a-1, b, c ∈ ℕ",
+                    "merged": false,
+                    "keywords": [
+                      "Terms: ax + b, c with a-1, b, c ∈ ℕ"
+                    ],
+                    "eventId": "1"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_32",
+                    "enabled": "enabled",
+                    "name": "Atomic formulas:",
+                    "merged": false,
+                    "keywords": [
+                      "ax + b < c",
+                      "ax + b > c",
+                      "ax + b = c",
+                      "Pk(ax + b)",
+                      "Pk(c)",
+                      "c < c'",
+                      "c = c'",
+                      "Atomic formulas:"
+                    ],
+                    "eventId": "2"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Assume_x_is_not_in_c__otherwise",
+                    "enabled": "enabled",
+                    "name": "Assume x is not in c: otherwise",
+                    "merged": false,
+                    "keywords": [
+                      "Assume x is not in c: otherwise"
+                    ],
+                    "eventId": "12"
+                  },
+                  {
+                    "type": "show",
+                    "id": "we_can_rearrange_",
+                    "enabled": "enabled",
+                    "name": "we can rearrange.",
+                    "merged": false,
+                    "keywords": [
+                      "we can rearrange."
+                    ],
+                    "eventId": "13"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Subsets_of___defined_",
+                    "enabled": "enabled",
+                    "name": "Subsets of ℕ defined:",
+                    "merged": false,
+                    "keywords": [
+                      "Subsets of ℕ defined:"
+                    ],
+                    "eventId": "11"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_38",
+                    "enabled": "enabled",
+                    "name": "empty or: ",
+                    "merged": false,
+                    "keywords": [
+                      "empty or: "
+                    ],
+                    "eventId": "5"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_382",
+                    "enabled": "enabled",
+                    "name": "finite:",
+                    "merged": false,
+                    "keywords": [
+                      "finite:"
+                    ],
+                    "eventId": "6"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_383",
+                    "enabled": "enabled",
+                    "name": "cofinite:",
+                    "merged": false,
+                    "keywords": [
+                      "cofinite:"
+                    ],
+                    "eventId": "7"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_384",
+                    "enabled": "enabled",
+                    "name": "k-periodic:",
+                    "merged": false,
+                    "keywords": [
+                      "k-periodic:"
+                    ],
+                    "eventId": "8"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_385",
+                    "enabled": "enabled",
+                    "name": "one of:",
+                    "merged": false,
+                    "keywords": [
+                      "one of:"
+                    ],
+                    "eventId": "9"
+                  },
+                  {
+                    "type": "show",
+                    "id": "all_ultimately_periodic__with_p_1_or_from_n0___0_",
+                    "enabled": "enabled",
+                    "name": "all ultimately periodic (with p=1 or from n0 = 0)",
+                    "merged": false,
+                    "keywords": [
+                      "all ultimately periodic (with p=1 or from n0 = 0)"
+                    ],
+                    "eventId": "10"
+                  }
+                ],
+                "keywords": [
+                  "For atomic formulas in x:",
+                  "ultimate-periodicity-atomic"
+                ],
+                "eventId": "1",
+                "originalParams": {
+                  "Terms__ax___b__b": {
+                    "opacity": 1
+                  },
+                  "Group_32": {
+                    "opacity": 1
+                  },
+                  "Group_38": {
+                    "opacity": 1
+                  },
+                  "Group_382": {
+                    "opacity": 1
+                  },
+                  "Group_383": {
+                    "opacity": 1
+                  },
+                  "Group_384": {
+                    "opacity": 1
+                  },
+                  "Group_385": {
+                    "opacity": 1
+                  },
+                  "all_ultimately_periodic__with_p_1_or_from_n0___0_": {
+                    "opacity": 1
+                  },
+                  "Subsets_of___defined_": {
+                    "opacity": 1
+                  },
+                  "Assume_x_is_not_in_c__otherwise": {
+                    "opacity": 1
+                  },
+                  "we_can_rearrange_": {
+                    "opacity": 1
+                  }
+                }
+              },
+              {
+                "type": "child",
+                "name": "ultimate-periodicity-qf",
+                "id": "ultimate_periodicity_qf",
+                "enabled": "enabled",
+                "merged": true,
+                "children": [
+                  {
+                    "type": "show",
+                    "id": "Group_44",
+                    "enabled": "enabled",
+                    "name": "so ¬ F ultimately periodic:",
+                    "merged": false,
+                    "keywords": [
+                      "then ¬ F ultimately periodic:",
+                      "so ¬ F ultimately periodic:"
+                    ],
+                    "eventId": "7"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_432",
+                    "enabled": "enabled",
+                    "name": "Group 43",
+                    "merged": false,
+                    "keywords": [
+                      "Group 43"
+                    ],
+                    "eventId": "8"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_46",
+                    "enabled": "enabled",
+                    "name": "Now if G also ultimately periodic:",
+                    "merged": false,
+                    "keywords": [
+                      "Now if G also ultimately periodic:"
+                    ],
+                    "eventId": "16"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_47",
+                    "enabled": "enabled",
+                    "name": "Group 47",
+                    "merged": true,
+                    "keywords": [
+                      "Group 47"
+                    ],
+                    "eventId": "9"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_49",
+                    "enabled": "enabled",
+                    "name": "then F ∧ G ultimately periodic:",
+                    "merged": false,
+                    "keywords": [
+                      "then F ∧ G ultimately periodic:"
+                    ],
+                    "eventId": "17"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Line_51",
+                    "enabled": "enabled",
+                    "name": "Line 55",
+                    "merged": false,
+                    "keywords": [
+                      "Line 55"
+                    ],
+                    "eventId": "10"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Line_56",
+                    "enabled": "enabled",
+                    "name": "Line 56",
+                    "merged": true,
+                    "keywords": [
+                      "Line 56"
+                    ],
+                    "eventId": "11"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Line_57",
+                    "enabled": "enabled",
+                    "name": "Line 57",
+                    "merged": true,
+                    "keywords": [
+                      "Line 57"
+                    ],
+                    "eventId": "12"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Line_582",
+                    "enabled": "enabled",
+                    "name": "Line 58",
+                    "merged": true,
+                    "keywords": [
+                      "Line 58"
+                    ],
+                    "eventId": "13"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_48",
+                    "enabled": "enabled",
+                    "name": "Group 48",
+                    "merged": false,
+                    "keywords": [
+                      "Group 48"
+                    ],
+                    "eventId": "14"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_492",
+                    "enabled": "enabled",
+                    "name": "and F ∨ G ultimately periodic:",
+                    "merged": false,
+                    "keywords": [
+                      "and F ∨ G ultimately periodic:"
+                    ],
+                    "eventId": "19"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_493",
+                    "enabled": "enabled",
+                    "name": "Group 49",
+                    "merged": false,
+                    "keywords": [
+                      "Group 49"
+                    ],
+                    "eventId": "20"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_38",
+                    "enabled": "enabled",
+                    "name": "by quantifier elimination",
+                    "merged": false,
+                    "keywords": [
+                      "by quantifier elimination"
+                    ],
+                    "eventId": "18"
+                  }
+                ],
+                "keywords": [
+                  "For quantifier-free formulas in x:",
+                  "F ultimately periodic:",
+                  "atomic",
+                  "ultimate-periodicity-qf"
+                ],
+                "eventId": "2",
+                "originalParams": {
+                  "Group_44": {
+                    "opacity": 1
+                  },
+                  "Group_432": {
+                    "opacity": 1
+                  },
+                  "Group_47": {
+                    "opacity": 1
+                  },
+                  "Line_51": {
+                    "opacity": 1
+                  },
+                  "Line_56": {
+                    "opacity": 1
+                  },
+                  "Line_57": {
+                    "opacity": 1
+                  },
+                  "Line_582": {
+                    "opacity": 1
+                  },
+                  "Group_48": {
+                    "opacity": 1
+                  },
+                  "Group_49": {
+                    "opacity": 1
+                  },
+                  "Group_46": {
+                    "opacity": 1
+                  },
+                  "Group_38": {
+                    "opacity": 1
+                  },
+                  "Group_492": {
+                    "opacity": 1
+                  },
+                  "Group_493": {
+                    "opacity": 1
+                  }
+                }
+              }
+            ],
+            "keywords": [
+              "Claim: ",
+              "definable subsets of A are ultimately periodic.",
+              "ultimate-periodicity"
+            ],
+            "eventId": "2",
+            "originalParams": {}
+          },
+          {
+            "type": "child",
+            "name": "multiplication-is-undefinable",
+            "id": "Exo4b",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_50",
+                "enabled": "enabled",
+                "name": "If it were, ∃x M(x, x, z) defines the square numbers.",
+                "merged": false,
+                "keywords": [
+                  "Proof:",
+                  "If it were, ∃x M(x, x, z) defines the square numbers."
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Group_51",
+                "enabled": "enabled",
+                "name": "This set must be ultimately periodic:",
+                "merged": false,
+                "keywords": [
+                  "This set must be ultimately periodic:"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Impossible",
+                "enabled": "enabled",
+                "name": "(n0p)2 + 1 is not a square;",
+                "merged": false,
+                "keywords": [
+                  "(n0p)2 + 1 is not a square;"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "neither_is__n0p___1_2____n0p_2___2p___1__impossible_",
+                "enabled": "enabled",
+                "name": "neither is (n0p + 1)2 = (n0p)2 + 2p + 1 — impossible!",
+                "merged": false,
+                "keywords": [
+                  "neither is (n0p + 1)2 = (n0p)2 + 2p + 1 — impossible!"
+                ],
+                "eventId": "4"
+              }
+            ],
+            "keywords": [
+              "Claim: ",
+              "multiplication ⊆ ℕ3 is not definable by any M(x, y, z).",
+              "multiplication-is-undefinable"
+            ],
+            "eventId": "3",
+            "originalParams": {
+              "Group_50": {
+                "opacity": 1
+              },
+              "Group_51": {
+                "opacity": 1
+              },
+              "Impossible": {
+                "opacity": 1
+              },
+              "neither_is__n0p___1_2____n0p_2___2p___1__impossible_": {
+                "opacity": 1
+              }
+            }
+          }
+        ],
+        "keywords": [
+          "Exercise 4",
+          "k \\mid (-)?",
+          "exo4"
+        ],
+        "eventId": "23",
+        "originalParams": {
+          "has_quantifier_elimination": {
+            "opacity": 1
+          },
+          "Group_32": {
+            "opacity": 1
+          },
+          "Group_322": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "exo5",
+        "id": "exo5",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "show",
+            "id": "Note_T___Th_________1____all_models_isomorphic_",
+            "enabled": "enabled",
+            "name": "Note T = Th(ℕ × ℕ, =1)",
+            "merged": false,
+            "keywords": [
+              "Note T = Th(ℕ × ℕ, =1)"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "__all_models_isomorphic_",
+            "enabled": "enabled",
+            "name": "— all models isomorphic.",
+            "merged": false,
+            "keywords": [
+              "— all models isomorphic."
+            ],
+            "eventId": "2"
+          },
+          {
+            "type": "child",
+            "name": "mxKn-QE",
+            "id": "mxKn_QE",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "terms_",
+                "enabled": "enabled",
+                "name": "terms:",
+                "merged": false,
+                "keywords": [
+                  "terms:"
+                ],
+                "eventId": "24"
+              },
+              {
+                "type": "show",
+                "id": "variables",
+                "enabled": "enabled",
+                "name": "variables",
+                "merged": false,
+                "keywords": [
+                  "variables"
+                ],
+                "eventId": "25"
+              },
+              {
+                "type": "show",
+                "id": "Group_512",
+                "enabled": "enabled",
+                "name": "leave aside",
+                "merged": false,
+                "keywords": [
+                  "leave aside"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "show",
+                "id": "Group_513",
+                "enabled": "enabled",
+                "name": "true",
+                "merged": false,
+                "keywords": [
+                  "true",
+                  "false"
+                ],
+                "eventId": "17"
+              },
+              {
+                "type": "show",
+                "id": "true2",
+                "enabled": "enabled",
+                "name": "T ⊧ ∃x F ↔ F[t/x]",
+                "merged": false,
+                "keywords": [
+                  "T ⊧ ∃x F ↔ F[t/x]"
+                ],
+                "eventId": "18"
+              },
+              {
+                "type": "show",
+                "id": "Rectangle_5",
+                "enabled": "enabled",
+                "name": "Rectangle 5",
+                "merged": false,
+                "keywords": [
+                  "Rectangle 5"
+                ],
+                "eventId": "19"
+              },
+              {
+                "type": "show",
+                "id": "equivalent_to_F_t_x_",
+                "enabled": "enabled",
+                "name": "may as well delete",
+                "merged": false,
+                "keywords": [
+                  "may as well delete"
+                ],
+                "eventId": "20"
+              },
+              {
+                "type": "show",
+                "id": "Rectangle_6",
+                "enabled": "enabled",
+                "name": "Rectangle 6",
+                "merged": false,
+                "keywords": [
+                  "Rectangle 6"
+                ],
+                "eventId": "22"
+              },
+              {
+                "type": "show",
+                "id": "_begin_aligned____bigwedge__t_t___t__mathrel_E__t______wedge_____bigwedge__t_s___neg_t__mathrel_E__t____end_aligned_",
+                "enabled": "enabled",
+                "name": "\\begin{aligned}\n&\\bigwedge_{t,t'} t \\mathrel{E} t' \\\\\n\\wedge{} &\\bigwedge_{t,s} \\neg(t \\mathrel{E} t')\n\\end{aligned}",
+                "merged": false,
+                "keywords": [
+                  "\\begin{aligned}\n&\\bigwedge_{t,t'} t \\mathrel{E} t' \\\\\n\\wedge{} &\\bigwedge_{t,s} \\neg(t \\mathrel{E} t')\n\\end{aligned}"
+                ],
+                "eventId": "23"
+              }
+            ],
+            "keywords": [
+              "F = ⋀ of atomic in x; ∃x F:",
+              "x = t",
+              "¬ (x = s)",
+              "x E t",
+              "x E x",
+              "¬(x E x)",
+              "¬(s' E s)",
+              "¬(s' = s)",
+              "¬(x = x)",
+              "x = x",
+              "t' E t",
+              "t' = t",
+              "¬ (x E s)",
+              "mxKn-QE"
+            ],
+            "eventId": "6",
+            "originalParams": {
+              "Group_512": {
+                "opacity": 1
+              },
+              "Group_513": {
+                "opacity": 1
+              },
+              "true2": {
+                "opacity": 1
+              },
+              "Rectangle_5": {
+                "opacity": 1
+              },
+              "equivalent_to_F_t_x_": {
+                "opacity": 1
+              },
+              "Rectangle_6": {
+                "opacity": 1
+              },
+              "_begin_aligned____bigwedge__t_t___t__mathrel_E__t______wedge_____bigwedge__t_s___neg_t__mathrel_E__t____end_aligned_": {
+                "opacity": 1
+              },
+              "terms_": {
+                "opacity": 1
+              },
+              "variables": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "Th-mxKn-decidable",
+            "id": "Th_mxKn_decidable",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "Proof_",
+                "enabled": "enabled",
+                "name": "Proof:",
+                "merged": false,
+                "keywords": [
+                  "Proof:"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Input__sentence_F",
+                "enabled": "enabled",
+                "name": "Input: sentence F",
+                "merged": true,
+                "keywords": [
+                  "Input: sentence F"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Compute_a_quantifier_free_sentence_G_such_that_T___F___G",
+                "enabled": "enabled",
+                "name": "Compute a quantifier-free sentence G such that T ⊧ F ↔ G.",
+                "merged": false,
+                "keywords": [
+                  "Compute a quantifier-free sentence G such that T ⊧ F ↔ G."
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "T___F___G__with_G_quantifier_free_",
+                "enabled": "enabled",
+                "name": "Then G is a Boolean combination of atomic formulas, i.e., true and false.",
+                "merged": false,
+                "keywords": [
+                  "Then G is a Boolean combination of atomic formulas, i.e., true and false."
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "Text",
+                "enabled": "enabled",
+                "name": " true and false.",
+                "merged": false,
+                "keywords": [
+                  " true and false."
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "Output__is_G___true_",
+                "enabled": "enabled",
+                "name": "Output: is G ≡ true?",
+                "merged": false,
+                "keywords": [
+                  "Output: is G ≡ true?"
+                ],
+                "eventId": "4"
+              }
+            ],
+            "keywords": [
+              "Claim: T is decidable.",
+              "Th-mxKn-decidable"
+            ],
+            "eventId": "7",
+            "originalParams": {
+              "Input__sentence_F": {
+                "opacity": 1
+              },
+              "Compute_a_quantifier_free_sentence_G_such_that_T___F___G": {
+                "opacity": 1
+              },
+              "T___F___G__with_G_quantifier_free_": {
+                "opacity": 1
+              },
+              "Output__is_G___true_": {
+                "opacity": 1
+              },
+              "Proof_": {
+                "opacity": 1
+              },
+              "Text": {
+                "opacity": 1
+              }
+            }
+          }
+        ],
+        "keywords": [
+          "Exercise 5",
+          "\\mathcal{A} = (\\mathbb{N} × \\mathbb{N}, E)",
+          "exo5"
+        ],
+        "eventId": "27",
+        "originalParams": {
+          "__all_models_isomorphic_": {
+            "opacity": 1
+          },
+          "Note_T___Th_________1____all_models_isomorphic_": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "show",
+        "id": "Group_51",
+        "enabled": "enabled",
+        "name": "Feedback!",
+        "merged": false,
+        "keywords": [
+          "Feedback!"
+        ],
+        "eventId": "26"
+      }
+    ],
+    "keywords": [
+      "Logic & Proof",
+      "Sheet 2",
+      "Jingjie Yang HT’26",
+      "Problems and solutions courtesy of James Worrell",
+      "root"
+    ],
+    "eventId": "root",
+    "originalParams": {
+      "Group_13": {
+        "opacity": 1
+      },
+      "__structure": {
+        "opacity": 1
+      },
+      "__A": {
+        "opacity": 1
+      },
+      "Group_132": {
+        "opacity": 1
+      },
+      "cal_A_": {
+        "opacity": 1
+      },
+      "cal_A_2": {
+        "opacity": 1
+      },
+      "Group_51": {
+        "opacity": 1
+      }
+    }
+  },
+  "treeTimeLine": [
+    {
+      "state": {
+        "type": "afterEvent",
+        "slideId": "new_slide",
+        "eventId": "24"
+      },
+      "soundDuration": 0.66,
+      "soundFile": "root/after_24.mp3"
+    },
+    {
+      "state": {
+        "type": "afterEvent",
+        "slideId": "exo5",
+        "eventId": "4"
+      },
+      "soundDuration": 0.18,
+      "soundFile": "exo5/after_4.mp3"
+    }
+  ],
+  "chronicleTimeLine": []
+}
