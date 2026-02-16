@@ -2402,12 +2402,23 @@
                 "type": "show",
                 "id": "_begin_aligned____bigwedge__t_t___t__mathrel_E__t______wedge_____bigwedge__t_s___neg_t__mathrel_E__t____end_aligned_",
                 "enabled": "enabled",
-                "name": "\\begin{aligned}\n&\\bigwedge_{t,t'} t \\mathrel{E} t' \\\\\n\\wedge{} &\\bigwedge_{t,s} \\neg(t \\mathrel{E} t')\n\\end{aligned}",
+                "name": "\\begin{aligned}\n&\\bigwedge_{t,t'} t \\mathrel{E} t' \\\\\n\\wedge{} &\\bigwedge_{t,s} \\neg(t \\mathrel{E} s)\n\\end{aligned}",
                 "merged": false,
                 "keywords": [
-                  "\\begin{aligned}\n&\\bigwedge_{t,t'} t \\mathrel{E} t' \\\\\n\\wedge{} &\\bigwedge_{t,s} \\neg(t \\mathrel{E} t')\n\\end{aligned}"
+                  "\\begin{aligned}\n&\\bigwedge_{t,t'} t \\mathrel{E} t' \\\\\n\\wedge{} &\\bigwedge_{t,s} \\neg(t \\mathrel{E} s)\n\\end{aligned}"
                 ],
                 "eventId": "23"
+              },
+              {
+                "type": "show",
+                "id": "may_as_well_delete",
+                "enabled": "enabled",
+                "name": "may as well delete",
+                "merged": true,
+                "keywords": [
+                  "may as well delete"
+                ],
+                "eventId": "27"
               }
             ],
             "keywords": [
@@ -2453,6 +2464,9 @@
                 "opacity": 1
               },
               "variables": {
+                "opacity": 1
+              },
+              "may_as_well_delete": {
                 "opacity": 1
               }
             }

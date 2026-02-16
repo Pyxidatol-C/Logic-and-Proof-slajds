@@ -1,0 +1,2296 @@
+{
+  "version": 3.1,
+  "presentation": "LnP-Sheet3",
+  "slideDict": {
+    "new_slide": "root",
+    "dyadics": "dyadics",
+    "exo1": "exo1",
+    "oplus_intuition": "oplus_intuition",
+    "oplus_automaton": "oplus_automaton",
+    "DLO": "automatic_structures",
+    "DLO2": "DLO",
+    "fields": "fields",
+    "F4": "F4",
+    "exo2": "exo2",
+    "axioms": "axioms",
+    "exo3": "exo3",
+    "exo4": "exo4",
+    "pseudo_division": "pseudo_division",
+    "pseudo_division_qe": "pseudo_division_qe",
+    "exo5": "exo5",
+    "truth_in_fields": "truth_in_fields",
+    "exo6": "exo6",
+    "false_in_R": "false_in_R",
+    "what": "what"
+  },
+  "tree": {
+    "type": "child",
+    "name": "root",
+    "id": "new_slide",
+    "enabled": "enabled",
+    "merged": false,
+    "children": [
+      {
+        "type": "child",
+        "name": "dyadics",
+        "id": "dyadics",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [],
+        "keywords": [
+          "0.",
+          ".1",
+          ".01",
+          ".11",
+          ".001",
+          ".011",
+          ".101",
+          ".0101",
+          ".111",
+          "(adapted from wikipedia)",
+          "dyadics"
+        ],
+        "eventId": "11",
+        "originalParams": {}
+      },
+      {
+        "type": "child",
+        "name": "exo1",
+        "id": "exo1",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "child",
+            "name": "oplus-intuition",
+            "id": "oplus_intuition",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_195",
+                "enabled": "enabled",
+                "name": "or rather",
+                "merged": false,
+                "keywords": [
+                  "1 1 0",
+                  "0 0 1",
+                  "0 1 0",
+                  "0 0",
+                  "+ 0",
+                  ". . .",
+                  "or rather:",
+                  "or rather"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_11",
+                "enabled": "enabled",
+                "name": "Arrow 11",
+                "merged": false,
+                "keywords": [
+                  "Arrow 11"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Group_3",
+                "enabled": "enabled",
+                "name": "n",
+                "merged": true,
+                "keywords": [
+                  "n"
+                ],
+                "eventId": "19"
+              },
+              {
+                "type": "show",
+                "id": "Group_19",
+                "enabled": "enabled",
+                "name": "will there be a carry?",
+                "merged": false,
+                "keywords": [
+                  "will there be a carry?"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Group_192",
+                "enabled": "enabled",
+                "name": "this bit will be ...",
+                "merged": false,
+                "keywords": [
+                  "this bit will be ..."
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_122",
+                "enabled": "enabled",
+                "name": "Arrow 12",
+                "merged": false,
+                "keywords": [
+                  "Arrow 12"
+                ],
+                "eventId": "17"
+              },
+              {
+                "type": "show",
+                "id": "n_1",
+                "enabled": "enabled",
+                "name": "n+1",
+                "merged": true,
+                "keywords": [
+                  "n+1"
+                ],
+                "eventId": "20"
+              },
+              {
+                "type": "show",
+                "id": "this_bit_will_be_1",
+                "enabled": "enabled",
+                "name": "indeed.",
+                "merged": false,
+                "keywords": [
+                  "indeed."
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "will_there_be_a_carry_2",
+                "enabled": "enabled",
+                "name": "will there be a carry?",
+                "merged": false,
+                "keywords": [
+                  "will there be a carry?"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "this_bit_will_be____",
+                "enabled": "enabled",
+                "name": "this bit will be ...",
+                "merged": false,
+                "keywords": [
+                  "this bit will be ..."
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "there_IS_a_carry",
+                "enabled": "enabled",
+                "name": "yes, there is.",
+                "merged": false,
+                "keywords": [
+                  "yes, there is."
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_12",
+                "enabled": "enabled",
+                "name": "Arrow 13",
+                "merged": false,
+                "keywords": [
+                  "Arrow 13"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "Group_5",
+                "enabled": "enabled",
+                "name": "last",
+                "merged": true,
+                "keywords": [
+                  "last"
+                ],
+                "eventId": "21"
+              },
+              {
+                "type": "show",
+                "id": "will_there_be_a_carry__no_",
+                "enabled": "enabled",
+                "name": "will there be a carry? no.",
+                "merged": false,
+                "keywords": [
+                  "will there be a carry? no."
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "show",
+                "id": "Group_193",
+                "enabled": "enabled",
+                "name": "this bit will be ... 0",
+                "merged": false,
+                "keywords": [
+                  "this bit will be ...",
+                  "this bit will be ... 0"
+                ],
+                "eventId": "11"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_14",
+                "enabled": "enabled",
+                "name": "Arrow 14",
+                "merged": false,
+                "keywords": [
+                  "Arrow 14"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "Group_1",
+                "enabled": "enabled",
+                "name": "init",
+                "merged": true,
+                "keywords": [
+                  "init"
+                ],
+                "eventId": "22"
+              },
+              {
+                "type": "show",
+                "id": "will_there_be_a_carry__guess_",
+                "enabled": "enabled",
+                "name": "will there be a carry? guess.",
+                "merged": false,
+                "keywords": [
+                  "will there be a carry? guess."
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "Group_194",
+                "enabled": "enabled",
+                "name": "this bit will be...",
+                "merged": false,
+                "keywords": [
+                  "this bit will be..."
+                ],
+                "eventId": "13"
+              }
+            ],
+            "keywords": [
+              "⊕",
+              "1 1 1",
+              ". . .",
+              "0 0 0",
+              "0 1 1",
+              "1 1 0",
+              "oplus-intuition"
+            ],
+            "eventId": "4",
+            "originalParams": {
+              "Arrow_11": {
+                "opacity": 1
+              },
+              "Group_19": {
+                "opacity": 1
+              },
+              "Group_192": {
+                "opacity": 1
+              },
+              "will_there_be_a_carry_2": {
+                "opacity": 1
+              },
+              "this_bit_will_be____": {
+                "opacity": 1
+              },
+              "there_IS_a_carry": {
+                "opacity": 1
+              },
+              "this_bit_will_be_1": {
+                "opacity": 1
+              },
+              "Arrow_12": {
+                "opacity": 1
+              },
+              "will_there_be_a_carry__no_": {
+                "opacity": 1
+              },
+              "Group_193": {
+                "opacity": 1
+              },
+              "will_there_be_a_carry__guess_": {
+                "opacity": 1
+              },
+              "Group_194": {
+                "opacity": 1
+              },
+              "Arrow_14": {
+                "opacity": 1
+              },
+              "Group_195": {
+                "opacity": 1
+              },
+              "Arrow_122": {
+                "opacity": 1
+              },
+              "Group_3": {
+                "opacity": 1
+              },
+              "n_1": {
+                "opacity": 1
+              },
+              "Group_5": {
+                "opacity": 1
+              },
+              "Group_1": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "oplus-automaton",
+            "id": "oplus_automaton",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_24",
+                "enabled": "enabled",
+                "name": "initial",
+                "merged": false,
+                "keywords": [
+                  "initial"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Rectangle_4",
+                "enabled": "enabled",
+                "name": "final",
+                "merged": false,
+                "keywords": [
+                  "final"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "0_0_02",
+                "enabled": "enabled",
+                "name": "0 0 0",
+                "merged": false,
+                "keywords": [
+                  "0 0 0"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_18",
+                "enabled": "enabled",
+                "name": "Arrow 18",
+                "merged": false,
+                "keywords": [
+                  "Arrow 18"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Group_242",
+                "enabled": "enabled",
+                "name": "0 0 0",
+                "merged": false,
+                "keywords": [
+                  "0 0 0/",
+                  "0 0 0"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "0_1_0",
+                "enabled": "enabled",
+                "name": "0 1 0",
+                "merged": false,
+                "keywords": [
+                  "0 1 0"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_24",
+                "enabled": "enabled",
+                "name": "Arrow 24",
+                "merged": false,
+                "keywords": [
+                  "Arrow 24"
+                ],
+                "eventId": "15"
+              },
+              {
+                "type": "show",
+                "id": "0_1_02",
+                "enabled": "enabled",
+                "name": "1 0 0",
+                "merged": false,
+                "keywords": [
+                  "1 0 0"
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "show",
+                "id": "0_0_0",
+                "enabled": "enabled",
+                "name": "1 1 0",
+                "merged": false,
+                "keywords": [
+                  "1 1 0"
+                ],
+                "eventId": "11"
+              },
+              {
+                "type": "show",
+                "id": "Arrow_5",
+                "enabled": "enabled",
+                "name": "Arrow 5",
+                "merged": false,
+                "keywords": [
+                  "Arrow 5"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "Line_25",
+                "enabled": "enabled",
+                "name": "Line 25",
+                "merged": false,
+                "keywords": [
+                  "Line 25"
+                ],
+                "eventId": "13"
+              },
+              {
+                "type": "show",
+                "id": "Group_243",
+                "enabled": "enabled",
+                "name": "0 1 0",
+                "merged": false,
+                "keywords": [
+                  "0 1 0/",
+                  "1 0 0/",
+                  "1 1 0/",
+                  "0 1 0"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "Group_244",
+                "enabled": "enabled",
+                "name": "0 1 1",
+                "merged": false,
+                "keywords": [
+                  "0 1 1",
+                  "1 0 1",
+                  "1 0 2",
+                  "1 0 3"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "show",
+                "id": "Group_245",
+                "enabled": "enabled",
+                "name": "1 1 1/",
+                "merged": false,
+                "keywords": [
+                  "1 1 1/",
+                  "0 0 1",
+                  "1 0 3",
+                  "1 0 4"
+                ],
+                "eventId": "17"
+              }
+            ],
+            "keywords": [
+              "a b 0",
+              "a b 1",
+              "oplus-automaton"
+            ],
+            "eventId": "5",
+            "originalParams": {
+              "Group_24": {
+                "opacity": 1
+              },
+              "Rectangle_4": {
+                "opacity": 1
+              },
+              "0_0_02": {
+                "opacity": 1
+              },
+              "Arrow_18": {
+                "opacity": 1
+              },
+              "Group_242": {
+                "opacity": 1
+              },
+              "0_1_0": {
+                "opacity": 1
+              },
+              "0_1_02": {
+                "opacity": 1
+              },
+              "0_0_0": {
+                "opacity": 1
+              },
+              "Arrow_5": {
+                "opacity": 1
+              },
+              "Line_25": {
+                "opacity": 1
+              },
+              "Group_243": {
+                "opacity": 1
+              },
+              "Arrow_24": {
+                "opacity": 1
+              },
+              "Group_244": {
+                "opacity": 1
+              },
+              "Group_245": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "Group_18",
+            "enabled": "enabled",
+            "name": "[ ]",
+            "merged": false,
+            "keywords": [
+              "(",
+              "[ ]",
+              "0 0",
+              "+",
+              "1 1",
+              ")*",
+              "0 1",
+              "Σ*"
+            ],
+            "eventId": "6"
+          }
+        ],
+        "keywords": [
+          "Exercise 1",
+          "exo1"
+        ],
+        "eventId": "1",
+        "originalParams": {
+          "Group_18": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "automatic-structures",
+        "id": "DLO",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "show",
+            "id": "Text",
+            "enabled": "enabled",
+            "name": "x ⊕ y < x",
+            "merged": false,
+            "keywords": [
+              "x ⊕ y < x"
+            ],
+            "eventId": "15"
+          },
+          {
+            "type": "show",
+            "id": "Group_25",
+            "enabled": "enabled",
+            "name": "∃z (x ⊕ y = z ∧ z < x)",
+            "merged": false,
+            "keywords": [
+              "∃z (x ⊕ y = z ∧ z > x)",
+              "i.e.",
+              "∃z (x ⊕ y = z ∧ z < x)"
+            ],
+            "eventId": "3"
+          },
+          {
+            "type": "show",
+            "id": "Group_6",
+            "enabled": "enabled",
+            "name": "oplus",
+            "merged": false,
+            "keywords": [
+              "⊕",
+              "1 1 1",
+              "0 0 0",
+              "0 1 1",
+              "1 1 0",
+              "oplus"
+            ],
+            "eventId": "4"
+          },
+          {
+            "type": "show",
+            "id": "Group_7",
+            "enabled": "enabled",
+            "name": "<",
+            "merged": false,
+            "keywords": [
+              "<",
+              "1 1",
+              "0 0",
+              "0 1",
+              "1 0"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "intersection",
+            "enabled": "enabled",
+            "name": "intersection",
+            "merged": false,
+            "keywords": [
+              "intersection"
+            ],
+            "eventId": "7"
+          },
+          {
+            "type": "show",
+            "id": "Group_24",
+            "enabled": "enabled",
+            "name": "projection",
+            "merged": false,
+            "keywords": [
+              "1",
+              "0",
+              "projection"
+            ],
+            "eventId": "6"
+          },
+          {
+            "type": "show",
+            "id": "inverse_image_under_projection",
+            "enabled": "enabled",
+            "name": "inverse image under projection",
+            "merged": false,
+            "keywords": [
+              "inverse image under projection"
+            ],
+            "eventId": "14"
+          },
+          {
+            "type": "show",
+            "id": "Group_242",
+            "enabled": "enabled",
+            "name": "Group 24",
+            "merged": false,
+            "keywords": [
+              "Group 24"
+            ],
+            "eventId": "13"
+          },
+          {
+            "type": "show",
+            "id": "letter_to_letter_image",
+            "enabled": "enabled",
+            "name": "letter-to-letter image",
+            "merged": false,
+            "keywords": [
+              "letter-to-letter image"
+            ],
+            "eventId": "8"
+          },
+          {
+            "type": "show",
+            "id": "A_sentence___is_in_T_iff_L_automaton____",
+            "enabled": "enabled",
+            "name": "A sentence φ is in T iff L(automaton) = ",
+            "merged": false,
+            "keywords": [
+              "A sentence φ is in T iff L(automaton) = "
+            ],
+            "eventId": "9"
+          },
+          {
+            "type": "show",
+            "id": "____",
+            "enabled": "enabled",
+            "name": "{ε}.",
+            "merged": false,
+            "keywords": [
+              "{ε}."
+            ],
+            "eventId": "10"
+          },
+          {
+            "type": "show",
+            "id": "______2",
+            "enabled": "enabled",
+            "name": "(ℚ, <)",
+            "merged": false,
+            "keywords": [
+              "(ℚ, <)"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "child",
+            "name": "DLO",
+            "id": "DLO2",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [],
+            "keywords": [
+              "ε",
+              "0",
+              "1",
+              "00",
+              "01",
+              "10",
+              "11",
+              "000",
+              "001",
+              "010",
+              "011",
+              "100",
+              "101",
+              "110",
+              "111",
+              "DLO"
+            ],
+            "eventId": "12",
+            "originalParams": {}
+          }
+        ],
+        "keywords": [
+          "Claim: the theory of an automatic structure is decidable.",
+          "(ℕ, +)",
+          "e.g.,",
+          "automatic-structures"
+        ],
+        "eventId": "12",
+        "originalParams": {
+          "Group_25": {
+            "opacity": 1
+          },
+          "Group_6": {
+            "opacity": 1
+          },
+          "Group_7": {
+            "opacity": 1
+          },
+          "Group_24": {
+            "opacity": 1
+          },
+          "intersection": {
+            "opacity": 1
+          },
+          "letter_to_letter_image": {
+            "opacity": 1
+          },
+          "A_sentence___is_in_T_iff_L_automaton____": {
+            "opacity": 1
+          },
+          "____": {
+            "opacity": 1
+          },
+          "______2": {
+            "opacity": 1
+          },
+          "Group_242": {
+            "opacity": 1
+          },
+          "inverse_image_under_projection": {
+            "opacity": 1
+          },
+          "Text": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "fields",
+        "id": "fields",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "show",
+            "id": "_sqrt_3_",
+            "enabled": "enabled",
+            "name": "\\sqrt{3}",
+            "merged": false,
+            "keywords": [
+              "\\sqrt{3}"
+            ],
+            "eventId": "2"
+          },
+          {
+            "type": "show",
+            "id": "_",
+            "enabled": "enabled",
+            "name": "π",
+            "merged": false,
+            "keywords": [
+              "π"
+            ],
+            "eventId": "4"
+          },
+          {
+            "type": "show",
+            "id": "_i",
+            "enabled": "enabled",
+            "name": "-i",
+            "merged": false,
+            "keywords": [
+              "-i"
+            ],
+            "eventId": "6"
+          },
+          {
+            "type": "show",
+            "id": "_i2",
+            "enabled": "enabled",
+            "name": "πi",
+            "merged": false,
+            "keywords": [
+              "πi"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "Group_28",
+            "enabled": "enabled",
+            "name": "F2",
+            "merged": false,
+            "keywords": [
+              "0, 1",
+              "-1 = 1",
+              "1/1 = 1",
+              "F2"
+            ],
+            "eventId": "8"
+          },
+          {
+            "type": "show",
+            "id": "Rectangle_102",
+            "enabled": "enabled",
+            "name": "Rectangle 10",
+            "merged": true,
+            "keywords": [
+              "Rectangle 10"
+            ],
+            "eventId": "9"
+          },
+          {
+            "type": "show",
+            "id": "F42",
+            "enabled": "enabled",
+            "name": "F4",
+            "merged": false,
+            "keywords": [
+              "F4"
+            ],
+            "eventId": "10"
+          },
+          {
+            "type": "child",
+            "name": "F4",
+            "id": "F4",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_28",
+                "enabled": "enabled",
+                "name": "x+1",
+                "merged": false,
+                "keywords": [
+                  "0",
+                  "1",
+                  "x",
+                  "x+1"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Group_282",
+                "enabled": "enabled",
+                "name": "x2+x+1",
+                "merged": false,
+                "keywords": [
+                  "x2",
+                  "x2+1",
+                  "x2+x",
+                  "x2+x+1"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "Line_42",
+                "enabled": "enabled",
+                "name": "Line 42",
+                "merged": false,
+                "keywords": [
+                  "Line 42"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Line_43",
+                "enabled": "enabled",
+                "name": "Line 43",
+                "merged": false,
+                "keywords": [
+                  "Line 43"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Group_283",
+                "enabled": "enabled",
+                "name": "Addition:",
+                "merged": false,
+                "keywords": [
+                  "Addition:",
+                  "x + x = 0"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "_",
+                "enabled": "enabled",
+                "name": "x + (x+1) = 1",
+                "merged": false,
+                "keywords": [
+                  "x + (x+1) = 1"
+                ],
+                "eventId": "13"
+              },
+              {
+                "type": "show",
+                "id": "Group_284",
+                "enabled": "enabled",
+                "name": "Multiplication:",
+                "merged": false,
+                "keywords": [
+                  "Multiplication:",
+                  "(x+1)2 ="
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "Text2",
+                "enabled": "enabled",
+                "name": "x2 + 1 = x",
+                "merged": false,
+                "keywords": [
+                  "x2 + 1 = x"
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "show",
+                "id": "_x_1_2___x2___1___x",
+                "enabled": "enabled",
+                "name": "(x+1) x = x2 + x = 1",
+                "merged": false,
+                "keywords": [
+                  "(x+1) x = x2 + x = 1"
+                ],
+                "eventId": "12"
+              }
+            ],
+            "keywords": [
+              "Elements:",
+              "𝔽2[x] mod (x2 + x + 1)",
+              "F4"
+            ],
+            "eventId": "1",
+            "originalParams": {
+              "Group_28": {
+                "opacity": 1
+              },
+              "Group_282": {
+                "opacity": 1
+              },
+              "Line_42": {
+                "opacity": 1
+              },
+              "Line_43": {
+                "opacity": 1
+              },
+              "Group_283": {
+                "opacity": 1
+              },
+              "Group_284": {
+                "opacity": 1
+              },
+              "Text2": {
+                "opacity": 1
+              },
+              "_x_1_2___x2___1___x": {
+                "opacity": 1
+              },
+              "_": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "_mathbb_F___p_n_",
+            "enabled": "enabled",
+            "name": "\\mathbb{F}_{2^n}",
+            "merged": false,
+            "keywords": [
+              "\\mathbb{F}_{2^n}"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "show",
+            "id": "find_a",
+            "enabled": "enabled",
+            "name": "a vector space over the 2-element field!",
+            "merged": false,
+            "keywords": [
+              "a vector space over the 2-element field!"
+            ],
+            "eventId": "12"
+          }
+        ],
+        "keywords": [
+          "0, 1, 2, ⋯",
+          "-1, -2, ⋯",
+          "5/7",
+          "fields"
+        ],
+        "eventId": "10",
+        "originalParams": {
+          "_sqrt_3_": {
+            "opacity": 1
+          },
+          "_": {
+            "opacity": 1
+          },
+          "_i2": {
+            "opacity": 1
+          },
+          "_i": {
+            "opacity": 1
+          },
+          "Group_28": {
+            "opacity": 1
+          },
+          "Rectangle_102": {
+            "opacity": 1
+          },
+          "F42": {
+            "opacity": 1
+          },
+          "_mathbb_F___p_n_": {
+            "opacity": 1
+          },
+          "find_a": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "exo2",
+        "id": "exo2",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "child",
+            "name": "axioms",
+            "id": "axioms",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_28",
+                "enabled": "enabled",
+                "name": "The sentences Σ axiomatise semisimple toads if 𝒜 ⊧ Σ ",
+                "merged": false,
+                "keywords": [
+                  "The sentences Σ axiomatise semisimple toads if 𝒜 ⊧ Σ ",
+                  "⇔ 𝒜 is semisimple"
+                ],
+                "eventId": "13"
+              },
+              {
+                "type": "show",
+                "id": "_______Tsemisimple_toad",
+                "enabled": "enabled",
+                "name": "⇔ 𝒜 ⊧ Tsemisimple toad",
+                "merged": false,
+                "keywords": [
+                  "⇔ 𝒜 ⊧ Tsemisimple toad"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "Finite_sets_are_not_axiomatisable_",
+                "enabled": "enabled",
+                "name": "Finite sets are not axiomatisable.",
+                "merged": false,
+                "keywords": [
+                  "Finite sets are not axiomatisable."
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "Infinite_sets_are_not_finitely_axiomatisable_",
+                "enabled": "enabled",
+                "name": "Infinite sets are not finitely axiomatisable.",
+                "merged": false,
+                "keywords": [
+                  "Infinite sets are not finitely axiomatisable."
+                ],
+                "eventId": "10"
+              }
+            ],
+            "keywords": [
+              "Fix a signature for toads.",
+              "axioms"
+            ],
+            "eventId": "11",
+            "originalParams": {
+              "Finite_sets_are_not_axiomatisable_": {
+                "opacity": 1
+              },
+              "Infinite_sets_are_not_finitely_axiomatisable_": {
+                "opacity": 1
+              },
+              "_______Tsemisimple_toad": {
+                "opacity": 1
+              },
+              "Group_28": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "Group_11",
+            "enabled": "enabled",
+            "name": "(... axioms for fields)",
+            "merged": false,
+            "keywords": [
+              "(... axioms for fields, e.g., 0 ≠ 1)",
+              "(... axioms for fields)"
+            ],
+            "eventId": "12"
+          },
+          {
+            "type": "show",
+            "id": "Group_112",
+            "enabled": "enabled",
+            "name": "p times",
+            "merged": false,
+            "keywords": [
+              "p times"
+            ],
+            "eventId": "13"
+          },
+          {
+            "type": "show",
+            "id": "Group_9",
+            "enabled": "enabled",
+            "name": "Group 9",
+            "merged": false,
+            "keywords": [
+              "Group 9"
+            ],
+            "eventId": "14"
+          },
+          {
+            "type": "show",
+            "id": "not_finitely_axiomatisable_",
+            "enabled": "enabled",
+            "name": "not finitely axiomatisable!",
+            "merged": false,
+            "keywords": [
+              "not finitely axiomatisable!"
+            ],
+            "eventId": "15"
+          }
+        ],
+        "keywords": [
+          "Exercise 2: Axioms for ...",
+          "exo2"
+        ],
+        "eventId": "8",
+        "originalParams": {
+          "Group_11": {
+            "opacity": 1
+          },
+          "Group_112": {
+            "opacity": 1
+          },
+          "Group_9": {
+            "opacity": 1
+          },
+          "not_finitely_axiomatisable_": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "exo3",
+        "id": "exo3",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "show",
+            "id": "Proof_start",
+            "enabled": "enabled",
+            "name": "Proof start",
+            "merged": false,
+            "keywords": [
+              "Proof: ",
+              "Let be finite;",
+              "Proof start"
+            ],
+            "eventId": "1"
+          },
+          {
+            "type": "show",
+            "id": "f_x______x____alpha_1__cdots_x____alpha_n____1",
+            "enabled": "enabled",
+            "name": "f(x) := (x - \\alpha_1)\\cdots(x - \\alpha_n) + 1 ∈ \\mathbb{F}[x]",
+            "merged": false,
+            "keywords": [
+              "f(x) := (x - \\alpha_1)\\cdots(x - \\alpha_n) + 1 ∈ \\mathbb{F}[x]"
+            ],
+            "eventId": "2"
+          },
+          {
+            "type": "show",
+            "id": "root_",
+            "enabled": "enabled",
+            "name": "has roots?",
+            "merged": false,
+            "keywords": [
+              "roots in .",
+              "has",
+              "has roots?"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "no_",
+            "enabled": "enabled",
+            "name": "no ",
+            "merged": false,
+            "keywords": [
+              "no "
+            ],
+            "eventId": "7"
+          }
+        ],
+        "keywords": [
+          "Exercise 3",
+          "Claim: ",
+          "algebraically closed fields are infinite.",
+          "exo3"
+        ],
+        "eventId": "9",
+        "originalParams": {
+          "Proof_start": {
+            "opacity": 1
+          },
+          "f_x______x____alpha_1__cdots_x____alpha_n____1": {
+            "opacity": 1
+          },
+          "root_": {
+            "opacity": 1
+          },
+          "no_": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "show",
+        "id": "have_quantifier_elimination",
+        "enabled": "enabled",
+        "name": "have quantifier elimination",
+        "merged": false,
+        "keywords": [
+          "have quantifier elimination"
+        ],
+        "eventId": "13"
+      },
+      {
+        "type": "child",
+        "name": "exo4",
+        "id": "exo4",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "child",
+            "name": "pseudo-division",
+            "id": "pseudo_division",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "_x3_3_1_1_________________",
+                "enabled": "enabled",
+                "name": "(x3)3-1+1(               )",
+                "merged": false,
+                "keywords": [
+                  "(x3)3-1+1(               )"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Group_192",
+                "enabled": "enabled",
+                "name": "= x11y3",
+                "merged": false,
+                "keywords": [
+                  "= x11y3",
+                  "– x9y"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "x8y2",
+                "enabled": "enabled",
+                "name": "x8y2",
+                "merged": false,
+                "keywords": [
+                  "x8y2"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Group_19",
+                "enabled": "enabled",
+                "name": "x11y3 – 2x8y2",
+                "merged": false,
+                "keywords": [
+                  "x11y3 – 2x8y2",
+                  "–( )"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Group_193",
+                "enabled": "enabled",
+                "name": "2x8y2 – x9y",
+                "merged": false,
+                "keywords": [
+                  "2x8y2 – x9y"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "2x8y2___x9y",
+                "enabled": "enabled",
+                "name": "+2x5y",
+                "merged": false,
+                "keywords": [
+                  "+2x5y"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "x11y3___2x8y2",
+                "enabled": "enabled",
+                "name": "x11y3 – 2x8y2",
+                "merged": false,
+                "keywords": [
+                  "–( )",
+                  "2x8y2 – 4x5y",
+                  "x11y3 – 2x8y2"
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "show",
+                "id": "Group_194",
+                "enabled": "enabled",
+                "name": "(-x9 + 4x5)y",
+                "merged": false,
+                "keywords": [
+                  "(-x9 + 4x5)y"
+                ],
+                "eventId": "11"
+              },
+              {
+                "type": "show",
+                "id": "__x11y3___x9y",
+                "enabled": "enabled",
+                "name": "+(-x6 + 4x2)",
+                "merged": false,
+                "keywords": [
+                  "+(-x6 + 4x2)"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "Group_195",
+                "enabled": "enabled",
+                "name": "(-x9 + 4x5)y – 2(-x6 + 4x2)",
+                "merged": false,
+                "keywords": [
+                  "(-x9 + 4x5)y – 2(-x6 + 4x2)",
+                  "–( )"
+                ],
+                "eventId": "13"
+              },
+              {
+                "type": "show",
+                "id": "Group_196",
+                "enabled": "enabled",
+                "name": "2(-x6 + 4x2)",
+                "merged": false,
+                "keywords": [
+                  "2(-x6 + 4x2)"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "the_pseudo_remainder_",
+                "enabled": "enabled",
+                "name": "the pseudo remainder!",
+                "merged": false,
+                "keywords": [
+                  "the pseudo remainder!"
+                ],
+                "eventId": "15"
+              }
+            ],
+            "keywords": [
+              "x2y3 – y",
+              "x3y1 – 2",
+              "pseudo-division"
+            ],
+            "eventId": "1",
+            "originalParams": {
+              "_x3_3_1_1_________________": {
+                "opacity": 1
+              },
+              "x8y2": {
+                "opacity": 1
+              },
+              "Group_19": {
+                "opacity": 1
+              },
+              "Group_192": {
+                "opacity": 1
+              },
+              "Group_193": {
+                "opacity": 1
+              },
+              "2x8y2___x9y": {
+                "opacity": 1
+              },
+              "x11y3___2x8y2": {
+                "opacity": 1
+              },
+              "Group_194": {
+                "opacity": 1
+              },
+              "__x11y3___x9y": {
+                "opacity": 1
+              },
+              "Group_195": {
+                "opacity": 1
+              },
+              "Group_196": {
+                "opacity": 1
+              },
+              "the_pseudo_remainder_": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "pseudo-division-qe",
+            "id": "pseudo_division_qe",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_18",
+                "enabled": "enabled",
+                "name": "a(x) = 0 ∧ ",
+                "merged": false,
+                "keywords": [
+                  "↔",
+                  "a(x) = 0 ∧ ",
+                  "a(x) ≠ 0 ∧ ",
+                  "∨"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "_y__2___0___g___0_",
+                "enabled": "enabled",
+                "name": "∃y (2 = 0 ∧ x2y3–y ≠ 0)",
+                "merged": false,
+                "keywords": [
+                  "∃y (2 = 0 ∧ x2y3–y ≠ 0)"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Group_182",
+                "enabled": "enabled",
+                "name": "Group 18",
+                "merged": false,
+                "keywords": [
+                  "Group 18"
+                ],
+                "eventId": "15"
+              },
+              {
+                "type": "hide",
+                "id": "Text",
+                "enabled": "enabled",
+                "name": "a(x)d (x2y3 – y) = qpseudo f + 2(-x6 + 4x2)",
+                "merged": false,
+                "keywords": [
+                  "a(x)d (x2y3 – y) = qpseudo f + 2(-x6 + 4x2)"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "f___a_x__y___2_a_x_d__x2y3___y____qpseudo_f___2__x6___4x2_",
+                "enabled": "enabled",
+                "name": "a(1)d (12y3 – y) = qpseudo f + 2(-16 + 4 ⋅ 12)",
+                "merged": true,
+                "keywords": [
+                  "a(1)d (12y3 – y) = qpseudo f + 2(-16 + 4 ⋅ 12)"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "Line_24",
+                "enabled": "enabled",
+                "name": "Line 24",
+                "merged": false,
+                "keywords": [
+                  "Line 24"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "__02",
+                "enabled": "enabled",
+                "name": "= 0",
+                "merged": false,
+                "keywords": [
+                  "= 0"
+                ],
+                "eventId": "11"
+              },
+              {
+                "type": "show",
+                "id": "__0",
+                "enabled": "enabled",
+                "name": "≠ 0",
+                "merged": false,
+                "keywords": [
+                  "≠ 0"
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "show",
+                "id": "___y__f___0___g___0_",
+                "enabled": "enabled",
+                "name": "2(-x6 + 4x2) ≠ 0",
+                "merged": false,
+                "keywords": [
+                  "2(-x6 + 4x2) ≠ 0"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "_many_subtleties_here_in_general__",
+                "enabled": "enabled",
+                "name": "(many subtleties in general!)",
+                "merged": false,
+                "keywords": [
+                  "(many subtleties in general!)"
+                ],
+                "eventId": "14"
+              }
+            ],
+            "keywords": [
+              "f = a(x) y + 2",
+              "a(x)d (x2y3 – y) = qpseudo f + 2(-x6 + 4x2)",
+              "TACF ⊧",
+              "∃y (f = 0 ∧ x2y3–y ≠ 0)",
+              "pseudo-division-qe"
+            ],
+            "eventId": "2",
+            "originalParams": {
+              "Group_18": {
+                "opacity": 1
+              },
+              "_y__2___0___g___0_": {
+                "opacity": 1
+              },
+              "Text": {
+                "opacity": 1
+              },
+              "f___a_x__y___2_a_x_d__x2y3___y____qpseudo_f___2__x6___4x2_": {
+                "opacity": 1
+              },
+              "Line_24": {
+                "opacity": 1
+              },
+              "__0": {
+                "opacity": 1
+              },
+              "__02": {
+                "opacity": 1
+              },
+              "___y__f___0___g___0_": {
+                "opacity": 1
+              },
+              "_many_subtleties_here_in_general__": {
+                "opacity": 1
+              },
+              "Group_182": {
+                "opacity": 1
+              }
+            }
+          }
+        ],
+        "keywords": [
+          "Exercise 4",
+          "exo4"
+        ],
+        "eventId": "4",
+        "originalParams": {}
+      },
+      {
+        "type": "child",
+        "name": "exo5",
+        "id": "exo5",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "show",
+            "id": "Group_19",
+            "enabled": "enabled",
+            "name": "Output: φ ∈ TACF?",
+            "merged": false,
+            "keywords": [
+              "Output: φ ∈ TACF?",
+              "Input: sentence φ"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "Group_192",
+            "enabled": "enabled",
+            "name": "TACF ⊧ φ ↔ Boolean combination of ",
+            "merged": false,
+            "keywords": [
+              "TACF ⊧ φ ↔ Boolean combination of ",
+              "effective"
+            ],
+            "eventId": "6"
+          },
+          {
+            "type": "show",
+            "id": "p_0__1____q_0__1_",
+            "enabled": "enabled",
+            "name": "p(0, 1) = q(0, 1)",
+            "merged": false,
+            "keywords": [
+              "p(0, 1) = q(0, 1)"
+            ],
+            "eventId": "7"
+          },
+          {
+            "type": "show",
+            "id": "Group_193",
+            "enabled": "enabled",
+            "name": "n = 0",
+            "merged": false,
+            "keywords": [
+              "n = 0"
+            ],
+            "eventId": "13"
+          },
+          {
+            "type": "show",
+            "id": "Check_validity_in_all_fields",
+            "enabled": "enabled",
+            "name": "Check validity in all fields. ",
+            "merged": false,
+            "keywords": [
+              "Check validity in all fields. "
+            ],
+            "eventId": "8"
+          },
+          {
+            "type": "child",
+            "name": "truth-in-fields",
+            "id": "truth_in_fields",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "02",
+                "enabled": "enabled",
+                "name": "wtf2",
+                "merged": false,
+                "keywords": [
+                  "wtf2"
+                ],
+                "eventId": "23"
+              },
+              {
+                "type": "show",
+                "id": "12",
+                "enabled": "enabled",
+                "name": "wtf3",
+                "merged": false,
+                "keywords": [
+                  "wtf3"
+                ],
+                "eventId": "24"
+              },
+              {
+                "type": "show",
+                "id": "wtf5",
+                "enabled": "enabled",
+                "name": "wtf5",
+                "merged": false,
+                "keywords": [
+                  "wtf5"
+                ],
+                "eventId": "32"
+              },
+              {
+                "type": "show",
+                "id": "03",
+                "enabled": "enabled",
+                "name": "wtf7",
+                "merged": false,
+                "keywords": [
+                  "wtf7"
+                ],
+                "eventId": "26"
+              },
+              {
+                "type": "show",
+                "id": "04",
+                "enabled": "enabled",
+                "name": "wtf11",
+                "merged": false,
+                "keywords": [
+                  "wtf11"
+                ],
+                "eventId": "27"
+              },
+              {
+                "type": "show",
+                "id": "05",
+                "enabled": "enabled",
+                "name": "wtf0",
+                "merged": false,
+                "keywords": [
+                  "wtf0"
+                ],
+                "eventId": "28"
+              },
+              {
+                "type": "show",
+                "id": "all_fields_of_char__0",
+                "enabled": "enabled",
+                "name": "all fields of char. 0",
+                "merged": false,
+                "keywords": [
+                  "all fields of char. 0"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "all_fields_of_char__3",
+                "enabled": "enabled",
+                "name": "all fields of char. 3",
+                "merged": false,
+                "keywords": [
+                  "all fields of char. 3"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "Group_22",
+                "enabled": "enabled",
+                "name": "10 = 0",
+                "merged": false,
+                "keywords": [
+                  "10 = 0",
+                  "1",
+                  "0"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "Group_21",
+                "enabled": "enabled",
+                "name": "10 ≠ 0 ∨ 3 ≠ 0",
+                "merged": false,
+                "keywords": [
+                  "10 = 0 ∧ 3 = 0",
+                  "0",
+                  "10 ≠ 0 ∨ 3 ≠ 0"
+                ],
+                "eventId": "10"
+              }
+            ],
+            "keywords": [
+              "ℤ/2",
+              "ℤ/3",
+              "ℤ/5",
+              "ℤ/7",
+              "⋯",
+              "3 = 0",
+              "ℤ/11",
+              "ℚ",
+              "truth-in-fields"
+            ],
+            "eventId": "9",
+            "originalParams": {
+              "0": {
+                "opacity": 1
+              },
+              "12": {
+                "opacity": 1
+              },
+              "all_fields_of_char__0": {
+                "opacity": 1
+              },
+              "all_fields_of_char__3": {
+                "opacity": 1
+              },
+              "Group_22": {
+                "opacity": 1
+              },
+              "Group_21": {
+                "opacity": 1
+              },
+              "02": {
+                "opacity": 1
+              },
+              "03": {
+                "opacity": 1
+              },
+              "04": {
+                "opacity": 1
+              },
+              "05": {
+                "opacity": 1
+              },
+              "wtf5": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "Group_20",
+            "enabled": "enabled",
+            "name": "very few",
+            "merged": false,
+            "keywords": [
+              "a few remainders",
+              "very few"
+            ],
+            "eventId": "10"
+          },
+          {
+            "type": "show",
+            "id": "Line_16",
+            "enabled": "enabled",
+            "name": "Line 17",
+            "merged": false,
+            "keywords": [
+              "Line 17"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "show",
+            "id": "Group_21",
+            "enabled": "enabled",
+            "name": "are decidable and complete though.",
+            "merged": false,
+            "keywords": [
+              "are hence decidable and complete, though.",
+              "are decidable and complete though."
+            ],
+            "eventId": "12"
+          }
+        ],
+        "keywords": [
+          "Exercise 5",
+          "Claim (\"Prof. Tort\"): TACF is decidable and complete.",
+          "exo5"
+        ],
+        "eventId": "5",
+        "originalParams": {
+          "Group_19": {
+            "opacity": 1
+          },
+          "Group_192": {
+            "opacity": 1
+          },
+          "p_0__1____q_0__1_": {
+            "opacity": 1
+          },
+          "Check_validity_in_all_fields": {
+            "opacity": 1
+          },
+          "Group_20": {
+            "opacity": 1
+          },
+          "Line_16": {
+            "opacity": 1
+          },
+          "Group_21": {
+            "opacity": 1
+          },
+          "Group_193": {
+            "opacity": 1
+          },
+          "Logic___Proof": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "exo6",
+        "id": "exo6",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "show",
+            "id": "Group_12",
+            "enabled": "enabled",
+            "name": "Group 12",
+            "merged": false,
+            "keywords": [
+              "Group 12"
+            ],
+            "eventId": "3"
+          },
+          {
+            "type": "show",
+            "id": "Z______mathbf_a___in____mathbb_C__n____p_1__mathbf_a_________p_m__mathbf_a_____0__",
+            "enabled": "enabled",
+            "name": "π_1(Z) \\subseteq{} \\mathbb{C}",
+            "merged": false,
+            "keywords": [
+              "π_1(Z) \\subseteq{} \\mathbb{C}"
+            ],
+            "eventId": "4"
+          },
+          {
+            "type": "show",
+            "id": "Group_13",
+            "enabled": "enabled",
+            "name": "q(z_1) = 0",
+            "merged": false,
+            "keywords": [
+              "q(z_1) = 0"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "___exists__a_2____exists__a_n__bigwedge_j_p_j_a_1___dots__a_n____0",
+            "enabled": "enabled",
+            "name": "= \\exists{}a_2 ⋯ \\exists{}a_n \\bigwedge_j p_j(z, \\dots, a_n) = 0",
+            "merged": true,
+            "keywords": [
+              "= \\exists{}a_2 ⋯ \\exists{}a_n \\bigwedge_j p_j(z, \\dots, a_n) = 0"
+            ],
+            "eventId": "6"
+          },
+          {
+            "type": "show",
+            "id": "Group_132",
+            "enabled": "enabled",
+            "name": ", a Boolean combination of",
+            "merged": false,
+            "keywords": [
+              "Now",
+              ", a Boolean combination of"
+            ],
+            "eventId": "7"
+          },
+          {
+            "type": "show",
+            "id": "F",
+            "enabled": "enabled",
+            "name": "f(z) = 0",
+            "merged": false,
+            "keywords": [
+              "f(z) = 0"
+            ],
+            "eventId": "8"
+          },
+          {
+            "type": "show",
+            "id": "is_a_Boolean_combination_of",
+            "enabled": "enabled",
+            "name": "p = 0: all are root ",
+            "merged": false,
+            "keywords": [
+              "p = 0: all are root "
+            ],
+            "eventId": "9"
+          },
+          {
+            "type": "show",
+            "id": "p___0__all_are_roots___cofinite",
+            "enabled": "enabled",
+            "name": "p ≠ 0: ≤ deg(p) roots",
+            "merged": false,
+            "keywords": [
+              "p ≠ 0: ≤ deg(p) roots"
+            ],
+            "eventId": "10"
+          },
+          {
+            "type": "show",
+            "id": "Group_133",
+            "enabled": "enabled",
+            "name": "is finite/cofinite",
+            "merged": false,
+            "keywords": [
+              "so",
+              "is finite/cofinite,",
+              "is finite/cofinite"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "show",
+            "id": "Group_14",
+            "enabled": "enabled",
+            "name": ", since .",
+            "merged": false,
+            "keywords": [
+              ", since ."
+            ],
+            "eventId": "17"
+          },
+          {
+            "type": "show",
+            "id": "Group_134",
+            "enabled": "enabled",
+            "name": "Group 13",
+            "merged": false,
+            "keywords": [
+              "Group 13"
+            ],
+            "eventId": "14"
+          },
+          {
+            "type": "show",
+            "id": "Line_13",
+            "enabled": "enabled",
+            "name": "Line 13",
+            "merged": false,
+            "keywords": [
+              "Line 13"
+            ],
+            "eventId": "15"
+          },
+          {
+            "type": "child",
+            "name": "false-in-R",
+            "id": "false_in_R",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_28",
+                "enabled": "enabled",
+                "name": "x2 + y2 – 1 = 0",
+                "merged": false,
+                "keywords": [
+                  "x2 + y2 – 1 = 0"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Group_14",
+                "enabled": "enabled",
+                "name": "π1(Z)",
+                "merged": false,
+                "keywords": [
+                  "π1(Z)"
+                ],
+                "eventId": "1"
+              }
+            ],
+            "keywords": [
+              "y",
+              "x",
+              "false-in-R"
+            ],
+            "eventId": "16",
+            "originalParams": {
+              "Group_14": {
+                "opacity": 1
+              },
+              "Group_28": {
+                "opacity": 1
+              }
+            }
+          }
+        ],
+        "keywords": [
+          "Exercise 6",
+          "is the common zeros of .",
+          "exo6"
+        ],
+        "eventId": "6",
+        "originalParams": {
+          "Group_12": {
+            "opacity": 1
+          },
+          "Z______mathbf_a___in____mathbb_C__n____p_1__mathbf_a_________p_m__mathbf_a_____0__": {
+            "opacity": 1
+          },
+          "Group_13": {
+            "opacity": 1
+          },
+          "___exists__a_2____exists__a_n__bigwedge_j_p_j_a_1___dots__a_n____0": {
+            "opacity": 1
+          },
+          "Group_132": {
+            "opacity": 1
+          },
+          "F": {
+            "opacity": 1
+          },
+          "is_a_Boolean_combination_of": {
+            "opacity": 1
+          },
+          "p___0__all_are_roots___cofinite": {
+            "opacity": 1
+          },
+          "Group_133": {
+            "opacity": 1
+          },
+          "Group_134": {
+            "opacity": 1
+          },
+          "Line_13": {
+            "opacity": 1
+          },
+          "Group_14": {
+            "opacity": 1
+          }
+        }
+      }
+    ],
+    "keywords": [
+      "Logic & Proof",
+      "Sheet 3",
+      "Jingjie Yang HT’26",
+      "Problems and solutions courtesy of James Worrell",
+      "Dydadic rationals",
+      "Algebraically closed fields",
+      "root"
+    ],
+    "eventId": "root",
+    "originalParams": {
+      "have_quantifier_elimination": {
+        "opacity": 1
+      }
+    }
+  },
+  "treeTimeLine": [],
+  "chronicleTimeLine": []
+}
