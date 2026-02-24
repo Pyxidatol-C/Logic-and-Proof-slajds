@@ -1,0 +1,1947 @@
+{
+  "version": 3.1,
+  "presentation": "LnP-Sheet4",
+  "slideDict": {
+    "new_slide": "root",
+    "exo1": "exo1",
+    "exo2": "exo2",
+    "exo3": "exo3",
+    "exo4": "exo4",
+    "exo5": "exo5",
+    "exo6": "exo6",
+    "exo3a": "exo3a",
+    "exo3b": "exo3b",
+    "exo5a": "exo5a",
+    "exo5b": "exo5b",
+    "udlo_strategy": "udlo_strategy",
+    "udlo_invariant": "udlo_invariant"
+  },
+  "tree": {
+    "type": "child",
+    "name": "root",
+    "id": "new_slide",
+    "enabled": "enabled",
+    "merged": false,
+    "children": [
+      {
+        "type": "show",
+        "id": "_A__a___k__B__b_2",
+        "enabled": "enabled",
+        "name": "(A, a) ≡k (B, b)",
+        "merged": false,
+        "keywords": [
+          "(A, a) ≡k (B, b)"
+        ],
+        "eventId": "9"
+      },
+      {
+        "type": "show",
+        "id": "Arrow_1",
+        "enabled": "enabled",
+        "name": "Arrow 1",
+        "merged": false,
+        "keywords": [
+          "Arrow 1"
+        ],
+        "eventId": "12"
+      },
+      {
+        "type": "child",
+        "name": "exo2",
+        "id": "exo2",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "show",
+            "id": "Group_22",
+            "enabled": "enabled",
+            "name": "EF setup",
+            "merged": false,
+            "keywords": [
+              "g1, g2, …, gl",
+              "h1, h2, …, hl",
+              "Then G ∼k H:",
+              "k turns, between (G, ) and (H, )",
+              "EF setup"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "Group_4",
+            "enabled": "enabled",
+            "name": "k–l turns, between (G, g) and (H, h)",
+            "merged": false,
+            "keywords": [
+              "k–l turns, between (G, g) and (H, h)"
+            ],
+            "eventId": "27"
+          },
+          {
+            "type": "show",
+            "id": "What_invariant_on_g__h_guarantees_a_win_",
+            "enabled": "enabled",
+            "name": "What invariant on g, h guarantees a win?",
+            "merged": false,
+            "keywords": [
+              "What invariant on g, h guarantees a win?"
+            ],
+            "eventId": "31"
+          },
+          {
+            "type": "show",
+            "id": "Group_2",
+            "enabled": "enabled",
+            "name": "isomorphism",
+            "merged": false,
+            "keywords": [
+              "isomorphism"
+            ],
+            "eventId": "2"
+          },
+          {
+            "type": "show",
+            "id": "__hl_12",
+            "enabled": "enabled",
+            "name": ", gl",
+            "merged": false,
+            "keywords": [
+              ", gl"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "show",
+            "id": "image_1",
+            "enabled": "enabled",
+            "name": "blunder",
+            "merged": true,
+            "keywords": [
+              "blunder"
+            ],
+            "eventId": "25"
+          },
+          {
+            "type": "show",
+            "id": "__hl_1",
+            "enabled": "enabled",
+            "name": ", hl",
+            "merged": false,
+            "keywords": [
+              ", hl"
+            ],
+            "eventId": "13"
+          },
+          {
+            "type": "show",
+            "id": "Arrow_7",
+            "enabled": "enabled",
+            "name": "Arrow 8",
+            "merged": false,
+            "keywords": [
+              "Arrow 8"
+            ],
+            "eventId": "14"
+          },
+          {
+            "type": "show",
+            "id": "Group_23",
+            "enabled": "enabled",
+            "name": ", hl+1",
+            "merged": false,
+            "keywords": [
+              ", h+",
+              ", hl+1"
+            ],
+            "eventId": "16"
+          },
+          {
+            "type": "show",
+            "id": "book",
+            "enabled": "enabled",
+            "name": "book",
+            "merged": true,
+            "keywords": [
+              "book"
+            ],
+            "eventId": "26"
+          },
+          {
+            "type": "show",
+            "id": "G__",
+            "enabled": "enabled",
+            "name": "G ⊧",
+            "merged": false,
+            "keywords": [
+              "G ⊧"
+            ],
+            "eventId": "17"
+          },
+          {
+            "type": "show",
+            "id": "Group_24",
+            "enabled": "enabled",
+            "name": ", gl+1",
+            "merged": false,
+            "keywords": [
+              ", g+",
+              ", gl+1"
+            ],
+            "eventId": "18"
+          },
+          {
+            "type": "show",
+            "id": "Arrow_9",
+            "enabled": "enabled",
+            "name": "Arrow 9",
+            "merged": false,
+            "keywords": [
+              "Arrow 9"
+            ],
+            "eventId": "19"
+          },
+          {
+            "type": "show",
+            "id": "G__k_H",
+            "enabled": "enabled",
+            "name": "So G ≡k H",
+            "merged": false,
+            "keywords": [
+              "So G ≡k H"
+            ],
+            "eventId": "20"
+          },
+          {
+            "type": "show",
+            "id": "base_case__0_turns_left",
+            "enabled": "enabled",
+            "name": "base case: 0 turns left",
+            "merged": false,
+            "keywords": [
+              "base case: 0 turns left"
+            ],
+            "eventId": "30"
+          },
+          {
+            "type": "show",
+            "id": "Text",
+            "enabled": "enabled",
+            "name": "= Rado graph",
+            "merged": false,
+            "keywords": [
+              "= Rado graph"
+            ],
+            "eventId": "22"
+          },
+          {
+            "type": "show",
+            "id": "__for_any_k_",
+            "enabled": "enabled",
+            "name": ", for any k;",
+            "merged": false,
+            "keywords": [
+              ", for any k;"
+            ],
+            "eventId": "23"
+          },
+          {
+            "type": "show",
+            "id": "Th_E_is_symmetric___irreflexive___extension_axiom____Th_Rado_graph__is_complete_",
+            "enabled": "enabled",
+            "name": "Th(E is symmetric & irreflexive + extension axiom) = Th(Rado graph) is complete.",
+            "merged": false,
+            "keywords": [
+              "Th(E is symmetric & irreflexive + extension axiom) = Th(Rado graph) is complete."
+            ],
+            "eventId": "21"
+          },
+          {
+            "type": "show",
+            "id": "is_complete_",
+            "enabled": "enabled",
+            "name": "is complete.",
+            "merged": false,
+            "keywords": [
+              "is complete."
+            ],
+            "eventId": "24"
+          }
+        ],
+        "keywords": [
+          "Exercise 2",
+          "Let G, H ⊧ E is symmetric & irreflexive + extension axiom.",
+          "exo2"
+        ],
+        "eventId": "2",
+        "originalParams": {
+          "Group_2": {
+            "opacity": 1
+          },
+          "Group_22": {
+            "opacity": 1
+          },
+          "__hl_12": {
+            "opacity": 1
+          },
+          "__hl_1": {
+            "opacity": 1
+          },
+          "Arrow_7": {
+            "opacity": 1
+          },
+          "Group_23": {
+            "opacity": 1
+          },
+          "G__": {
+            "opacity": 1
+          },
+          "Group_24": {
+            "opacity": 1
+          },
+          "Arrow_9": {
+            "opacity": 1
+          },
+          "G__k_H": {
+            "opacity": 1
+          },
+          "Th_E_is_symmetric___irreflexive___extension_axiom____Th_Rado_graph__is_complete_": {
+            "opacity": 1
+          },
+          "Text": {
+            "opacity": 1
+          },
+          "__for_any_k_": {
+            "opacity": 1
+          },
+          "is_complete_": {
+            "opacity": 1
+          },
+          "image_1": {
+            "opacity": 1
+          },
+          "book": {
+            "opacity": 1
+          },
+          "Group_4": {
+            "opacity": 1
+          },
+          "base_case__0_turns_left": {
+            "opacity": 1
+          },
+          "What_invariant_on_g__h_guarantees_a_win_": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "show",
+        "id": "Arrow_3",
+        "enabled": "enabled",
+        "name": "Arrow 3",
+        "merged": false,
+        "keywords": [
+          "Arrow 3"
+        ],
+        "eventId": "13"
+      },
+      {
+        "type": "child",
+        "name": "exo1",
+        "id": "exo1",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "show",
+            "id": "Group_4",
+            "enabled": "enabled",
+            "name": "atomic formulas",
+            "merged": false,
+            "keywords": [
+              "atomic formulas",
+              "x1=x2",
+              "x1→x1"
+            ],
+            "eventId": "10"
+          },
+          {
+            "type": "show",
+            "id": "conjunctive_clauses",
+            "enabled": "enabled",
+            "name": "conjunctive clauses",
+            "merged": false,
+            "keywords": [
+              "conjunctive clauses",
+              "x1=x2 ∧ x1→x1 ∧ ¬ x2→x2"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "show",
+            "id": "Group_43",
+            "enabled": "enabled",
+            "name": "DNF's",
+            "merged": false,
+            "keywords": [
+              "DNF's",
+              "(x1=x2 ∧ x1→x1) ∨ (x1=x2)"
+            ],
+            "eventId": "12"
+          },
+          {
+            "type": "show",
+            "id": "Group_44",
+            "enabled": "enabled",
+            "name": "truth tables",
+            "merged": false,
+            "keywords": [
+              "2",
+              "truth tables"
+            ],
+            "eventId": "13"
+          },
+          {
+            "type": "show",
+            "id": "__quantifier_depth_02",
+            "enabled": "enabled",
+            "name": "— quantifier depth 0",
+            "merged": false,
+            "keywords": [
+              "— quantifier depth 0"
+            ],
+            "eventId": "14"
+          },
+          {
+            "type": "show",
+            "id": "Group_42",
+            "enabled": "enabled",
+            "name": "qd1 atoms",
+            "merged": false,
+            "keywords": [
+              "∃xm φqd≤0(x1, …, xm–1, xm)",
+              "In x1, …, xm–1:",
+              "∃x3 (x1=x2 ∧ x1→x1)",
+              "qd1 atoms"
+            ],
+            "eventId": "15"
+          },
+          {
+            "type": "show",
+            "id": "Group_45",
+            "enabled": "enabled",
+            "name": "qd1",
+            "merged": false,
+            "keywords": [
+              "φqd≤1(x1, …, xm–1)",
+              "∃x3 (x3→x3) ∧ ∃x3 (¬ x3→x3)",
+              "qd1"
+            ],
+            "eventId": "16"
+          },
+          {
+            "type": "show",
+            "id": "_",
+            "enabled": "enabled",
+            "name": "⋯",
+            "merged": false,
+            "keywords": [
+              "⋯"
+            ],
+            "eventId": "17"
+          }
+        ],
+        "keywords": [
+          "Exercise 1",
+          "In x1, …, xm:",
+          "\"every game position is described by a single formula\"",
+          "exo1"
+        ],
+        "eventId": "11",
+        "originalParams": {
+          "Group_4": {
+            "opacity": 1
+          },
+          "conjunctive_clauses": {
+            "opacity": 1
+          },
+          "Group_43": {
+            "opacity": 1
+          },
+          "Group_44": {
+            "opacity": 1
+          },
+          "__quantifier_depth_02": {
+            "opacity": 1
+          },
+          "Group_42": {
+            "opacity": 1
+          },
+          "Group_45": {
+            "opacity": 1
+          },
+          "_": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "exo4",
+        "id": "exo4",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "show",
+            "id": "Group_12",
+            "enabled": "enabled",
+            "name": "i.e. ∼k",
+            "merged": false,
+            "keywords": [
+              "i.e. ∼k"
+            ],
+            "eventId": "7"
+          },
+          {
+            "type": "show",
+            "id": "_a1__b1__",
+            "enabled": "enabled",
+            "name": "(a1, b1),",
+            "merged": false,
+            "keywords": [
+              "(a1, b1),"
+            ],
+            "eventId": "8"
+          },
+          {
+            "type": "show",
+            "id": "there_is_x1_such_that__A__a1___k_1__X__x1_",
+            "enabled": "enabled",
+            "name": "there is x1 such that (A, a1) ∼k–1 (X, x1)",
+            "merged": false,
+            "keywords": [
+              "there is x1 such that (A, a1) ∼k–1 (X, x1)"
+            ],
+            "eventId": "9"
+          },
+          {
+            "type": "show",
+            "id": "there_is_y1_such_that__A__b1___k_1__X__y1_",
+            "enabled": "enabled",
+            "name": "there is y1 such that (B, b1) ∼k–1 (Y, y1)",
+            "merged": false,
+            "keywords": [
+              "there is y1 such that (B, b1) ∼k–1 (Y, y1)"
+            ],
+            "eventId": "10"
+          },
+          {
+            "type": "show",
+            "id": "_x1__y1__",
+            "enabled": "enabled",
+            "name": "(x1, y1),",
+            "merged": false,
+            "keywords": [
+              "(x1, y1),"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "show",
+            "id": "_x1__y1__2",
+            "enabled": "enabled",
+            "name": "(x2, y2),",
+            "merged": false,
+            "keywords": [
+              "(x2, y2),"
+            ],
+            "eventId": "12"
+          },
+          {
+            "type": "show",
+            "id": "there_is_x1_such_that__A__a1___k_1__X__x1_2",
+            "enabled": "enabled",
+            "name": "there is a2 such that (A, a1, a2) ∼k–2 (X, x1, x2)",
+            "merged": false,
+            "keywords": [
+              "there is a2 such that (A, a1, a2) ∼k–2 (X, x1, x2)"
+            ],
+            "eventId": "13"
+          },
+          {
+            "type": "show",
+            "id": "there_is_y1_such_that__A__b1___k_1__X__y1_2",
+            "enabled": "enabled",
+            "name": "there is y2 such that (B, b1, b2) ∼k–2 (Y, y1, y2)",
+            "merged": false,
+            "keywords": [
+              "there is y2 such that (B, b1, b2) ∼k–2 (Y, y1, y2)"
+            ],
+            "eventId": "14"
+          },
+          {
+            "type": "show",
+            "id": "_a1__b1__2",
+            "enabled": "enabled",
+            "name": "(a2, b2),",
+            "merged": false,
+            "keywords": [
+              "(a2, b2),"
+            ],
+            "eventId": "15"
+          },
+          {
+            "type": "show",
+            "id": "Group_122",
+            "enabled": "enabled",
+            "name": "(ak, bk),",
+            "merged": false,
+            "keywords": [
+              "(ak, bk),",
+              "(xk, yk).",
+              "⋯"
+            ],
+            "eventId": "16"
+          },
+          {
+            "type": "show",
+            "id": "there_is_a2_such_that__A__a1__a2___k_2__X__x1__x2_",
+            "enabled": "enabled",
+            "name": "We have: (A, a1, a2, ..., ak) ∼0 (X, x1, x2, ..., xk) (B, b1, b2, ..., bk) ∼0 (Y, y1, y2, ..., yk)",
+            "merged": false,
+            "keywords": [
+              "We have: (A, a1, a2, ..., ak) ∼0 (X, x1, x2, ..., xk) (B, b1, b2, ..., bk) ∼0 (Y, y1, y2, ..., yk)"
+            ],
+            "eventId": "17"
+          },
+          {
+            "type": "show",
+            "id": "We_have___A__a1__a2_______ak___0__X__x1__x2_______xk___B__b1__b2_______bk___0__Y__y1__y2_______yk_",
+            "enabled": "enabled",
+            "name": "So: (A × B, (a1,b1), (a2,b2), ..., (ak,bk)) ∼0 (X × Y, (x1,y1), (x2,y2), ..., (xk,yk))",
+            "merged": false,
+            "keywords": [
+              "So: (A × B, (a1,b1), (a2,b2), ..., (ak,bk)) ∼0 (X × Y, (x1,y1), (x2,y2), ..., (xk,yk))"
+            ],
+            "eventId": "18"
+          },
+          {
+            "type": "show",
+            "id": "Group_123",
+            "enabled": "enabled",
+            "name": "P( (a,b), (cA,cB) )",
+            "merged": false,
+            "keywords": [
+              "P( (a,b), (cA,cB) )"
+            ],
+            "eventId": "19"
+          },
+          {
+            "type": "show",
+            "id": "Group_124",
+            "enabled": "enabled",
+            "name": "P(a, cA) and P(b, cB)",
+            "merged": false,
+            "keywords": [
+              "P(a, cA) and P(b, cB)",
+              "⇔"
+            ],
+            "eventId": "21"
+          },
+          {
+            "type": "show",
+            "id": "Group_125",
+            "enabled": "enabled",
+            "name": "P(x, cX) and P(y, cY)",
+            "merged": false,
+            "keywords": [
+              "P(x, cX) and P(y, cY)",
+              "⇔"
+            ],
+            "eventId": "22"
+          },
+          {
+            "type": "show",
+            "id": "P___x_y____cX_cY___",
+            "enabled": "enabled",
+            "name": "P( (x,y), (cX,cY) )",
+            "merged": false,
+            "keywords": [
+              "P( (x,y), (cX,cY) )",
+              "⇔"
+            ],
+            "eventId": "23"
+          }
+        ],
+        "keywords": [
+          "Exercise 4",
+          "A ≡k X, B ≡k Y",
+          "So A × B ≡k X × Y.",
+          "exo4"
+        ],
+        "eventId": "4",
+        "originalParams": {
+          "Group_12": {
+            "opacity": 1
+          },
+          "_a1__b1__": {
+            "opacity": 1
+          },
+          "there_is_x1_such_that__A__a1___k_1__X__x1_": {
+            "opacity": 1
+          },
+          "there_is_y1_such_that__A__b1___k_1__X__y1_": {
+            "opacity": 1
+          },
+          "_x1__y1__": {
+            "opacity": 1
+          },
+          "_x1__y1__2": {
+            "opacity": 1
+          },
+          "there_is_x1_such_that__A__a1___k_1__X__x1_2": {
+            "opacity": 1
+          },
+          "there_is_y1_such_that__A__b1___k_1__X__y1_2": {
+            "opacity": 1
+          },
+          "_a1__b1__2": {
+            "opacity": 1
+          },
+          "Group_122": {
+            "opacity": 1
+          },
+          "there_is_a2_such_that__A__a1__a2___k_2__X__x1__x2_": {
+            "opacity": 1
+          },
+          "We_have___A__a1__a2_______ak___0__X__x1__x2_______xk___B__b1__b2_______bk___0__Y__y1__y2_______yk_": {
+            "opacity": 1
+          },
+          "Group_123": {
+            "opacity": 1
+          },
+          "Group_124": {
+            "opacity": 1
+          },
+          "Group_125": {
+            "opacity": 1
+          },
+          "P___x_y____cX_cY___": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "show",
+        "id": "_A__a_____B__b_",
+        "enabled": "enabled",
+        "name": "(A, a) ≅ (B, b)",
+        "merged": false,
+        "keywords": [
+          "(A, a) ≅ (B, b)"
+        ],
+        "eventId": "14"
+      },
+      {
+        "type": "show",
+        "id": "Arrow_2",
+        "enabled": "enabled",
+        "name": "Arrow 2",
+        "merged": false,
+        "keywords": [
+          "Arrow 2"
+        ],
+        "eventId": "15"
+      },
+      {
+        "type": "show",
+        "id": "Group_12",
+        "enabled": "enabled",
+        "name": "Group 1",
+        "merged": false,
+        "keywords": [
+          "A, B fixed, for all k",
+          "Group 1"
+        ],
+        "eventId": "16"
+      },
+      {
+        "type": "show",
+        "id": "Line_1",
+        "enabled": "enabled",
+        "name": "nope",
+        "merged": false,
+        "keywords": [
+          "nope"
+        ],
+        "eventId": "18"
+      },
+      {
+        "type": "child",
+        "name": "exo3",
+        "id": "exo3",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "child",
+            "name": "exo3a",
+            "id": "exo3a",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_5",
+                "enabled": "enabled",
+                "name": "succ(x)",
+                "merged": false,
+                "keywords": [
+                  "succ(x)"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Group_6",
+                "enabled": "enabled",
+                "name": "succ-1(x)",
+                "merged": false,
+                "keywords": [
+                  "succ-1(x)"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "__succn_x____n______",
+                "enabled": "enabled",
+                "name": "{ succn(x) : n ∈ ℤ }",
+                "merged": false,
+                "keywords": [
+                  "{ succn(x) : n ∈ ℤ }"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "D____x_D",
+                "enabled": "enabled",
+                "name": "⋃x∈D",
+                "merged": false,
+                "keywords": [
+                  "⋃x∈D"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "D__",
+                "enabled": "enabled",
+                "name": "D =",
+                "merged": false,
+                "keywords": [
+                  "D ="
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "__succn_x____n______2",
+                "enabled": "enabled",
+                "name": "= ⨆x∈D' { succn(x) : n ∈ ℤ }",
+                "merged": false,
+                "keywords": [
+                  "= ⨆x∈D' { succn(x) : n ∈ ℤ }"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Group_52",
+                "enabled": "enabled",
+                "name": "D' × ℤ",
+                "merged": false,
+                "keywords": [
+                  "D' × ℤ"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "Group_53",
+                "enabled": "enabled",
+                "name": "(d, n) < (d', n') if d = d' and n < n', or d < d'.",
+                "merged": false,
+                "keywords": [
+                  "(d, n) < (d', n') if d = d' and n < n', or d < d'.",
+                  "order-preserving"
+                ],
+                "eventId": "8"
+              }
+            ],
+            "keywords": [
+              "D ⊧ ∀x ∃y ∃z (y < x < z ∧ ∀w ( ",
+              "w ≤ y",
+              "∨ w = x",
+              "∨ w ≥ z ))",
+              "exo3a"
+            ],
+            "eventId": "1",
+            "originalParams": {
+              "Group_5": {
+                "opacity": 1
+              },
+              "Group_6": {
+                "opacity": 1
+              },
+              "__succn_x____n______": {
+                "opacity": 1
+              },
+              "D____x_D": {
+                "opacity": 1
+              },
+              "D__": {
+                "opacity": 1
+              },
+              "__succn_x____n______2": {
+                "opacity": 1
+              },
+              "Group_52": {
+                "opacity": 1
+              },
+              "Group_53": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "exo3b",
+            "id": "exo3b",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_12",
+                "enabled": "enabled",
+                "name": "setup",
+                "merged": false,
+                "keywords": [
+                  "ℝ>0 × ℤ",
+                  "ℤ",
+                  "setup"
+                ],
+                "eventId": "18"
+              },
+              {
+                "type": "show",
+                "id": "Proof__for_k___4_",
+                "enabled": "enabled",
+                "name": "Example: for k = 5,",
+                "merged": false,
+                "keywords": [
+                  "Example: for k = 5,"
+                ],
+                "eventId": "19"
+              },
+              {
+                "type": "show",
+                "id": "Group_10",
+                "enabled": "enabled",
+                "name": "a1",
+                "merged": false,
+                "keywords": [
+                  "1",
+                  "a1"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "Group_102",
+                "enabled": "enabled",
+                "name": "b1",
+                "merged": false,
+                "keywords": [
+                  "1",
+                  "b1"
+                ],
+                "eventId": "13"
+              },
+              {
+                "type": "show",
+                "id": "a42",
+                "enabled": "enabled",
+                "name": "a2",
+                "merged": false,
+                "keywords": [
+                  "2",
+                  "a2"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "b2",
+                "enabled": "enabled",
+                "name": "b2",
+                "merged": false,
+                "keywords": [
+                  "2",
+                  "b2"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "a3",
+                "enabled": "enabled",
+                "name": "a3",
+                "merged": false,
+                "keywords": [
+                  "3",
+                  "a3"
+                ],
+                "eventId": "15"
+              },
+              {
+                "type": "show",
+                "id": "a2",
+                "enabled": "enabled",
+                "name": "b3 false",
+                "merged": false,
+                "keywords": [
+                  "3",
+                  "b3 false"
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "show",
+                "id": "a32",
+                "enabled": "enabled",
+                "name": "a4",
+                "merged": false,
+                "keywords": [
+                  "4",
+                  "a4"
+                ],
+                "eventId": "11"
+              },
+              {
+                "type": "show",
+                "id": "Line_24",
+                "enabled": "enabled",
+                "name": "OOPS",
+                "merged": false,
+                "keywords": [
+                  "OOPS"
+                ],
+                "eventId": "23"
+              },
+              {
+                "type": "show",
+                "id": "a33",
+                "enabled": "enabled",
+                "name": "b3",
+                "merged": false,
+                "keywords": [
+                  "3",
+                  "b3"
+                ],
+                "eventId": "22"
+              },
+              {
+                "type": "hide",
+                "id": "a32",
+                "enabled": "enabled",
+                "name": "a4",
+                "merged": true,
+                "keywords": [
+                  "a4"
+                ],
+                "eventId": "24"
+              },
+              {
+                "type": "show",
+                "id": "a32",
+                "enabled": "enabled",
+                "name": "a4",
+                "merged": false,
+                "keywords": [
+                  "a4"
+                ],
+                "eventId": "25"
+              },
+              {
+                "type": "show",
+                "id": "a4",
+                "enabled": "enabled",
+                "name": "b4",
+                "merged": false,
+                "keywords": [
+                  "4",
+                  "b4"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "child",
+                "name": "udlo-strategy",
+                "id": "udlo_strategy",
+                "enabled": "enabled",
+                "merged": false,
+                "children": [
+                  {
+                    "type": "show",
+                    "id": "Group_14",
+                    "enabled": "enabled",
+                    "name": "a1",
+                    "merged": false,
+                    "keywords": [
+                      "1",
+                      "a1"
+                    ],
+                    "eventId": "2"
+                  },
+                  {
+                    "type": "show",
+                    "id": "b1",
+                    "enabled": "enabled",
+                    "name": "b1",
+                    "merged": false,
+                    "keywords": [
+                      "1",
+                      "b1"
+                    ],
+                    "eventId": "3"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Win_in_each_interval_",
+                    "enabled": "enabled",
+                    "name": "Win in each interval.",
+                    "merged": false,
+                    "keywords": [
+                      "Win in each interval."
+                    ],
+                    "eventId": "7"
+                  }
+                ],
+                "keywords": [
+                  "Proof:",
+                  "Every move divides the game into 3.",
+                  "L × ℤ",
+                  "ℤ",
+                  "udlo-strategy"
+                ],
+                "eventId": "17",
+                "originalParams": {
+                  "Group_14": {
+                    "opacity": 1
+                  },
+                  "b1": {
+                    "opacity": 1
+                  },
+                  "Win_in_each_interval_": {
+                    "opacity": 1
+                  }
+                }
+              },
+              {
+                "type": "child",
+                "name": "udlo-invariant",
+                "id": "udlo_invariant",
+                "enabled": "enabled",
+                "merged": true,
+                "children": [
+                  {
+                    "type": "show",
+                    "id": "Group_17",
+                    "enabled": "enabled",
+                    "name": "right end",
+                    "merged": false,
+                    "keywords": [
+                      "0",
+                      "1",
+                      "2",
+                      "3",
+                      "4",
+                      "5",
+                      "6",
+                      "7",
+                      "8",
+                      "(",
+                      ")",
+                      "r = 3 rounds left:",
+                      "right end"
+                    ],
+                    "eventId": "9"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_19",
+                    "enabled": "enabled",
+                    "name": "Group 19",
+                    "merged": false,
+                    "keywords": [
+                      "Group 19"
+                    ],
+                    "eventId": "16"
+                  },
+                  {
+                    "type": "show",
+                    "id": "32",
+                    "enabled": "enabled",
+                    "name": "n–3",
+                    "merged": false,
+                    "keywords": [
+                      "n–3"
+                    ],
+                    "eventId": "10"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_0____3___2__0____3_2",
+                    "enabled": "enabled",
+                    "name": "(2r–3 .. 2r) ∼2 (n–3 .. n)",
+                    "merged": false,
+                    "keywords": [
+                      "(2r–3 .. 2r) ∼2 (n–3 .. n)"
+                    ],
+                    "eventId": "11"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_2r_3____2r___2__n_3____n_",
+                    "enabled": "enabled",
+                    "name": "by lemma, (0 .. 5) ∼2 (0 .. n–3)",
+                    "merged": false,
+                    "keywords": [
+                      "by lemma, (0 .. 5) ∼2 (0 .. n–3)"
+                    ],
+                    "eventId": "12"
+                  },
+                  {
+                    "type": "show",
+                    "id": "and_transitivity_of__r_",
+                    "enabled": "enabled",
+                    "name": "and transitivity of ∼r.",
+                    "merged": false,
+                    "keywords": [
+                      "and transitivity of ∼r."
+                    ],
+                    "eventId": "15"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_15",
+                    "enabled": "enabled",
+                    "name": "left end",
+                    "merged": false,
+                    "keywords": [
+                      "0",
+                      "1",
+                      "2",
+                      "3",
+                      "4",
+                      "5",
+                      "6",
+                      "7",
+                      "8",
+                      "(",
+                      ")",
+                      "left end"
+                    ],
+                    "eventId": "3"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_18",
+                    "enabled": "enabled",
+                    "name": "Group 18",
+                    "merged": false,
+                    "keywords": [
+                      "Group 18"
+                    ],
+                    "eventId": "5"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Text",
+                    "enabled": "enabled",
+                    "name": "3",
+                    "merged": false,
+                    "keywords": [
+                      "3"
+                    ],
+                    "eventId": "22"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_0____3___2__0____3_",
+                    "enabled": "enabled",
+                    "name": "(0 .. 3) ∼2 (0 .. 3)",
+                    "merged": false,
+                    "keywords": [
+                      "(0 .. 3) ∼2 (0 .. 3)"
+                    ],
+                    "eventId": "7"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_4____8___2__4____n__by_I_H_",
+                    "enabled": "enabled",
+                    "name": "(3 .. 8) ∼2 (3 .. n) by lemma",
+                    "merged": false,
+                    "keywords": [
+                      "(3 .. 8) ∼2 (3 .. n) by lemma"
+                    ],
+                    "eventId": "8"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_16",
+                    "enabled": "enabled",
+                    "name": "middle",
+                    "merged": false,
+                    "keywords": [
+                      "0",
+                      "1",
+                      "2",
+                      "3",
+                      "4",
+                      "5",
+                      "6",
+                      "7",
+                      "8",
+                      "(",
+                      ")",
+                      "middle"
+                    ],
+                    "eventId": "14"
+                  },
+                  {
+                    "type": "show",
+                    "id": "Group_20",
+                    "enabled": "enabled",
+                    "name": "Group 20",
+                    "merged": false,
+                    "keywords": [
+                      "Group 20"
+                    ],
+                    "eventId": "17"
+                  },
+                  {
+                    "type": "show",
+                    "id": "33",
+                    "enabled": "enabled",
+                    "name": "m",
+                    "merged": false,
+                    "keywords": [
+                      "m"
+                    ],
+                    "eventId": "18"
+                  },
+                  {
+                    "type": "show",
+                    "id": "_0____3___2__0____3_3",
+                    "enabled": "enabled",
+                    "name": "by lemma, (0 .. 4) ∼2 (0 .. m)",
+                    "merged": false,
+                    "keywords": [
+                      "by lemma, (0 .. 4) ∼2 (0 .. m)"
+                    ],
+                    "eventId": "19"
+                  },
+                  {
+                    "type": "show",
+                    "id": "by_lemma___0____4___2__0____m_",
+                    "enabled": "enabled",
+                    "name": "(4 .. 8) ∼2 (m .. n) by lemma",
+                    "merged": false,
+                    "keywords": [
+                      "(4 .. 8) ∼2 (m .. n) by lemma"
+                    ],
+                    "eventId": "20"
+                  },
+                  {
+                    "type": "show",
+                    "id": "and_only_if",
+                    "enabled": "enabled",
+                    "name": "and only if",
+                    "merged": false,
+                    "keywords": [
+                      "and only if"
+                    ],
+                    "eventId": "21"
+                  }
+                ],
+                "keywords": [
+                  "Lemma: (0 .. 2r) ∼r (0 .. n) if n ≥ 2r.",
+                  "udlo-invariant"
+                ],
+                "eventId": "26",
+                "originalParams": {
+                  "32": {
+                    "opacity": 1
+                  },
+                  "33": {
+                    "opacity": 1
+                  },
+                  "Group_15": {
+                    "opacity": 1
+                  },
+                  "Group_18": {
+                    "opacity": 1
+                  },
+                  "_0____3___2__0____3_": {
+                    "opacity": 1
+                  },
+                  "_4____8___2__4____n__by_I_H_": {
+                    "opacity": 1
+                  },
+                  "Group_17": {
+                    "opacity": 1
+                  },
+                  "_0____3___2__0____3_2": {
+                    "opacity": 1
+                  },
+                  "_2r_3____2r___2__n_3____n_": {
+                    "opacity": 1
+                  },
+                  "Group_16": {
+                    "opacity": 1
+                  },
+                  "and_transitivity_of__r_": {
+                    "opacity": 1
+                  },
+                  "Group_19": {
+                    "opacity": 1
+                  },
+                  "Group_20": {
+                    "opacity": 1
+                  },
+                  "_0____3___2__0____3_3": {
+                    "opacity": 1
+                  },
+                  "by_lemma___0____4___2__0____m_": {
+                    "opacity": 1
+                  },
+                  "and_only_if": {
+                    "opacity": 1
+                  },
+                  "Text": {
+                    "opacity": 1
+                  }
+                }
+              }
+            ],
+            "keywords": [
+              "Claim: L × ℤ ≡k ℤ",
+              "exo3b"
+            ],
+            "eventId": "2",
+            "originalParams": {
+              "Group_10": {
+                "opacity": 1
+              },
+              "a2": {
+                "opacity": 1
+              },
+              "a32": {
+                "opacity": 1
+              },
+              "a42": {
+                "opacity": 1
+              },
+              "Group_102": {
+                "opacity": 1
+              },
+              "b2": {
+                "opacity": 1
+              },
+              "a3": {
+                "opacity": 1
+              },
+              "a4": {
+                "opacity": 1
+              },
+              "Group_12": {
+                "opacity": 1
+              },
+              "Proof__for_k___4_": {
+                "opacity": 1
+              },
+              "a33": {
+                "opacity": 1
+              },
+              "Line_24": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "Group_21",
+            "enabled": "enabled",
+            "name": "Th(⋯): is complete? has quantifier elimination?",
+            "merged": false,
+            "keywords": [
+              "Th(⋯): is complete? has quantifier elimination?",
+              "complete?",
+              "quantifier elimination?"
+            ],
+            "eventId": "6"
+          },
+          {
+            "type": "show",
+            "id": "yes2",
+            "enabled": "enabled",
+            "name": "yes",
+            "merged": false,
+            "keywords": [
+              "yes"
+            ],
+            "eventId": "7"
+          },
+          {
+            "type": "show",
+            "id": "yes",
+            "enabled": "enabled",
+            "name": "yes",
+            "merged": false,
+            "keywords": [
+              "yes"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "show",
+            "id": "Group_212",
+            "enabled": "enabled",
+            "name": "atomic formulas are true/false",
+            "merged": false,
+            "keywords": [
+              "atomic formulas are true/false",
+              "⇒"
+            ],
+            "eventId": "10"
+          },
+          {
+            "type": "show",
+            "id": "Group_213",
+            "enabled": "enabled",
+            "name": "by Ehrenfreucht–Fraïssé",
+            "merged": false,
+            "keywords": [
+              "by Ehrenfreucht–Fraïssé",
+              "yes"
+            ],
+            "eventId": "12"
+          },
+          {
+            "type": "show",
+            "id": "no___y___succ_x__",
+            "enabled": "enabled",
+            "name": "no: \"y = succ2(x)\"",
+            "merged": false,
+            "keywords": [
+              "no: \"y = succ2(x)\""
+            ],
+            "eventId": "13"
+          }
+        ],
+        "keywords": [
+          "Exercise 3",
+          "unbounded discrete linear orders",
+          "exo3"
+        ],
+        "eventId": "3",
+        "originalParams": {
+          "Group_21": {
+            "opacity": 1
+          },
+          "yes2": {
+            "opacity": 1
+          },
+          "Group_212": {
+            "opacity": 1
+          },
+          "yes": {
+            "opacity": 1
+          },
+          "Group_213": {
+            "opacity": 1
+          },
+          "no___y___succ_x__": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "show",
+        "id": "Group_1",
+        "enabled": "enabled",
+        "name": "Group 2",
+        "merged": false,
+        "keywords": [
+          "Ak ∈ 𝒞, Bk ∉ 𝒞",
+          "Group 2"
+        ],
+        "eventId": "17"
+      },
+      {
+        "type": "child",
+        "name": "exo5",
+        "id": "exo6",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "show",
+            "id": "_",
+            "enabled": "enabled",
+            "name": "⇒",
+            "merged": false,
+            "keywords": [
+              "⇒"
+            ],
+            "eventId": "3"
+          },
+          {
+            "type": "child",
+            "name": "exo5a",
+            "id": "exo5a",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_11",
+                "enabled": "enabled",
+                "name": "0",
+                "merged": false,
+                "keywords": [
+                  "0",
+                  "1",
+                  "n-1"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "a",
+                "enabled": "enabled",
+                "name": "∃!x (a < x < b)",
+                "merged": false,
+                "keywords": [
+                  "∃!x (a < x < b)"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Group_12",
+                "enabled": "enabled",
+                "name": "⋁  ",
+                "merged": false,
+                "keywords": [
+                  "0",
+                  "1",
+                  "n-1",
+                  "⋁  "
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "__x__x___a______y__b___y_",
+                "enabled": "enabled",
+                "name": "¬∃x (x < a) ∧ ∃!y (b < y)",
+                "merged": false,
+                "keywords": [
+                  "¬∃x (x < a) ∧ ∃!y (b < y)"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "Group_13",
+                "enabled": "enabled",
+                "name": "⋁  ",
+                "merged": false,
+                "keywords": [
+                  "0",
+                  "1",
+                  "n-1",
+                  "⋁  "
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "__x__x___a______y__b___y_2",
+                "enabled": "enabled",
+                "name": "∃!x (x < a) ∧ ¬∃y (b < y)",
+                "merged": false,
+                "keywords": [
+                  "∃!x (x < a) ∧ ¬∃y (b < y)"
+                ],
+                "eventId": "6"
+              }
+            ],
+            "keywords": [
+              "0",
+              "1",
+              "n-1",
+              "(An, <) =",
+              "φ(a, b) saying \"b = a + 2 mod n\"",
+              "exo5a"
+            ],
+            "eventId": "1",
+            "originalParams": {
+              "Group_11": {
+                "opacity": 1
+              },
+              "a": {
+                "opacity": 1
+              },
+              "Group_12": {
+                "opacity": 1
+              },
+              "__x__x___a______y__b___y_": {
+                "opacity": 1
+              },
+              "Group_13": {
+                "opacity": 1
+              },
+              "__x__x___a______y__b___y_2": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "exo5b",
+            "id": "exo5b",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_12",
+                "enabled": "enabled",
+                "name": "(An, E) =",
+                "merged": false,
+                "keywords": [
+                  "0",
+                  "1",
+                  "n-1",
+                  "(An, E) ="
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "__a__b_",
+                "enabled": "enabled",
+                "name": "φ(a, b)",
+                "merged": false,
+                "keywords": [
+                  "φ(a, b)"
+                ],
+                "eventId": "18"
+              },
+              {
+                "type": "show",
+                "id": "Group_122",
+                "enabled": "enabled",
+                "name": "φ(a, b)",
+                "merged": false,
+                "keywords": [
+                  "φ(a, b)"
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "show",
+                "id": "Line_22",
+                "enabled": "enabled",
+                "name": "Line 22",
+                "merged": false,
+                "keywords": [
+                  "Line 22"
+                ],
+                "eventId": "11"
+              },
+              {
+                "type": "show",
+                "id": "Line_23",
+                "enabled": "enabled",
+                "name": "Line 23",
+                "merged": false,
+                "keywords": [
+                  "Line 23"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "Group_123",
+                "enabled": "enabled",
+                "name": "(An, E) is connected",
+                "merged": false,
+                "keywords": [
+                  "(An, E) is connected",
+                  "⇔",
+                  "n is"
+                ],
+                "eventId": "13"
+              },
+              {
+                "type": "show",
+                "id": "odd",
+                "enabled": "enabled",
+                "name": "odd",
+                "merged": false,
+                "keywords": [
+                  "odd"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "Group_124",
+                "enabled": "enabled",
+                "name": "(An, E) ⊧ χ",
+                "merged": false,
+                "keywords": [
+                  "(An, E) ⊧ χ",
+                  "⇔"
+                ],
+                "eventId": "15"
+              },
+              {
+                "type": "show",
+                "id": "Group_125",
+                "enabled": "enabled",
+                "name": "(An, <) ⊧ χ[φ/E]",
+                "merged": false,
+                "keywords": [
+                  "(An, <) ⊧ χ\"[φ/E]\"",
+                  "⇔",
+                  "(An, <) ⊧ χ[φ/E]"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "show",
+                "id": "impossible_",
+                "enabled": "enabled",
+                "name": "impossible!",
+                "merged": false,
+                "keywords": [
+                  "impossible!"
+                ],
+                "eventId": "17"
+              }
+            ],
+            "keywords": [
+              "0",
+              "1",
+              "n-1",
+              "(An, <) =",
+              "exo5b"
+            ],
+            "eventId": "2",
+            "originalParams": {
+              "Group_12": {
+                "opacity": 1
+              },
+              "Group_122": {
+                "opacity": 1
+              },
+              "Line_22": {
+                "opacity": 1
+              },
+              "Line_23": {
+                "opacity": 1
+              },
+              "Group_123": {
+                "opacity": 1
+              },
+              "odd": {
+                "opacity": 1
+              },
+              "Group_124": {
+                "opacity": 1
+              },
+              "Group_125": {
+                "opacity": 1
+              },
+              "impossible_": {
+                "opacity": 1
+              },
+              "__a__b_": {
+                "opacity": 1
+              }
+            }
+          }
+        ],
+        "keywords": [
+          "Exercise 5",
+          "properties that are not first-order: EVEN/ODD of linear orders CONNECTEDNESS of graphs",
+          "exo5"
+        ],
+        "eventId": "6",
+        "originalParams": {
+          "_": {
+            "opacity": 1
+          }
+        }
+      }
+    ],
+    "keywords": [
+      "Logic & Proof",
+      "Sheet4",
+      "Jingjie Yang HT’26",
+      "Problems and solutions courtesy of James Worrell",
+      "Ehrenfeucht–Fraïssé",
+      "(A, a) ∼k (B, b)",
+      "root"
+    ],
+    "eventId": "root",
+    "originalParams": {
+      "_A__a___k__B__b_2": {
+        "opacity": 1
+      },
+      "Arrow_1": {
+        "opacity": 1
+      },
+      "Arrow_3": {
+        "opacity": 1
+      },
+      "_A__a_____B__b_": {
+        "opacity": 1
+      },
+      "Arrow_2": {
+        "opacity": 1
+      },
+      "Group_12": {
+        "opacity": 1
+      },
+      "Group_1": {
+        "opacity": 1
+      },
+      "Line_1": {
+        "opacity": 1
+      }
+    }
+  },
+  "treeTimeLine": [],
+  "chronicleTimeLine": []
+}
