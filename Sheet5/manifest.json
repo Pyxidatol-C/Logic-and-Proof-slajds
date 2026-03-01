@@ -1,0 +1,2316 @@
+{
+  "version": 3.1,
+  "presentation": "LnP-Sheet5",
+  "slideDict": {
+    "new_slide": "root",
+    "exo1": "exo1",
+    "exo2": "exo2",
+    "exo3": "exo3",
+    "exo4": "exo4",
+    "exo5": "exo5",
+    "examiner_report": "examiner_report",
+    "exo5_correctness": "exo5_correctness",
+    "exo5_undecidability": "exo5_undecidability",
+    "exo1_resolution": "exo1_resolution",
+    "exo1_skolemize": "exo1_skolemize",
+    "exo1_neg": "exo1_neg",
+    "exo3a": "exo3a",
+    "vaarin": "vaarin",
+    "exo3b": "exo3b",
+    "exo3c": "exo3c",
+    "exo4a": "exo4a",
+    "exo4b": "exo4b"
+  },
+  "tree": {
+    "type": "child",
+    "name": "root",
+    "id": "new_slide",
+    "enabled": "enabled",
+    "merged": false,
+    "children": [
+      {
+        "type": "child",
+        "name": "exo1",
+        "id": "exo1",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "show",
+            "id": "Group_7",
+            "enabled": "enabled",
+            "name": "∀x (H(x) ← (∀y C(x, y) → H(y)))",
+            "merged": false,
+            "keywords": [
+              "∀x (H(x) ← ∀y C(x,y) → R(y)))",
+              "∀x (H(x) ← (∀y C(x, y) → H(y)))"
+            ],
+            "eventId": "3"
+          },
+          {
+            "type": "show",
+            "id": "all_their_children",
+            "enabled": "enabled",
+            "name": "all their children",
+            "merged": false,
+            "keywords": [
+              "∀y (C(x,y) →",
+              "all their children"
+            ],
+            "eventId": "4"
+          },
+          {
+            "type": "show",
+            "id": "rich",
+            "enabled": "enabled",
+            "name": "rich",
+            "merged": false,
+            "keywords": [
+              "rich"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "_x__G_x____R_x__",
+            "enabled": "enabled",
+            "name": "∀z (G(z) → R(z))",
+            "merged": false,
+            "keywords": [
+              "∀z (G(z) → R(z))"
+            ],
+            "eventId": "6"
+          },
+          {
+            "type": "show",
+            "id": "Group_72",
+            "enabled": "enabled",
+            "name": "∀u (G(u) ← ∃v (G(v) ∧ C(u,v)))",
+            "merged": false,
+            "keywords": [
+              "∀u (G(u) ← ∃v (G(v) ∧ C(v,u)))",
+              "∀u (G(u) ← ∃v (G(v) ∧ C(u,v)))"
+            ],
+            "eventId": "9"
+          },
+          {
+            "type": "show",
+            "id": "_x__G_x____H_x__",
+            "enabled": "enabled",
+            "name": "∀w (G(w) → H(w))",
+            "merged": false,
+            "keywords": [
+              "∀w (G(w) → H(w))"
+            ],
+            "eventId": "7"
+          },
+          {
+            "type": "show",
+            "id": "Group_10",
+            "enabled": "enabled",
+            "name": "Group 10",
+            "merged": false,
+            "keywords": [
+              "Group 10"
+            ],
+            "eventId": "18"
+          },
+          {
+            "type": "show",
+            "id": "image_17",
+            "enabled": "enabled",
+            "name": "image 17",
+            "merged": false,
+            "keywords": [
+              "image 17"
+            ],
+            "eventId": "13"
+          },
+          {
+            "type": "child",
+            "name": "exo1-neg",
+            "id": "exo1_neg",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "F_a____F_b____F_c____F_d_",
+                "enabled": "enabled",
+                "name": "F(a) ∧ F(b) ∧ F(c) ⊧ F(d)",
+                "merged": false,
+                "keywords": [
+                  "F(a) ∧ F(b) ∧ F(c) ⊧ F(d)"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "____F_a____F_b____F_c______F_d_",
+                "enabled": "enabled",
+                "name": "⊧ ¬(F(a) ∧ F(b) ∧ F(c) ) ∨ F(d)",
+                "merged": false,
+                "keywords": [
+                  "⊧ ¬(F(a) ∧ F(b) ∧ F(c) ) ∨ F(d)"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "_F_a____F_b____F_c_______F_d__is_unsatisfiable",
+                "enabled": "enabled",
+                "name": "(F(a) ∧ F(b) ∧ F(c) ) ∧ ¬F(d) is unsatisfiable",
+                "merged": false,
+                "keywords": [
+                  "(F(a) ∧ F(b) ∧ F(c) ) ∧ ¬F(d) is unsatisfiable"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "skolemised_F_a____skolemised_F_b____skolemised_F_c____skolemised__F_d____is_unsatisfiable",
+                "enabled": "enabled",
+                "name": "Skolemised F(a) ∧ F(b) ∧ F(c) ∧ ¬F(d) is unsatisfiable",
+                "merged": false,
+                "keywords": [
+                  "Skolemised F(a) ∧ F(b) ∧ F(c) ∧ ¬F(d) is unsatisfiable"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "Group_11",
+                "enabled": "enabled",
+                "name": "Skolemised F(a) ∧ Skolemised F(b) ∧ Skolemised F(c) ∧ Skolemised ¬F(d) is unsatisfiable",
+                "merged": false,
+                "keywords": [
+                  "Skolemised F(a) ∧ Skolemised F(b) ∧ Skolemised F(c) ∧ Skolemised ¬F(d) is unsatisfiable",
+                  "with distinct symbols"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "So__Skolemise_",
+                "enabled": "enabled",
+                "name": "— Skolemise!",
+                "merged": false,
+                "keywords": [
+                  "— Skolemise!"
+                ],
+                "eventId": "6"
+              }
+            ],
+            "keywords": [
+              "The following are equivalent:",
+              "exo1-neg"
+            ],
+            "eventId": "14",
+            "originalParams": {
+              "____F_a____F_b____F_c______F_d_": {
+                "opacity": 1
+              },
+              "_F_a____F_b____F_c_______F_d__is_unsatisfiable": {
+                "opacity": 1
+              },
+              "skolemised_F_a____skolemised_F_b____skolemised_F_c____skolemised__F_d____is_unsatisfiable": {
+                "opacity": 1
+              },
+              "So__Skolemise_": {
+                "opacity": 1
+              },
+              "Group_11": {
+                "opacity": 1
+              },
+              "F_a____F_b____F_c____F_d_": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "Text",
+            "enabled": "enabled",
+            "name": "¬",
+            "merged": false,
+            "keywords": [
+              "¬"
+            ],
+            "eventId": "15"
+          },
+          {
+            "type": "show",
+            "id": "a",
+            "enabled": "enabled",
+            "name": "≡ ∃w ( ¬G(w) ∧ H(w) )",
+            "merged": true,
+            "keywords": [
+              "≡ ∃w ( ¬G(w) ∧ H(w) )"
+            ],
+            "eventId": "16"
+          },
+          {
+            "type": "show",
+            "id": "___u__v__G_u_____G_v_____C_u_v__2",
+            "enabled": "enabled",
+            "name": "⇝ G(w) ∧ ¬H(w)",
+            "merged": false,
+            "keywords": [
+              "⇝ G(w) ∧ ¬H(w)"
+            ],
+            "eventId": "17"
+          },
+          {
+            "type": "child",
+            "name": "exo1-skolemize",
+            "id": "exo1_skolemize",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "_x___H_x______y_C_x_y____",
+                "enabled": "enabled",
+                "name": "≡ ∀x ( H(x) ∨ ∃y (C(x,y) ∧ ¬R(y)) )",
+                "merged": false,
+                "keywords": [
+                  "≡ ∀x ( H(x) ∨ ∃y (C(x,y) ∧ ¬R(y)) )"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Group_72",
+                "enabled": "enabled",
+                "name": "≡ ∀x ∃y ( H(x) ∨ (C(x,y) ∧ ¬R(y)) )",
+                "merged": false,
+                "keywords": [
+                  "≡ ∀x ∃y ( H(x) ∨ (C(x,y) ∧ ¬R(y)) )",
+                  "Prenex form"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Group_73",
+                "enabled": "enabled",
+                "name": "≡ ∀x ∃y ( (H(x) ∨ C(x,y)) ∧ (H(x) ∨ ¬R(y)) )",
+                "merged": false,
+                "keywords": [
+                  "≡ ∀x ∃y ( (H(x) ∨ C(x,y)) ∧ (H(x) ∨ ¬R(y)) )",
+                  "Prenex CNF"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "Group_7",
+                "enabled": "enabled",
+                "name": "⇝ ∀x ( H(x) ∨ ( C(x,y(x)) ∧ ¬R(y(x))) )",
+                "merged": false,
+                "keywords": [
+                  "⇝ ∀x ( (H(x) ∨ C(x, y(x))) ∧ (H(x) ∨ ¬R(y(x))) )",
+                  "Skolem form",
+                  "⇝ ∀x ( H(x) ∨ ( C(x,y(x)) ∧ ¬R(y(x))) )"
+                ],
+                "eventId": "8"
+              }
+            ],
+            "keywords": [
+              "exo1-skolemize"
+            ],
+            "eventId": "10",
+            "originalParams": {
+              "_x___H_x______y_C_x_y____": {
+                "opacity": 1
+              },
+              "Group_72": {
+                "opacity": 1
+              },
+              "Group_73": {
+                "opacity": 1
+              },
+              "Group_7": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "___z___G_z____R_z__",
+            "enabled": "enabled",
+            "name": "⇝ ∀z ( ¬G(z) ∨ R(z) )",
+            "merged": false,
+            "keywords": [
+              "⇝ ∀z ( ¬G(z) ∨ R(z) )"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "show",
+            "id": "___u__v___G_u_____G_v_____C_u_v___",
+            "enabled": "enabled",
+            "name": "≡ ∀u ( G(u) ∨ ∀v (¬G(v) ∨ ¬C(v,u)) )",
+            "merged": false,
+            "keywords": [
+              "≡ ∀u ( G(u) ∨ ∀v (¬G(v) ∨ ¬C(v,u)) )"
+            ],
+            "eventId": "19"
+          },
+          {
+            "type": "show",
+            "id": "___u__v__G_u_____G_v_____C_u_v__",
+            "enabled": "enabled",
+            "name": "⇝ ∀u ∀v ( G(u) ∨ ¬G(v) ∨ ¬C(u,v) )",
+            "merged": false,
+            "keywords": [
+              "⇝ ∀u ∀v ( G(u) ∨ ¬G(v) ∨ ¬C(u,v) )"
+            ],
+            "eventId": "12"
+          }
+        ],
+        "keywords": [
+          "exo1"
+        ],
+        "eventId": "1",
+        "originalParams": {
+          "Group_7": {
+            "opacity": 1
+          },
+          "all_their_children": {
+            "opacity": 1
+          },
+          "rich": {
+            "opacity": 1
+          },
+          "_x__G_x____R_x__": {
+            "opacity": 1
+          },
+          "_x__G_x____H_x__": {
+            "opacity": 1
+          },
+          "Group_72": {
+            "opacity": 1
+          },
+          "___z___G_z____R_z__": {
+            "opacity": 1
+          },
+          "___u__v__G_u_____G_v_____C_u_v__": {
+            "opacity": 1
+          },
+          "image_17": {
+            "opacity": 1
+          },
+          "Text": {
+            "opacity": 1
+          },
+          "a": {
+            "opacity": 1
+          },
+          "___u__v__G_u_____G_v_____C_u_v__2": {
+            "opacity": 1
+          },
+          "Group_10": {
+            "opacity": 1
+          },
+          "___u__v___G_u_____G_v_____C_u_v___": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "exo1-resolution",
+        "id": "exo1_resolution",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "show",
+            "id": "Group_7",
+            "enabled": "enabled",
+            "name": "C(w1, y(w1)) ?",
+            "merged": false,
+            "keywords": [
+              "C(w1, y(w1)) ?"
+            ],
+            "eventId": "1"
+          },
+          {
+            "type": "show",
+            "id": "C_w__y_w__",
+            "enabled": "enabled",
+            "name": "C(w, y(w))",
+            "merged": false,
+            "keywords": [
+              "C(w, y(w))"
+            ],
+            "eventId": "3"
+          },
+          {
+            "type": "show",
+            "id": "Group_72",
+            "enabled": "enabled",
+            "name": "¬R(y(w)) ?",
+            "merged": false,
+            "keywords": [
+              "¬R(y(w)) ?"
+            ],
+            "eventId": "2"
+          },
+          {
+            "type": "show",
+            "id": "_R_y_w2__",
+            "enabled": "enabled",
+            "name": "¬R(y(w))",
+            "merged": false,
+            "keywords": [
+              "¬R(y(w))"
+            ],
+            "eventId": "4"
+          },
+          {
+            "type": "show",
+            "id": "Group_73",
+            "enabled": "enabled",
+            "name": "Group 7",
+            "merged": false,
+            "keywords": [
+              "Group 7"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "_G_y_w__",
+            "enabled": "enabled",
+            "name": "¬G(y(w))",
+            "merged": false,
+            "keywords": [
+              "¬G(y(w))"
+            ],
+            "eventId": "6"
+          },
+          {
+            "type": "show",
+            "id": "Group_8",
+            "enabled": "enabled",
+            "name": "Group 8",
+            "merged": false,
+            "keywords": [
+              "Group 8"
+            ],
+            "eventId": "7"
+          },
+          {
+            "type": "show",
+            "id": "_G_v1_____C_v1__y_w__",
+            "enabled": "enabled",
+            "name": "¬G(v1) ∨ ¬C(v1, y(w))",
+            "merged": false,
+            "keywords": [
+              "¬G(v1) ∨ ¬C(v1, y(w))"
+            ],
+            "eventId": "8"
+          },
+          {
+            "type": "show",
+            "id": "Group_9",
+            "enabled": "enabled",
+            "name": "Group 9",
+            "merged": false,
+            "keywords": [
+              "Group 9"
+            ],
+            "eventId": "9"
+          },
+          {
+            "type": "show",
+            "id": "Text",
+            "enabled": "enabled",
+            "name": "¬G(w)",
+            "merged": false,
+            "keywords": [
+              "¬G(w)"
+            ],
+            "eventId": "10"
+          },
+          {
+            "type": "show",
+            "id": "Group_10",
+            "enabled": "enabled",
+            "name": "□",
+            "merged": false,
+            "keywords": [
+              "□"
+            ],
+            "eventId": "11"
+          }
+        ],
+        "keywords": [
+          "H(x) ∨ C(x, y(x))",
+          "H(x) ∨ ¬R(y(x))",
+          "¬G(z) ∨ R(z)",
+          "⇝ ∀u ∀v ( G(u) ∨ ¬G(v) ∨ ¬C(u,v) )",
+          "⇝ G(w) ∧ ¬H(w)",
+          "¬H(w)",
+          "∀x ∀z ∀u ∀v",
+          "exo1-resolution"
+        ],
+        "eventId": "6",
+        "originalParams": {
+          "Group_7": {
+            "opacity": 1
+          },
+          "Group_72": {
+            "opacity": 1
+          },
+          "C_w__y_w__": {
+            "opacity": 1
+          },
+          "_R_y_w2__": {
+            "opacity": 1
+          },
+          "Group_73": {
+            "opacity": 1
+          },
+          "_G_y_w__": {
+            "opacity": 1
+          },
+          "Group_8": {
+            "opacity": 1
+          },
+          "_G_v1_____C_v1__y_w__": {
+            "opacity": 1
+          },
+          "Group_9": {
+            "opacity": 1
+          },
+          "Text": {
+            "opacity": 1
+          },
+          "Group_10": {
+            "opacity": 1
+          },
+          "Group_102": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "exo2",
+        "id": "exo2",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "show",
+            "id": "_____z__s_____N____",
+            "enabled": "enabled",
+            "name": "σ = {z, s(-), N(-)}",
+            "merged": false,
+            "keywords": [
+              "σ = {z, s(-), N(-)}"
+            ],
+            "eventId": "9"
+          },
+          {
+            "type": "show",
+            "id": "Group_118",
+            "enabled": "enabled",
+            "name": "B",
+            "merged": false,
+            "keywords": [
+              "𝔹 = {0, 1}",
+              "B"
+            ],
+            "eventId": "23"
+          },
+          {
+            "type": "show",
+            "id": "Group_11",
+            "enabled": "enabled",
+            "name": "z",
+            "merged": false,
+            "keywords": [
+              "z"
+            ],
+            "eventId": "4"
+          },
+          {
+            "type": "show",
+            "id": "Group_112",
+            "enabled": "enabled",
+            "name": "s",
+            "merged": false,
+            "keywords": [
+              "s"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "Group_113",
+            "enabled": "enabled",
+            "name": "N",
+            "merged": false,
+            "keywords": [
+              "N"
+            ],
+            "eventId": "6"
+          },
+          {
+            "type": "show",
+            "id": "F___N_z_____x___N_x____N_s_x____",
+            "enabled": "enabled",
+            "name": "F = N(z) ∧ ∀x ( N(x) → N(s(x)) )",
+            "merged": false,
+            "keywords": [
+              "F = N(z) ∧ ∀x ( N(x) → N(s(x)) )"
+            ],
+            "eventId": "7"
+          },
+          {
+            "type": "show",
+            "id": "F_has_a_model__0__1_",
+            "enabled": "enabled",
+            "name": "𝔹 is a model of F",
+            "merged": false,
+            "keywords": [
+              "𝔹 is a model of F"
+            ],
+            "eventId": "8"
+          },
+          {
+            "type": "show",
+            "id": "Group_114",
+            "enabled": "enabled",
+            "name": "Herbrand model",
+            "merged": false,
+            "keywords": [
+              "ℕ =",
+              "Herbrand model"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "show",
+            "id": "_____z__s_z___s2_z________with_____P_sn_z___iff______P_sn_z__",
+            "enabled": "enabled",
+            "name": "{z, s(z), s2(z), ...}",
+            "merged": false,
+            "keywords": [
+              "{z, s(z), s2(z), ...}"
+            ],
+            "eventId": "13"
+          },
+          {
+            "type": "show",
+            "id": "_z__s_z___s2_z________with_____P_sn_z___iff______P_sn_z__",
+            "enabled": "enabled",
+            "name": "ℕ ⊧ P(sn(z)) iff",
+            "merged": false,
+            "keywords": [
+              "ℕ ⊧ P(sn(z)) iff"
+            ],
+            "eventId": "12"
+          },
+          {
+            "type": "show",
+            "id": "Text",
+            "enabled": "enabled",
+            "name": "𝔹 ⊧ P(sn(0))",
+            "merged": false,
+            "keywords": [
+              "𝔹 ⊧ P(sn(0))"
+            ],
+            "eventId": "14"
+          },
+          {
+            "type": "show",
+            "id": "Group_115",
+            "enabled": "enabled",
+            "name": "= 0",
+            "merged": false,
+            "keywords": [
+              "= 0"
+            ],
+            "eventId": "15"
+          },
+          {
+            "type": "show",
+            "id": "Group_116",
+            "enabled": "enabled",
+            "name": "≡ true",
+            "merged": false,
+            "keywords": [
+              "≡ true"
+            ],
+            "eventId": "16"
+          },
+          {
+            "type": "show",
+            "id": "So___is_the_only_Herbrand_structure_that_models_F_",
+            "enabled": "enabled",
+            "name": "So ℕ is the only Herbrand structure that models F.",
+            "merged": false,
+            "keywords": [
+              "So ℕ is the only Herbrand structure that models F."
+            ],
+            "eventId": "26"
+          },
+          {
+            "type": "show",
+            "id": "G____x_N_x_",
+            "enabled": "enabled",
+            "name": "G = ∀x N(x)",
+            "merged": false,
+            "keywords": [
+              "G = ∀x N(x)"
+            ],
+            "eventId": "18"
+          },
+          {
+            "type": "show",
+            "id": "____P_sn_z___iff",
+            "enabled": "enabled",
+            "name": "ℕ ⊧ G",
+            "merged": false,
+            "keywords": [
+              "ℕ ⊧ G"
+            ],
+            "eventId": "19"
+          },
+          {
+            "type": "show",
+            "id": "Group_117",
+            "enabled": "enabled",
+            "name": "𝔹 n⊧ G",
+            "merged": false,
+            "keywords": [
+              "𝔹 ⊧ G",
+              "𝔹 n⊧ G"
+            ],
+            "eventId": "20"
+          },
+          {
+            "type": "show",
+            "id": "F_nmodels_G",
+            "enabled": "enabled",
+            "name": "F nmodels G",
+            "merged": false,
+            "keywords": [
+              "F ⊧ G",
+              "F nmodels G"
+            ],
+            "eventId": "22"
+          },
+          {
+            "type": "child",
+            "name": "vaarin",
+            "id": "vaarin",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_11",
+                "enabled": "enabled",
+                "name": "For sentences F, G in Skolem form, TFAE:",
+                "merged": false,
+                "keywords": [
+                  "F ⊧ G",
+                  "The following are equivalent:",
+                  "For sentences F, G in Skolem form, TFAE:"
+                ],
+                "eventId": "24"
+              },
+              {
+                "type": "show",
+                "id": "___F___G",
+                "enabled": "enabled",
+                "name": "⊧ ¬F ∨ G",
+                "merged": false,
+                "keywords": [
+                  "⊧ ¬F ∨ G"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "__F____G_is_unsatisfiable",
+                "enabled": "enabled",
+                "name": "⊧ F ∧ ¬G is unsatisfiable",
+                "merged": false,
+                "keywords": [
+                  "⊧ F ∧ ¬G is unsatisfiable"
+                ],
+                "eventId": "13"
+              },
+              {
+                "type": "show",
+                "id": "__F____G_does_not_have_a_model",
+                "enabled": "enabled",
+                "name": "⊧ F ∧ ¬G does not have a model",
+                "merged": false,
+                "keywords": [
+                  "⊧ F ∧ ¬G does not have a model"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "__F____G_does_not_have_a_Herbrand_model",
+                "enabled": "enabled",
+                "name": "⊧ F ∧ ¬G does not have a Herbrand model",
+                "merged": false,
+                "keywords": [
+                  "⊧ F ∧ ¬G does not have a Herbrand model"
+                ],
+                "eventId": "15"
+              },
+              {
+                "type": "show",
+                "id": "__F____G_does_not_have_a_Herbrand_model3",
+                "enabled": "enabled",
+                "name": "⊧ F ∧ ¬G does not have a Herbrand model",
+                "merged": false,
+                "keywords": [
+                  "⊧ F ∧ ¬G does not have a Herbrand model"
+                ],
+                "eventId": "22"
+              },
+              {
+                "type": "show",
+                "id": "__",
+                "enabled": "enabled",
+                "name": "∀*",
+                "merged": false,
+                "keywords": [
+                  "∀*"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "show",
+                "id": "____",
+                "enabled": "enabled",
+                "name": "∃*",
+                "merged": false,
+                "keywords": [
+                  "∃*"
+                ],
+                "eventId": "17"
+              },
+              {
+                "type": "show",
+                "id": "Group_112",
+                "enabled": "enabled",
+                "name": "not in Skolem form!",
+                "merged": false,
+                "keywords": [
+                  "not in Skolem form!"
+                ],
+                "eventId": "18"
+              },
+              {
+                "type": "show",
+                "id": "Group_113",
+                "enabled": "enabled",
+                "name": "Group 11",
+                "merged": false,
+                "keywords": [
+                  "Group 11"
+                ],
+                "eventId": "21"
+              },
+              {
+                "type": "show",
+                "id": "image_17_1",
+                "enabled": "enabled",
+                "name": "image 17 1",
+                "merged": false,
+                "keywords": [
+                  "image 17 1"
+                ],
+                "eventId": "20"
+              }
+            ],
+            "keywords": [
+              "vaarin"
+            ],
+            "eventId": "24",
+            "originalParams": {
+              "___F___G": {
+                "opacity": 1
+              },
+              "__F____G_is_unsatisfiable": {
+                "opacity": 1
+              },
+              "__F____G_does_not_have_a_model": {
+                "opacity": 1
+              },
+              "__F____G_does_not_have_a_Herbrand_model": {
+                "opacity": 1
+              },
+              "__": {
+                "opacity": 1
+              },
+              "____": {
+                "opacity": 1
+              },
+              "Group_112": {
+                "opacity": 1
+              },
+              "image_17_1": {
+                "opacity": 1
+              },
+              "Group_113": {
+                "opacity": 1
+              },
+              "__F____G_does_not_have_a_Herbrand_model3": {
+                "opacity": 1
+              },
+              "Group_11": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "Group_119",
+            "enabled": "enabled",
+            "name": "We don't even need functions!",
+            "merged": false,
+            "keywords": [
+              "We don't even need functions!"
+            ],
+            "eventId": "27"
+          }
+        ],
+        "keywords": [
+          "exo2"
+        ],
+        "eventId": "2",
+        "originalParams": {
+          "Group_11": {
+            "opacity": 1
+          },
+          "Group_112": {
+            "opacity": 1
+          },
+          "Group_113": {
+            "opacity": 1
+          },
+          "F___N_z_____x___N_x____N_s_x____": {
+            "opacity": 1
+          },
+          "F_has_a_model__0__1_": {
+            "opacity": 1
+          },
+          "_____z__s_____N____": {
+            "opacity": 1
+          },
+          "Group_114": {
+            "opacity": 1
+          },
+          "_z__s_z___s2_z________with_____P_sn_z___iff______P_sn_z__": {
+            "opacity": 1
+          },
+          "_____z__s_z___s2_z________with_____P_sn_z___iff______P_sn_z__": {
+            "opacity": 1
+          },
+          "Text": {
+            "opacity": 1
+          },
+          "Group_115": {
+            "opacity": 1
+          },
+          "Group_116": {
+            "opacity": 1
+          },
+          "G____x_N_x_": {
+            "opacity": 1
+          },
+          "____P_sn_z___iff": {
+            "opacity": 1
+          },
+          "Group_117": {
+            "opacity": 1
+          },
+          "F_nmodels_G": {
+            "opacity": 1
+          },
+          "Group_118": {
+            "opacity": 1
+          },
+          "So___is_the_only_Herbrand_structure_that_models_F_": {
+            "opacity": 1
+          },
+          "Group_119": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "exo3",
+        "id": "exo3",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "child",
+            "name": "exo3a",
+            "id": "exo3a",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_12",
+                "enabled": "enabled",
+                "name": "∃x1 … ∃xm ∀y1 … ∃yn F has a model over σ =",
+                "merged": false,
+                "keywords": [
+                  "∃x1 … ∃xm ∀y1 … ∀yn F has a model over σ =",
+                  "{ c1, ..., ck, R1, ..., Rl }",
+                  "∃x1 … ∃xm ∀y1 … ∃yn F has a model over σ ="
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "show",
+                "id": "__Skolem_form__y1____yn_F__c1_x1_____cm_xm__has_a_model",
+                "enabled": "enabled",
+                "name": "⇒ Skolem form ∀y1 … ∃yn F [d1/x1] ⋯ [dm/xm] has a model over σ + { d1, ..., dm }",
+                "merged": false,
+                "keywords": [
+                  "⇒ Skolem form ∀y1 … ∃yn F [d1/x1] ⋯ [dm/xm] has a model over σ + { d1, ..., dm }"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Group_7",
+                "enabled": "enabled",
+                "name": "⇒ Skolem form ∀y1 … ∃yn F [c1/x1] ⋯ [cm/xm] has a Herbrand model over σ =",
+                "merged": false,
+                "keywords": [
+                  "σ + { d1, ..., dm }",
+                  "⇒ Skolem form ∀y1 … ∀yn F [d1/x1] ⋯ [dm/xm] has a Herbrand model over",
+                  "by Herbrand's Theorem",
+                  "⇒ Skolem form ∀y1 … ∃yn F [c1/x1] ⋯ [cm/xm] has a Herbrand model over σ ="
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Group_72",
+                "enabled": "enabled",
+                "name": "herbrand model",
+                "merged": false,
+                "keywords": [
+                  "ℍ = { c1, ..., ck, d1, ..., dm }",
+                  "herbrand model"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "__Skolem_form__y1____yn_F__c1_x1_____cm_xm__has_a_Herbrand_model",
+                "enabled": "enabled",
+                "name": "⇒ ℍ ⊧ ∃x1 … ∃xm ∀y1 … ∃yn F",
+                "merged": false,
+                "keywords": [
+                  "⇒ ℍ ⊧ ∃x1 … ∃xm ∀y1 … ∃yn F"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "_a_bit_of_an_overkill_",
+                "enabled": "enabled",
+                "name": "(an overkill — just consider the substructure/subset of constants)",
+                "merged": false,
+                "keywords": [
+                  "(an overkill — just consider the substructure/subset of constants)"
+                ],
+                "eventId": "11"
+              }
+            ],
+            "keywords": [
+              "exo3a"
+            ],
+            "eventId": "1",
+            "originalParams": {
+              "Group_7": {
+                "opacity": 1
+              },
+              "__Skolem_form__y1____yn_F__c1_x1_____cm_xm__has_a_model": {
+                "opacity": 1
+              },
+              "Group_72": {
+                "opacity": 1
+              },
+              "__Skolem_form__y1____yn_F__c1_x1_____cm_xm__has_a_Herbrand_model": {
+                "opacity": 1
+              },
+              "Group_12": {
+                "opacity": 1
+              },
+              "_a_bit_of_an_overkill_": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "image_7",
+            "enabled": "enabled",
+            "name": "image 7",
+            "merged": false,
+            "keywords": [
+              "image 7"
+            ],
+            "eventId": "2"
+          },
+          {
+            "type": "child",
+            "name": "exo3b",
+            "id": "exo3b",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_12",
+                "enabled": "enabled",
+                "name": "Input: ∃x1 … ∃xm ∀y1 … ∃yn F over σ =",
+                "merged": false,
+                "keywords": [
+                  "Input: ∃x1 … ∃xm ∀y1 … ∀yn F over σ =",
+                  "{ c1, ..., ck, R1, ..., Rl }",
+                  "Input: ∃x1 … ∃xm ∀y1 … ∃yn F over σ ="
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "__c1_______ck__R1_______Rl__",
+                "enabled": "enabled",
+                "name": "for every σ-structure ℍ",
+                "merged": false,
+                "keywords": [
+                  "for every σ-structure ℍ"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Group_122",
+                "enabled": "enabled",
+                "name": "if ℍ ⊧ ∃x1 … ∃xm ∀y1 … ∃yn F :",
+                "merged": false,
+                "keywords": [
+                  "if 𝕄 ⊧ ∃x1 … ∃xm ∀y1 … ∀yn F :",
+                  "return \"SAT\"",
+                  "if ℍ ⊧ ∃x1 … ∃xm ∀y1 … ∃yn F :"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Group_123",
+                "enabled": "enabled",
+                "name": "return \"UNSAT\"",
+                "merged": false,
+                "keywords": [
+                  "return \"UNSAT\""
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "Text",
+                "enabled": "enabled",
+                "name": "on { c1, ..., ck, d1, ..., dm } :",
+                "merged": false,
+                "keywords": [
+                  "on { c1, ..., ck, d1, ..., dm } :"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "_2_k_m__l_structures",
+                "enabled": "enabled",
+                "name": "(2(k+m))l structures",
+                "merged": false,
+                "keywords": [
+                  "(2(k+m))l structures"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "_k_m__m_n__valuations",
+                "enabled": "enabled",
+                "name": "(k+m)(m+n) valuations",
+                "merged": false,
+                "keywords": [
+                  "(k+m)(m+n) valuations"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "Text2",
+                "enabled": "enabled",
+                "name": "— decidable",
+                "merged": false,
+                "keywords": [
+                  "— decidable"
+                ],
+                "eventId": "11"
+              }
+            ],
+            "keywords": [
+              "exo3b"
+            ],
+            "eventId": "3",
+            "originalParams": {
+              "Group_12": {
+                "opacity": 1
+              },
+              "__c1_______ck__R1_______Rl__": {
+                "opacity": 1
+              },
+              "_2_k_m__l_structures": {
+                "opacity": 1
+              },
+              "Group_122": {
+                "opacity": 1
+              },
+              "Group_123": {
+                "opacity": 1
+              },
+              "_k_m__m_n__valuations": {
+                "opacity": 1
+              },
+              "Text": {
+                "opacity": 1
+              },
+              "Text2": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "image_8",
+            "enabled": "enabled",
+            "name": "image 8",
+            "merged": false,
+            "keywords": [
+              "image 8"
+            ],
+            "eventId": "4"
+          },
+          {
+            "type": "child",
+            "name": "exo3c",
+            "id": "exo3c",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Satisfiability_of_general_first_order_formulas_is_undecidable",
+                "enabled": "enabled",
+                "name": "Satisfiability of general first-order formulas is undecidable",
+                "merged": false,
+                "keywords": [
+                  "Satisfiability of general first-order formulas is undecidable"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "We_can_compute_____Skolem_form___",
+                "enabled": "enabled",
+                "name": "We can effectively compute φ ↦ Skolem form φ'",
+                "merged": false,
+                "keywords": [
+                  "We can effectively compute φ ↦ Skolem form φ'"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "___is_a____formula",
+                "enabled": "enabled",
+                "name": "φ' is a ∀*-formula equisatisfiable with φ",
+                "merged": false,
+                "keywords": [
+                  "φ' is a ∀*-formula equisatisfiable with φ"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "___is_a____formula2",
+                "enabled": "enabled",
+                "name": "So ∀*-satisfiability is undecidable",
+                "merged": false,
+                "keywords": [
+                  "So ∀*-satisfiability is undecidable"
+                ],
+                "eventId": "3"
+              }
+            ],
+            "keywords": [
+              "exo3c"
+            ],
+            "eventId": "5",
+            "originalParams": {
+              "We_can_compute_____Skolem_form___": {
+                "opacity": 1
+              },
+              "___is_a____formula": {
+                "opacity": 1
+              },
+              "___is_a____formula2": {
+                "opacity": 1
+              },
+              "Satisfiability_of_general_first_order_formulas_is_undecidable": {
+                "opacity": 1
+              }
+            }
+          }
+        ],
+        "keywords": [
+          "exo3"
+        ],
+        "eventId": "3",
+        "originalParams": {
+          "image_7": {
+            "opacity": 1
+          },
+          "image_8": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "exo4",
+        "id": "exo4",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "show",
+            "id": "equivalence",
+            "enabled": "enabled",
+            "name": "equivalence",
+            "merged": false,
+            "keywords": [
+              "equivalence"
+            ],
+            "eventId": "8"
+          },
+          {
+            "type": "show",
+            "id": "congruence",
+            "enabled": "enabled",
+            "name": "congruence",
+            "merged": false,
+            "keywords": [
+              "congruence"
+            ],
+            "eventId": "9"
+          },
+          {
+            "type": "show",
+            "id": "image_19",
+            "enabled": "enabled",
+            "name": "image 19",
+            "merged": false,
+            "keywords": [
+              "image 19"
+            ],
+            "eventId": "3"
+          },
+          {
+            "type": "show",
+            "id": "image_20",
+            "enabled": "enabled",
+            "name": "image 20",
+            "merged": false,
+            "keywords": [
+              "image 20"
+            ],
+            "eventId": "4"
+          },
+          {
+            "type": "child",
+            "name": "exo4a",
+            "id": "exo4a",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Then_F_has_a_Herbrand_model___",
+                "enabled": "enabled",
+                "name": "Then F has a Herbrand model ℍ.",
+                "merged": false,
+                "keywords": [
+                  "Then F has a Herbrand model ℍ."
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Group_12",
+                "enabled": "enabled",
+                "name": "Make ℍ a σ'-structure: interpret E as",
+                "merged": false,
+                "keywords": [
+                  "Make ℍ a σ'-structure: interpret E as",
+                  "(Herbrand)"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "__",
+                "enabled": "enabled",
+                "name": "=.",
+                "merged": false,
+                "keywords": [
+                  "=."
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Group_122",
+                "enabled": "enabled",
+                "name": "— E is an equivalence relation",
+                "merged": false,
+                "keywords": [
+                  "Now: ℍ ⊧ ℰ",
+                  "E is a congruence relation",
+                  "— E is an equivalence relation"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Group_123",
+                "enabled": "enabled",
+                "name": "easy induction on the structure of F",
+                "merged": false,
+                "keywords": [
+                  "ℍ ⊧ F'",
+                  "easy induction on the structure of F"
+                ],
+                "eventId": "6"
+              }
+            ],
+            "keywords": [
+              "exo4a"
+            ],
+            "eventId": "5",
+            "originalParams": {
+              "Then_F_has_a_Herbrand_model___": {
+                "opacity": 1
+              },
+              "__": {
+                "opacity": 1
+              },
+              "Group_12": {
+                "opacity": 1
+              },
+              "Group_122": {
+                "opacity": 1
+              },
+              "Group_123": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "image_21",
+            "enabled": "enabled",
+            "name": "image 21",
+            "merged": false,
+            "keywords": [
+              "image 21"
+            ],
+            "eventId": "7"
+          },
+          {
+            "type": "child",
+            "name": "exo4b",
+            "id": "exo4b",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_12",
+                "enabled": "enabled",
+                "name": "equivalence classes of ground terms",
+                "merged": false,
+                "keywords": [
+                  "Define a σ-structure on ℍ/E",
+                  "equivalence classes of ground terms"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Group_122",
+                "enabled": "enabled",
+                "name": "cℍ/E := c/E",
+                "merged": false,
+                "keywords": [
+                  ", with",
+                  "cℍ/E := c/E"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "c_interpreted_as_c_E2",
+                "enabled": "enabled",
+                "name": "f ℍ/E(c1/E, ..., cm/E) := f (c1, ..., cm)/E",
+                "merged": false,
+                "keywords": [
+                  "f ℍ/E(c1/E, ..., cm/E) := f (c1, ..., cm)/E"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "P___E_c1_E_______cm_E_____P___c1_______cm_",
+                "enabled": "enabled",
+                "name": "P ℍ/E(c1/E, ..., cm/E) :⇔ P ℍ(c1, ..., cm)",
+                "merged": false,
+                "keywords": [
+                  "P ℍ/E(c1/E, ..., cm/E) :⇔ P ℍ(c1, ..., cm)"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "Group_123",
+                "enabled": "enabled",
+                "name": "well-defined as ℍ ⊧ ℰ",
+                "merged": false,
+                "keywords": [
+                  "well-defined as ℍ ⊧ ℰ"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Group_124",
+                "enabled": "enabled",
+                "name": "for any sentence G = ∀x1⋯∀xk H in Skolem form.",
+                "merged": false,
+                "keywords": [
+                  "Claim: ℍ ⊧ G' ⇒ ℍ/E ⊧ G,",
+                  "for any sentence G = ∀x1⋯∀xk H (in Skolem form).",
+                  "for any sentence G = ∀x1⋯∀xk H in Skolem form."
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Base_case_______E_c1_E__c2_E______E___c1_c2",
+                "enabled": "enabled",
+                "name": "Base case (k = 0):",
+                "merged": false,
+                "keywords": [
+                  "Base case (k = 0):"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "Group_1210",
+                "enabled": "enabled",
+                "name": "ℍ ⊧ E(t1, t2)",
+                "merged": false,
+                "keywords": [
+                  "ℍ ⊧ E(t1, t2)",
+                  "ℍ/E ⊧ t1=t2"
+                ],
+                "eventId": "27"
+              },
+              {
+                "type": "show",
+                "id": "Group_125",
+                "enabled": "enabled",
+                "name": "t1/E = t2/E",
+                "merged": false,
+                "keywords": [
+                  "t1/E = t2/E",
+                  "⇔"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "Text2",
+                "enabled": "enabled",
+                "name": "Note t ℍ/E = t/E.",
+                "merged": false,
+                "keywords": [
+                  "Note t ℍ/E = t/E."
+                ],
+                "eventId": "37"
+              },
+              {
+                "type": "show",
+                "id": "Group_126",
+                "enabled": "enabled",
+                "name": "iff term",
+                "merged": false,
+                "keywords": [
+                  "⇔",
+                  "iff term"
+                ],
+                "eventId": "26"
+              },
+              {
+                "type": "show",
+                "id": "Group_128",
+                "enabled": "enabled",
+                "name": "P ℍ/E(t1/E, t2/E)",
+                "merged": false,
+                "keywords": [
+                  "P ℍ/E(t1/E, ..., tn/E)",
+                  "ℍ/E ⊧ P(t1, ..., tn)",
+                  "⇔",
+                  "P ℍ/E(t1/E, t2/E)"
+                ],
+                "eventId": "33"
+              },
+              {
+                "type": "show",
+                "id": "Group_127",
+                "enabled": "enabled",
+                "name": "P ℍ(t1, t2)",
+                "merged": false,
+                "keywords": [
+                  "P ℍ(t1, ..., tn)",
+                  "⇔",
+                  "ℍ ⊧ P(t1, t2)",
+                  "P ℍ(t1, t2)"
+                ],
+                "eventId": "32"
+              },
+              {
+                "type": "show",
+                "id": "Text",
+                "enabled": "enabled",
+                "name": "⇔",
+                "merged": false,
+                "keywords": [
+                  "⇔"
+                ],
+                "eventId": "35"
+              },
+              {
+                "type": "show",
+                "id": "Group_1211",
+                "enabled": "enabled",
+                "name": "Inductive step:",
+                "merged": false,
+                "keywords": [
+                  "Inductive step:",
+                  "ℍ/E ⊧ ∀x G",
+                  "ℍ ⊧ ∀x G'"
+                ],
+                "eventId": "18"
+              },
+              {
+                "type": "show",
+                "id": "Group_1212",
+                "enabled": "enabled",
+                "name": "ℍ/E, [x ↦ t/E] ⊧ G for all t/E ∈ ℍ/E",
+                "merged": false,
+                "keywords": [
+                  "ℍ/E, [x ↦ t/E] ⊧ G for all t/E ∈ ℍ/E",
+                  "⇔"
+                ],
+                "eventId": "19"
+              },
+              {
+                "type": "show",
+                "id": "Group_1213",
+                "enabled": "enabled",
+                "name": "ℍ/E ⊧ G[t / x] for all t ∈ ℍ",
+                "merged": false,
+                "keywords": [
+                  "ℍ/E ⊧ G[t / x] for all t ∈ ℍ",
+                  "⇔"
+                ],
+                "eventId": "20"
+              },
+              {
+                "type": "show",
+                "id": "Group_1214",
+                "enabled": "enabled",
+                "name": "ℍ ⊧ G'[t / x] for all t ∈ ℍ",
+                "merged": false,
+                "keywords": [
+                  "ℍ ⊧ G'[t / x] for all t ∈ ℍ",
+                  "⇒"
+                ],
+                "eventId": "21"
+              },
+              {
+                "type": "show",
+                "id": "Group_1215",
+                "enabled": "enabled",
+                "name": "ℍ ⊧ ∀x G'",
+                "merged": false,
+                "keywords": [
+                  "⇔",
+                  "ℍ ⊧ ∀x G'"
+                ],
+                "eventId": "22"
+              }
+            ],
+            "keywords": [
+              "Call it ℍ.",
+              "exo4b"
+            ],
+            "eventId": "6",
+            "originalParams": {
+              "Group_12": {
+                "opacity": 1
+              },
+              "Group_122": {
+                "opacity": 1
+              },
+              "c_interpreted_as_c_E2": {
+                "opacity": 1
+              },
+              "P___E_c1_E_______cm_E_____P___c1_______cm_": {
+                "opacity": 1
+              },
+              "Group_123": {
+                "opacity": 1
+              },
+              "Group_124": {
+                "opacity": 1
+              },
+              "Base_case_______E_c1_E__c2_E______E___c1_c2": {
+                "opacity": 1
+              },
+              "Group_125": {
+                "opacity": 1
+              },
+              "Group_1210": {
+                "opacity": 1
+              },
+              "Group_1211": {
+                "opacity": 1
+              },
+              "Group_1212": {
+                "opacity": 1
+              },
+              "Group_1213": {
+                "opacity": 1
+              },
+              "Group_1214": {
+                "opacity": 1
+              },
+              "Group_1215": {
+                "opacity": 1
+              },
+              "Group_126": {
+                "opacity": 1
+              },
+              "Group_127": {
+                "opacity": 1
+              },
+              "Group_128": {
+                "opacity": 1
+              },
+              "Text": {
+                "opacity": 1
+              },
+              "Text2": {
+                "opacity": 1
+              }
+            }
+          }
+        ],
+        "keywords": [
+          "exo4"
+        ],
+        "eventId": "4",
+        "originalParams": {
+          "image_19": {
+            "opacity": 1
+          },
+          "image_20": {
+            "opacity": 1
+          },
+          "image_21": {
+            "opacity": 1
+          },
+          "equivalence": {
+            "opacity": 1
+          },
+          "congruence": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "exo5",
+        "id": "exo5",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "show",
+            "id": "image_18",
+            "enabled": "enabled",
+            "name": "image 18",
+            "merged": false,
+            "keywords": [
+              "image 18"
+            ],
+            "eventId": "4"
+          },
+          {
+            "type": "show",
+            "id": "image_13",
+            "enabled": "enabled",
+            "name": "image 13",
+            "merged": false,
+            "keywords": [
+              "image 13"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "child",
+            "name": "examiner-report",
+            "id": "examiner_report",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "image_14",
+                "enabled": "enabled",
+                "name": "image 14",
+                "merged": false,
+                "keywords": [
+                  "image 14"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "image_15",
+                "enabled": "enabled",
+                "name": "image 15",
+                "merged": false,
+                "keywords": [
+                  "image 15"
+                ],
+                "eventId": "2"
+              }
+            ],
+            "keywords": [
+              "examiner-report"
+            ],
+            "eventId": "3",
+            "originalParams": {
+              "image_14": {
+                "opacity": 1
+              },
+              "image_15": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "Group_3",
+            "enabled": "enabled",
+            "name": "Correctness: ⊧ φ iff A →* w *← B for some w ∈ Σ+",
+            "merged": false,
+            "keywords": [
+              "φ =",
+              "Correctness: ⊧ φ iff A →* ∃w *← B",
+              "⋀",
+              "→",
+              "Correctness: ⊧ φ iff A →* w *← B for some w ∈ Σ+"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "show",
+            "id": "Group_1",
+            "enabled": "enabled",
+            "name": "PA(ca)",
+            "merged": false,
+            "keywords": [
+              "PA(ca)"
+            ],
+            "eventId": "12"
+          },
+          {
+            "type": "show",
+            "id": "Group_4",
+            "enabled": "enabled",
+            "name": "Relations: { PA(-) | A ∈ 𝒩 }",
+            "merged": false,
+            "keywords": [
+              "Constants: { ca | a ∈ Σ }",
+              "Relations: { PA(-) | A ∈ 𝒩 }"
+            ],
+            "eventId": "13"
+          },
+          {
+            "type": "show",
+            "id": "Group_2",
+            "enabled": "enabled",
+            "name": "∀w ∀u (PA(w⧺u) ← (PB(w) ∧ PC(u)))",
+            "merged": false,
+            "keywords": [
+              "∀w ∀u (PA(w⧺u) ← (PB(w) ∧ PC(u)))"
+            ],
+            "eventId": "14"
+          },
+          {
+            "type": "show",
+            "id": "Functions____________",
+            "enabled": "enabled",
+            "name": "Functions: { ⧺(-,-) }",
+            "merged": false,
+            "keywords": [
+              "Functions: { ⧺(-,-) }"
+            ],
+            "eventId": "10"
+          },
+          {
+            "type": "show",
+            "id": "_w__v__u__w_v__u___w__v_u_",
+            "enabled": "enabled",
+            "name": "∀w ∀v ∀u (w⧺v)⧺u = w⧺(v⧺u)",
+            "merged": false,
+            "keywords": [
+              "∀w ∀v ∀u (w⧺v)⧺u = w⧺(v⧺u)"
+            ],
+            "eventId": "15"
+          },
+          {
+            "type": "show",
+            "id": "_w__w___e___PA_w____PB_w__",
+            "enabled": "enabled",
+            "name": "∃w (PA(w) ∧ PB(w))",
+            "merged": false,
+            "keywords": [
+              "∃w (PA(w) ∧ PB(w))"
+            ],
+            "eventId": "16"
+          },
+          {
+            "type": "child",
+            "name": "exo5-correctness",
+            "id": "exo5_correctness",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "ca_as_a_________as_concatenation__PA_as",
+                "enabled": "enabled",
+                "name": "(⇒) Suppose (Σ+, ⋯ ) ⊧ φ, interpreting: ca as a ∈ Σ+, ⧺ as concatenation, PA as",
+                "merged": false,
+                "keywords": [
+                  "(⇒) Suppose (Σ+, ⋯ ) ⊧ φ, interpreting: ca as a ∈ Σ+, ⧺ as concatenation, PA as"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "__w___A____w___",
+                "enabled": "enabled",
+                "name": "{ w | A →* w }.",
+                "merged": false,
+                "keywords": [
+                  "{ w | A →* w }."
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "So_______w__PA_w____PB_w___2",
+                "enabled": "enabled",
+                "name": "So 𝕄 ⊧ ∃w (PA(w) ∧ PB(w)).",
+                "merged": false,
+                "keywords": [
+                  "So 𝕄 ⊧ ∃w (PA(w) ∧ PB(w))."
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "____Take_such_w______and",
+                "enabled": "enabled",
+                "name": "(⇐) Take such w ∈ Σ+ and let 𝕄 ⊧ φ.",
+                "merged": false,
+                "keywords": [
+                  "(⇐) Take such w ∈ Σ+ and let 𝕄 ⊧ φ."
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "Group_5",
+                "enabled": "enabled",
+                "name": "Either 𝕄 ⊧ φ trivially, or we can show:",
+                "merged": false,
+                "keywords": [
+                  "if N →* ab…z, then 𝕄 ⊧ PN(ca⧺cb⧺⋯⧺cz).",
+                  "Then we can show:",
+                  "Either 𝕄 ⊧ φ trivially, or we can show:"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "___",
+                "enabled": "enabled",
+                "name": "( )",
+                "merged": false,
+                "keywords": [
+                  "( )"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "___2",
+                "enabled": "enabled",
+                "name": "( )",
+                "merged": false,
+                "keywords": [
+                  "( )"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "So_______w__PA_w____PB_w___",
+                "enabled": "enabled",
+                "name": "So 𝕄 ⊧ ∃w (PA(w) ∧ PB(w)).",
+                "merged": false,
+                "keywords": [
+                  "So 𝕄 ⊧ ∃w (PA(w) ∧ PB(w))."
+                ],
+                "eventId": "5"
+              }
+            ],
+            "keywords": [
+              "exo5-correctness"
+            ],
+            "eventId": "6",
+            "originalParams": {
+              "__w___A____w___": {
+                "opacity": 1
+              },
+              "____Take_such_w______and": {
+                "opacity": 1
+              },
+              "Group_5": {
+                "opacity": 1
+              },
+              "So_______w__PA_w____PB_w___": {
+                "opacity": 1
+              },
+              "So_______w__PA_w____PB_w___2": {
+                "opacity": 1
+              },
+              "___": {
+                "opacity": 1
+              },
+              "___2": {
+                "opacity": 1
+              },
+              "ca_as_a_________as_concatenation__PA_as": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "__undecidable_",
+            "enabled": "enabled",
+            "name": "— undecidable!",
+            "merged": false,
+            "keywords": [
+              "— undecidable!"
+            ],
+            "eventId": "17"
+          },
+          {
+            "type": "child",
+            "name": "exo5-undecidability",
+            "id": "exo5_undecidability",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_73",
+                "enabled": "enabled",
+                "name": "Reduction from PCP:",
+                "merged": false,
+                "keywords": [
+                  "a",
+                  "ab",
+                  "bc",
+                  "ca",
+                  "abc",
+                  "Reduction from PCP:"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "Group_7",
+                "enabled": "enabled",
+                "name": "CFG",
+                "merged": false,
+                "keywords": [
+                  "a U 三",
+                  "a 三",
+                  "abc U 五",
+                  "abc 五",
+                  "bc U 四",
+                  "bc 四",
+                  "U →",
+                  "|",
+                  "ab L 三",
+                  "ab 三",
+                  "bc L 五",
+                  "bc 五",
+                  "ca L 四",
+                  "ca 四",
+                  "L →",
+                  "CFG"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Group_72",
+                "enabled": "enabled",
+                "name": "common word",
+                "merged": false,
+                "keywords": [
+                  "U → a bc abc五四三",
+                  "L → ab ca bc五四三",
+                  "common word"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Convert_to_Chomsky_normal_form_",
+                "enabled": "enabled",
+                "name": "(Convert to Chomsky normal form.)",
+                "merged": false,
+                "keywords": [
+                  "(Convert to Chomsky normal form.)"
+                ],
+                "eventId": "3"
+              }
+            ],
+            "keywords": [
+              "exo5-undecidability"
+            ],
+            "eventId": "7",
+            "originalParams": {
+              "Group_7": {
+                "opacity": 1
+              },
+              "Group_72": {
+                "opacity": 1
+              },
+              "Convert_to_Chomsky_normal_form_": {
+                "opacity": 1
+              },
+              "Group_73": {
+                "opacity": 1
+              }
+            }
+          }
+        ],
+        "keywords": [
+          "exo5"
+        ],
+        "eventId": "5",
+        "originalParams": {
+          "image_18": {
+            "opacity": 1
+          },
+          "image_13": {
+            "opacity": 1
+          },
+          "Functions____________": {
+            "opacity": 1
+          },
+          "Group_3": {
+            "opacity": 1
+          },
+          "Group_1": {
+            "opacity": 1
+          },
+          "Group_4": {
+            "opacity": 1
+          },
+          "Group_2": {
+            "opacity": 1
+          },
+          "_w__v__u__w_v__u___w__v_u_": {
+            "opacity": 1
+          },
+          "_w__w___e___PA_w____PB_w__": {
+            "opacity": 1
+          },
+          "__undecidable_": {
+            "opacity": 1
+          }
+        }
+      }
+    ],
+    "keywords": [
+      "slides by Jingjie Yang",
+      "root"
+    ],
+    "eventId": "root",
+    "originalParams": {}
+  },
+  "treeTimeLine": [],
+  "chronicleTimeLine": []
+}
