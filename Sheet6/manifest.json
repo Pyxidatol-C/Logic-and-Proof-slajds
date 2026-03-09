@@ -1,0 +1,1940 @@
+{
+  "version": 3.1,
+  "presentation": "LnP-Sheet6",
+  "slideDict": {
+    "new_slide": "root",
+    "exo1": "exo1",
+    "exo1a": "exo1a",
+    "exo2": "exo2",
+    "exo3": "exo3",
+    "exo4": "exo4",
+    "Sheet2_throwback": "Sheet2_throwback",
+    "exo4b": "exo4b",
+    "exo2b": "exo2b",
+    "exo3_otherwise": "exo3_otherwise",
+    "Sheet2_answer": "Sheet2_answer",
+    "general_enough_special_case": "general_enough_special_case",
+    "exo2b_correctness": "exo2b_correctness"
+  },
+  "tree": {
+    "type": "child",
+    "name": "root",
+    "id": "new_slide",
+    "enabled": "enabled",
+    "merged": false,
+    "children": [
+      {
+        "type": "child",
+        "name": "exo1",
+        "id": "exo1",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "child",
+            "name": "exo1a",
+            "id": "exo1a",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_6",
+                "enabled": "enabled",
+                "name": "id",
+                "merged": false,
+                "keywords": [
+                  "id"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "Group_62",
+                "enabled": "enabled",
+                "name": "invariant assump",
+                "merged": false,
+                "keywords": [
+                  "{F}",
+                  "∀θ",
+                  "Invariant:",
+                  "θ",
+                  "invariant assump"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "Group_1",
+                "enabled": "enabled",
+                "name": "Group 1",
+                "merged": false,
+                "keywords": [
+                  "Group 1"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Group_63",
+                "enabled": "enabled",
+                "name": "Group 6",
+                "merged": false,
+                "keywords": [
+                  "P(f(a),y) P(f(a),g(f(a))) P(f(z),g(f(z)))",
+                  "[f(a) / x]",
+                  "Group 6"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "Group_73",
+                "enabled": "enabled",
+                "name": "{F} 1",
+                "merged": false,
+                "keywords": [
+                  "{F}",
+                  "θ",
+                  "since xθ = f(a)θ",
+                  "{F} 1"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "Rectangle_2",
+                "enabled": "enabled",
+                "name": "Rectangle 2",
+                "merged": false,
+                "keywords": [
+                  "Rectangle 2"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "Group_7",
+                "enabled": "enabled",
+                "name": "P(f(a),y) P(f(a),g(f(a))) P(f(a),g(f(a)))",
+                "merged": false,
+                "keywords": [
+                  "P(f(a),y) P(f(a),g(f(a))) P(f(a),g(f(a)))",
+                  "[a / z]"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "Line_1",
+                "enabled": "enabled",
+                "name": "Line 1",
+                "merged": false,
+                "keywords": [
+                  "Line 1"
+                ],
+                "eventId": "10"
+              },
+              {
+                "type": "show",
+                "id": "Group_8",
+                "enabled": "enabled",
+                "name": "{F}",
+                "merged": false,
+                "keywords": [
+                  "{F}",
+                  "θ",
+                  "since aθ = zθ"
+                ],
+                "eventId": "15"
+              },
+              {
+                "type": "show",
+                "id": "Group_5",
+                "enabled": "enabled",
+                "name": "Group 5",
+                "merged": false,
+                "keywords": [
+                  "Group 5"
+                ],
+                "eventId": "24"
+              },
+              {
+                "type": "show",
+                "id": "Group_72",
+                "enabled": "enabled",
+                "name": "P(f(a),g(f(a))) P(f(a),g(f(a)))",
+                "merged": false,
+                "keywords": [
+                  "P(f(a),g(f(a))) P(f(a),g(f(a)))",
+                  "[g(f(a)) / y]"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "Line_2",
+                "enabled": "enabled",
+                "name": "Line 2",
+                "merged": false,
+                "keywords": [
+                  "Line 2"
+                ],
+                "eventId": "13"
+              },
+              {
+                "type": "show",
+                "id": "Group_9",
+                "enabled": "enabled",
+                "name": "finally",
+                "merged": false,
+                "keywords": [
+                  "{F}",
+                  "θ",
+                  "since g(f(a))θ = yθ",
+                  "finally"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "show",
+                "id": "So__some___does_exist",
+                "enabled": "enabled",
+                "name": "So: some unifier θ exists",
+                "merged": false,
+                "keywords": [
+                  "So: some unifier θ exists"
+                ],
+                "eventId": "17"
+              },
+              {
+                "type": "show",
+                "id": "Rectangle_6",
+                "enabled": "enabled",
+                "name": "Rectangle 6",
+                "merged": false,
+                "keywords": [
+                  "Rectangle 6"
+                ],
+                "eventId": "25"
+              },
+              {
+                "type": "show",
+                "id": "we_computed_the_mgu",
+                "enabled": "enabled",
+                "name": "we computed the mgu",
+                "merged": false,
+                "keywords": [
+                  "we computed the mgu"
+                ],
+                "eventId": "18"
+              },
+              {
+                "type": "show",
+                "id": "Group_12",
+                "enabled": "enabled",
+                "name": "since xθ = f(x)θ",
+                "merged": false,
+                "keywords": [
+                  "since xθ = f(x)θ"
+                ],
+                "eventId": "26"
+              },
+              {
+                "type": "show",
+                "id": "Group_122",
+                "enabled": "enabled",
+                "name": "since aθ = bθ",
+                "merged": false,
+                "keywords": [
+                  "since aθ = bθ",
+                  "or:"
+                ],
+                "eventId": "27"
+              },
+              {
+                "type": "show",
+                "id": "__no_unifier___exists",
+                "enabled": "enabled",
+                "name": "— no unifier θ exists",
+                "merged": false,
+                "keywords": [
+                  "— no unifier θ exists"
+                ],
+                "eventId": "23"
+              }
+            ],
+            "keywords": [
+              "P(x,y) P(f(a),g(x)) P(f(z),g(f(z))",
+              "exo1a"
+            ],
+            "eventId": "2",
+            "originalParams": {
+              "Group_6": {
+                "opacity": 1
+              },
+              "Group_62": {
+                "opacity": 1
+              },
+              "Group_1": {
+                "opacity": 1
+              },
+              "Group_63": {
+                "opacity": 1
+              },
+              "Rectangle_2": {
+                "opacity": 1
+              },
+              "Group_7": {
+                "opacity": 1
+              },
+              "Line_1": {
+                "opacity": 1
+              },
+              "Group_72": {
+                "opacity": 1
+              },
+              "Line_2": {
+                "opacity": 1
+              },
+              "Group_73": {
+                "opacity": 1
+              },
+              "Group_8": {
+                "opacity": 1
+              },
+              "Group_9": {
+                "opacity": 1
+              },
+              "So__some___does_exist": {
+                "opacity": 1
+              },
+              "we_computed_the_mgu": {
+                "opacity": 1
+              },
+              "__no_unifier___exists": {
+                "opacity": 1
+              },
+              "Group_5": {
+                "opacity": 1
+              },
+              "Rectangle_6": {
+                "opacity": 1
+              },
+              "Group_12": {
+                "opacity": 1
+              },
+              "Group_122": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "image_12",
+            "enabled": "enabled",
+            "name": "image 12",
+            "merged": false,
+            "keywords": [
+              "image 12"
+            ],
+            "eventId": "3"
+          },
+          {
+            "type": "show",
+            "id": "P_x_x__P_y_f_y__",
+            "enabled": "enabled",
+            "name": "P(x,x) P(y,f(y))",
+            "merged": false,
+            "keywords": [
+              "P(x,x) P(y,f(y))"
+            ],
+            "eventId": "8"
+          },
+          {
+            "type": "show",
+            "id": "Rectangle_7",
+            "enabled": "enabled",
+            "name": "Rectangle 7",
+            "merged": false,
+            "keywords": [
+              "Rectangle 7"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "Group_7",
+            "enabled": "enabled",
+            "name": "P(y,y) P(y,f(y))",
+            "merged": false,
+            "keywords": [
+              "P(y,y) P(y,f(y))",
+              "[y / x]"
+            ],
+            "eventId": "6"
+          },
+          {
+            "type": "show",
+            "id": "Group_8",
+            "enabled": "enabled",
+            "name": "Group 8",
+            "merged": false,
+            "keywords": [
+              "Group 8"
+            ],
+            "eventId": "7"
+          },
+          {
+            "type": "show",
+            "id": "Group_72",
+            "enabled": "enabled",
+            "name": "P(f(y),f(y)) P(f(y),f(f(y)))",
+            "merged": false,
+            "keywords": [
+              "P(f(y),f(y)) P(f(y),f(f(y)))",
+              "[f(y) / y]"
+            ],
+            "eventId": "9"
+          },
+          {
+            "type": "show",
+            "id": "Group_9",
+            "enabled": "enabled",
+            "name": "Group 9",
+            "merged": false,
+            "keywords": [
+              "Group 9"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "show",
+            "id": "Group_10",
+            "enabled": "enabled",
+            "name": "Group 10",
+            "merged": false,
+            "keywords": [
+              "[f(y) / y]",
+              "⋯",
+              "Group 10"
+            ],
+            "eventId": "10"
+          },
+          {
+            "type": "show",
+            "id": "image_17",
+            "enabled": "enabled",
+            "name": "image 17",
+            "merged": true,
+            "keywords": [
+              "image 17"
+            ],
+            "eventId": "14"
+          }
+        ],
+        "keywords": [
+          "exo1"
+        ],
+        "eventId": "1",
+        "originalParams": {
+          "image_12": {
+            "opacity": 1
+          },
+          "P_x_x__P_y_f_y__": {
+            "opacity": 1
+          },
+          "Rectangle_7": {
+            "opacity": 1
+          },
+          "Group_7": {
+            "opacity": 1
+          },
+          "Group_8": {
+            "opacity": 1
+          },
+          "Group_72": {
+            "opacity": 1
+          },
+          "Group_10": {
+            "opacity": 1
+          },
+          "Group_9": {
+            "opacity": 1
+          },
+          "image_17": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "exo2",
+        "id": "exo2",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "show",
+            "id": "f__x__y____f__a__b_",
+            "enabled": "enabled",
+            "name": "f (x, y) ≟ f (a, b)",
+            "merged": false,
+            "keywords": [
+              "f (x, y) ≟ f (a, b)"
+            ],
+            "eventId": "1"
+          },
+          {
+            "type": "show",
+            "id": "__f__x_____y___",
+            "enabled": "enabled",
+            "name": "f {xθ , yθ} = f {zθ, f {zθ, zθ}}",
+            "merged": false,
+            "keywords": [
+              "f {xθ , yθ} = f {zθ, f {zθ, zθ}}"
+            ],
+            "eventId": "12"
+          },
+          {
+            "type": "show",
+            "id": "Group_39",
+            "enabled": "enabled",
+            "name": "x ≟ a, y ≟ b",
+            "merged": false,
+            "keywords": [
+              "xθ=zθ, yθ=f {zθ, zθ}",
+              "⟹",
+              "x ≟ a, y ≟ b"
+            ],
+            "eventId": "3"
+          },
+          {
+            "type": "show",
+            "id": "Group_41",
+            "enabled": "enabled",
+            "name": "x ↦ t y ↦ f (t, t) z ↦ t",
+            "merged": false,
+            "keywords": [
+              "[a / x] [b / y]",
+              "x ↦ t y ↦ f (t, t) z ↦ t"
+            ],
+            "eventId": "13"
+          },
+          {
+            "type": "show",
+            "id": "Group_392",
+            "enabled": "enabled",
+            "name": "x ≟ b, y ≟ a",
+            "merged": false,
+            "keywords": [
+              "xθ=f {zθ, zθ}, yθ=zθ",
+              "⟹",
+              "OR",
+              "x ≟ b, y ≟ a"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "x___t_y___f__t__t__z___t",
+            "enabled": "enabled",
+            "name": "alt x ↦ t y ↦ f (t, t) z ↦ t",
+            "merged": false,
+            "keywords": [
+              "[a / x] [b / y]",
+              "x ↦ f (t', t') y ↦ t' z ↦ t'",
+              "alt x ↦ t y ↦ f (t, t) z ↦ t"
+            ],
+            "eventId": "15"
+          },
+          {
+            "type": "show",
+            "id": "__these_are_the_only_E_unifiers_",
+            "enabled": "enabled",
+            "name": "— these are the only E-unifiers!",
+            "merged": false,
+            "keywords": [
+              "— these are the only E-unifiers!"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "show",
+            "id": "Group_412",
+            "enabled": "enabled",
+            "name": "Group 41",
+            "merged": false,
+            "keywords": [
+              "Group 41"
+            ],
+            "eventId": "19"
+          },
+          {
+            "type": "show",
+            "id": "Group_42",
+            "enabled": "enabled",
+            "name": "Group 42",
+            "merged": false,
+            "keywords": [
+              "Group 42"
+            ],
+            "eventId": "20"
+          },
+          {
+            "type": "show",
+            "id": "image_22",
+            "enabled": "enabled",
+            "name": "image 22",
+            "merged": false,
+            "keywords": [
+              "image 22"
+            ],
+            "eventId": "18"
+          }
+        ],
+        "keywords": [
+          "exo2"
+        ],
+        "eventId": "2",
+        "originalParams": {
+          "f__x__y____f__a__b_": {
+            "opacity": 1
+          },
+          "Group_39": {
+            "opacity": 1
+          },
+          "Group_392": {
+            "opacity": 1
+          },
+          "__these_are_the_only_E_unifiers_": {
+            "opacity": 1
+          },
+          "__f__x_____y___": {
+            "opacity": 1
+          },
+          "Group_41": {
+            "opacity": 1
+          },
+          "x___t_y___f__t__t__z___t": {
+            "opacity": 1
+          },
+          "image_22": {
+            "opacity": 1
+          },
+          "Group_412": {
+            "opacity": 1
+          },
+          "Group_42": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "exo2b",
+        "id": "exo2b",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "show",
+            "id": "Simplify____x___x_____S___S_for_any_variable_x",
+            "enabled": "enabled",
+            "name": "Simplify: { x ≟ x } ∪ S ⟹ S for any variable x",
+            "merged": false,
+            "keywords": [
+              "Simplify: { x ≟ x } ∪ S ⟹ S for any variable x"
+            ],
+            "eventId": "6"
+          },
+          {
+            "type": "show",
+            "id": "Swap____f__t1__t2____x_____S_____x___f__t1__t2______S",
+            "enabled": "enabled",
+            "name": "Swap: { f (t1, t2) ≟ x } ∪ S ⟹ { x ≟ f (t1, t2) } ∪ S",
+            "merged": false,
+            "keywords": [
+              "Swap: { f (t1, t2) ≟ x } ∪ S ⟹ { x ≟ f (t1, t2) } ∪ S"
+            ],
+            "eventId": "7"
+          },
+          {
+            "type": "show",
+            "id": "Decompose____f__s1__s2____f__t1__t2______S_____s1___t1__s2___t2_____S",
+            "enabled": "enabled",
+            "name": "Decompose: { f (s1, s2) ≟ f (t1, t2) } ∪ S ⟹ { s1 ≟ t1, s2 ≟ t2 } ∪ S",
+            "merged": false,
+            "keywords": [
+              "Decompose: { f (s1, s2) ≟ f (t1, t2) } ∪ S ⟹ { s1 ≟ t1, s2 ≟ t2 } ∪ S"
+            ],
+            "eventId": "8"
+          },
+          {
+            "type": "show",
+            "id": "E_Decompose____f__s1__s2____f__t1__t2______S_____s1___t2__s2___t1_____S",
+            "enabled": "enabled",
+            "name": "E-Decompose: { f (s1, s2) ≟ f (t1, t2) } ∪ S ⟹ { s1 ≟ t2, s2 ≟ t1 } ∪ S",
+            "merged": false,
+            "keywords": [
+              "E-Decompose: { f (s1, s2) ≟ f (t1, t2) } ∪ S ⟹ { s1 ≟ t2, s2 ≟ t1 } ∪ S"
+            ],
+            "eventId": "3"
+          },
+          {
+            "type": "show",
+            "id": "Conflict____f_________g________S_____if_f___g_or_len________len___",
+            "enabled": "enabled",
+            "name": "Conflict: { f (...) ≟ g(⋯) } ∪ S ⟹ ⊥ if f ≠ g or len(...) ≠ len(⋯)",
+            "merged": false,
+            "keywords": [
+              "Conflict: { f (...) ≟ g(⋯) } ∪ S ⟹ ⊥ if f ≠ g or len(...) ≠ len(⋯)"
+            ],
+            "eventId": "9"
+          },
+          {
+            "type": "show",
+            "id": "Group_392",
+            "enabled": "enabled",
+            "name": "Group 39",
+            "merged": false,
+            "keywords": [
+              "Group 39"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "Elim____x___t_____S_____x___t_____S_t___x__if_x_occurs_in_S",
+            "enabled": "enabled",
+            "name": "Elim: { x ≟ t } ∪ S ⟹ { x ≟ t } ∪ S[t / x] if x occurs in S",
+            "merged": false,
+            "keywords": [
+              "Elim: { x ≟ t } ∪ S ⟹ { x ≟ t } ∪ S[t / x] if x occurs in S"
+            ],
+            "eventId": "10"
+          },
+          {
+            "type": "show",
+            "id": "Occur____x___t_____S_____if_x_is_a_proper_subterm_of_t",
+            "enabled": "enabled",
+            "name": "Occur: { x ≟ t } ∪ S ⟹ ⊥ if x is a proper subterm of t",
+            "merged": false,
+            "keywords": [
+              "Occur: { x ≟ t } ∪ S ⟹ ⊥ if x is a proper subterm of t"
+            ],
+            "eventId": "11"
+          },
+          {
+            "type": "child",
+            "name": "exo2b-correctness",
+            "id": "exo2b_correctness",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "If___unifies_S_and_S___S___then___unifies_S__",
+                "enabled": "enabled",
+                "name": "If θ unifies S and S ⟹ S', then θ unifies S'.",
+                "merged": false,
+                "keywords": [
+                  "If θ unifies S and S ⟹ S', then θ unifies S'."
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "If___unifies_S__and_S___S___then___unifies_S_",
+                "enabled": "enabled",
+                "name": "If θ unifies S' and S ⟹ S', then θ unifies S.",
+                "merged": false,
+                "keywords": [
+                  "If θ unifies S' and S ⟹ S', then θ unifies S."
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Every_sequence_S___S____S_______is_finite__terminating_with___or_a_solved_system_",
+                "enabled": "enabled",
+                "name": "Every sequence S ⟹ S' ⟹ S'' ⟹ ⋯ is finite,  terminating with ⊥ or a solved system.",
+                "merged": false,
+                "keywords": [
+                  "Every sequence S ⟹ S' ⟹ S'' ⟹ ⋯ is finite,  terminating with ⊥ or a solved system."
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "If_S_______then_no___unifies_S__If_S______xi___ti____then_____xi___ti_unifies_S_",
+                "enabled": "enabled",
+                "name": "If S ⟹* ⊥, then no θ unifies S.",
+                "merged": false,
+                "keywords": [
+                  "If S ⟹* ⊥, then no θ unifies S."
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "Group_40",
+                "enabled": "enabled",
+                "name": "If S ⟹* { xi ≟ ti }, then θ = [ti / xi] unifies S.",
+                "merged": false,
+                "keywords": [
+                  "If S ⟹* { xi ≟ ti }, then θ = [ti / xi] unifies S.",
+                  "with xi's distinct, occurring in no tj's"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "Group_402",
+                "enabled": "enabled",
+                "name": "E-",
+                "merged": false,
+                "keywords": [
+                  "E-"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Group_405",
+                "enabled": "enabled",
+                "name": "by considering ℕ3",
+                "merged": false,
+                "keywords": [
+                  "— still true!",
+                  "by considering ℕ3"
+                ],
+                "eventId": "21"
+              },
+              {
+                "type": "show",
+                "id": "E_",
+                "enabled": "enabled",
+                "name": "E-",
+                "merged": false,
+                "keywords": [
+                  "E-"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "Group_403",
+                "enabled": "enabled",
+                "name": "E-",
+                "merged": false,
+                "keywords": [
+                  "E-"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "_8",
+                "enabled": "enabled",
+                "name": "?",
+                "merged": false,
+                "keywords": [
+                  "?"
+                ],
+                "eventId": "9"
+              },
+              {
+                "type": "show",
+                "id": "f__f__x___f__a__",
+                "enabled": "enabled",
+                "name": "f (x, f (x)) ≟ f (f (x), f (a))",
+                "merged": false,
+                "keywords": [
+                  "f (x, f (x)) ≟ f (f (x), f (a))"
+                ],
+                "eventId": "11"
+              },
+              {
+                "type": "show",
+                "id": "Group_42",
+                "enabled": "enabled",
+                "name": "x ≟ f (x), f (x) ≟ f (a)",
+                "merged": false,
+                "keywords": [
+                  "x ≟ f (x,x), ...",
+                  "⟹",
+                  "x ≟ f (x), f (x) ≟ f (a)"
+                ],
+                "eventId": "12"
+              },
+              {
+                "type": "show",
+                "id": "Group_422",
+                "enabled": "enabled",
+                "name": "⟹",
+                "merged": false,
+                "keywords": [
+                  "⟹",
+                  "⊥"
+                ],
+                "eventId": "13"
+              },
+              {
+                "type": "show",
+                "id": "Group_423",
+                "enabled": "enabled",
+                "name": "x ≟ f (a), f (x) ≟ f (x)",
+                "merged": false,
+                "keywords": [
+                  "x ≟ f (y,y), f (x,x) ≟ f (x,x)",
+                  "⟹",
+                  "x ≟ f (a), f (x) ≟ f (x)"
+                ],
+                "eventId": "14"
+              },
+              {
+                "type": "show",
+                "id": "Group_424",
+                "enabled": "enabled",
+                "name": "x ≟ f (a)",
+                "merged": false,
+                "keywords": [
+                  "⟹",
+                  "x ≟ f (y,y)",
+                  "x ≟ f (a)"
+                ],
+                "eventId": "15"
+              },
+              {
+                "type": "hide",
+                "id": "_8",
+                "enabled": "enabled",
+                "name": "?",
+                "merged": false,
+                "keywords": [
+                  "?"
+                ],
+                "eventId": "16"
+              },
+              {
+                "type": "show",
+                "id": "Group_404",
+                "enabled": "enabled",
+                "name": "∃",
+                "merged": true,
+                "keywords": [
+                  "∃"
+                ],
+                "eventId": "17"
+              },
+              {
+                "type": "show",
+                "id": "Group_41",
+                "enabled": "enabled",
+                "name": "∀",
+                "merged": false,
+                "keywords": [
+                  "∀"
+                ],
+                "eventId": "18"
+              },
+              {
+                "type": "show",
+                "id": "E_2",
+                "enabled": "enabled",
+                "name": "E-",
+                "merged": true,
+                "keywords": [
+                  "E-"
+                ],
+                "eventId": "20"
+              },
+              {
+                "type": "show",
+                "id": "and_factors_through_every_unifier_of_S",
+                "enabled": "enabled",
+                "name": "and factors through every unifier of { xi ≟ ti } = unifier of S",
+                "merged": false,
+                "keywords": [
+                  "and factors through every unifier of { xi ≟ ti } = unifier of S"
+                ],
+                "eventId": "22"
+              },
+              {
+                "type": "show",
+                "id": "Group_412",
+                "enabled": "enabled",
+                "name": "E-",
+                "merged": false,
+                "keywords": [
+                  "E-"
+                ],
+                "eventId": "23"
+              },
+              {
+                "type": "show",
+                "id": "Group_406",
+                "enabled": "enabled",
+                "name": "⊊",
+                "merged": true,
+                "keywords": [
+                  "⊆",
+                  "⊊"
+                ],
+                "eventId": "25"
+              }
+            ],
+            "keywords": [
+              "We had:",
+              "exo2b-correctness"
+            ],
+            "eventId": "4",
+            "originalParams": {
+              "If___unifies_S_and_S___S___then___unifies_S__": {
+                "opacity": 1
+              },
+              "If___unifies_S__and_S___S___then___unifies_S_": {
+                "opacity": 1
+              },
+              "If_S_______then_no___unifies_S__If_S______xi___ti____then_____xi___ti_unifies_S_": {
+                "opacity": 1
+              },
+              "Group_40": {
+                "opacity": 1
+              },
+              "Group_402": {
+                "opacity": 1
+              },
+              "E_": {
+                "opacity": 1
+              },
+              "Every_sequence_S___S____S_______is_finite__terminating_with___or_a_solved_system_": {
+                "opacity": 1
+              },
+              "Group_403": {
+                "opacity": 1
+              },
+              "_8": {
+                "opacity": 1
+              },
+              "f__f__x___f__a__": {
+                "opacity": 1
+              },
+              "Group_42": {
+                "opacity": 1
+              },
+              "Group_422": {
+                "opacity": 1
+              },
+              "Group_423": {
+                "opacity": 1
+              },
+              "Group_424": {
+                "opacity": 1
+              },
+              "Group_404": {
+                "opacity": 1
+              },
+              "Group_41": {
+                "opacity": 1
+              },
+              "E_2": {
+                "opacity": 1
+              },
+              "Group_405": {
+                "opacity": 1
+              },
+              "and_factors_through_every_unifier_of_S": {
+                "opacity": 1
+              },
+              "Group_412": {
+                "opacity": 1
+              },
+              "Group_406": {
+                "opacity": 1
+              }
+            }
+          }
+        ],
+        "keywords": [
+          "exo2b"
+        ],
+        "eventId": "6",
+        "originalParams": {
+          "E_Decompose____f__s1__s2____f__t1__t2______S_____s1___t2__s2___t1_____S": {
+            "opacity": 1
+          },
+          "Group_392": {
+            "opacity": 1
+          },
+          "Simplify____x___x_____S___S_for_any_variable_x": {
+            "opacity": 1
+          },
+          "Swap____f__t1__t2____x_____S_____x___f__t1__t2______S": {
+            "opacity": 1
+          },
+          "Decompose____f__s1__s2____f__t1__t2______S_____s1___t1__s2___t2_____S": {
+            "opacity": 1
+          },
+          "Conflict____f_________g________S_____if_f___g_or_len________len___": {
+            "opacity": 1
+          },
+          "Elim____x___t_____S_____x___t_____S_t___x__if_x_occurs_in_S": {
+            "opacity": 1
+          },
+          "Occur____x___t_____S_____if_x_is_a_proper_subterm_of_t": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "show",
+        "id": "Line_49",
+        "enabled": "enabled",
+        "name": "Line 49",
+        "merged": false,
+        "keywords": [
+          "Line 49"
+        ],
+        "eventId": "7"
+      },
+      {
+        "type": "child",
+        "name": "exo3",
+        "id": "exo3",
+        "enabled": "enabled",
+        "merged": false,
+        "children": [
+          {
+            "type": "show",
+            "id": "Group_12",
+            "enabled": "enabled",
+            "name": "Signature",
+            "merged": false,
+            "keywords": [
+              "Signature",
+              "<"
+            ],
+            "eventId": "13"
+          },
+          {
+            "type": "show",
+            "id": "Group_13",
+            "enabled": "enabled",
+            "name": "Th(Z)",
+            "merged": true,
+            "keywords": [
+              ")",
+              "Sentences",
+              "Th(ℤ, <",
+              "Th(Z)"
+            ],
+            "eventId": "14"
+          },
+          {
+            "type": "show",
+            "id": "potential_model",
+            "enabled": "enabled",
+            "name": "potential model",
+            "merged": false,
+            "keywords": [
+              "(𝔸, <",
+              "would satisfy:",
+              "⊧",
+              ")",
+              "Th(𝔸, <) = Th(ℤ, <)",
+              "potential model"
+            ],
+            "eventId": "15"
+          },
+          {
+            "type": "show",
+            "id": "precisely_one_of_F___F",
+            "enabled": "enabled",
+            "name": "(⊆) precisely one of F, ¬F is in here",
+            "merged": false,
+            "keywords": [
+              "(⊆) precisely one of F, ¬F is in here"
+            ],
+            "eventId": "20"
+          },
+          {
+            "type": "show",
+            "id": "Group_122",
+            "enabled": "enabled",
+            "name": "r for r ∈ ℚ",
+            "merged": false,
+            "keywords": [
+              "r , for r ∈ ℚ",
+              "+",
+              "r for r ∈ ℚ"
+            ],
+            "eventId": "16"
+          },
+          {
+            "type": "show",
+            "id": "Group_132",
+            "enabled": "enabled",
+            "name": "{ r < r' | r < r' ∈ ℚ }",
+            "merged": false,
+            "keywords": [
+              "{ r < r' | r < r' ∈ ℚ }",
+              "+"
+            ],
+            "eventId": "17"
+          },
+          {
+            "type": "show",
+            "id": "__r___",
+            "enabled": "enabled",
+            "name": ", r 𝔸",
+            "merged": false,
+            "keywords": [
+              ", r 𝔸"
+            ],
+            "eventId": "17"
+          },
+          {
+            "type": "show",
+            "id": "r___r___",
+            "enabled": "enabled",
+            "name": "r ↦ r 𝔸 embeds  (ℚ, <) ↪ (𝔸, <)",
+            "merged": false,
+            "keywords": [
+              "r ↦ r 𝔸 embeds  (ℚ, <) ↪ (𝔸, <)"
+            ],
+            "eventId": "16"
+          },
+          {
+            "type": "show",
+            "id": "Group_123",
+            "enabled": "enabled",
+            "name": "Any finite subset",
+            "merged": false,
+            "keywords": [
+              "Any finite subset",
+              "⊂"
+            ],
+            "eventId": "18"
+          },
+          {
+            "type": "show",
+            "id": "Group_124",
+            "enabled": "enabled",
+            "name": "{ r < r' | r < r' ∈ {r1 < ⋯ < rn} }",
+            "merged": false,
+            "keywords": [
+              "{ r < r' | r < r' ∈ {r1 < ⋯ < rn} }",
+              "T",
+              "+"
+            ],
+            "eventId": "19"
+          },
+          {
+            "type": "show",
+            "id": "potential_model2",
+            "enabled": "enabled",
+            "name": "actual model",
+            "merged": false,
+            "keywords": [
+              "(ℤ, <, riℤ =",
+              "⊧",
+              ")",
+              "actual model"
+            ],
+            "eventId": "21"
+          },
+          {
+            "type": "show",
+            "id": "i",
+            "enabled": "enabled",
+            "name": "i",
+            "merged": false,
+            "keywords": [
+              "i"
+            ],
+            "eventId": "22"
+          },
+          {
+            "type": "show",
+            "id": "By_compactness____",
+            "enabled": "enabled",
+            "name": "By compactness, ∃ ",
+            "merged": false,
+            "keywords": [
+              "By compactness, ∃ "
+            ],
+            "eventId": "23"
+          },
+          {
+            "type": "show",
+            "id": "Hodges",
+            "enabled": "enabled",
+            "name": "Hodges",
+            "merged": false,
+            "keywords": [
+              "Wilfred Hodges. Model Theory. 1993.",
+              "Hodges"
+            ],
+            "eventId": "24"
+          },
+          {
+            "type": "child",
+            "name": "exo3-otherwise",
+            "id": "exo3_otherwise",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "Group_12",
+                "enabled": "enabled",
+                "name": "ℚ",
+                "merged": false,
+                "keywords": [
+                  "ℚ"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Group_16",
+                "enabled": "enabled",
+                "name": "ℤ",
+                "merged": false,
+                "keywords": [
+                  "ℤ"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Group_18",
+                "enabled": "enabled",
+                "name": "Group 18",
+                "merged": false,
+                "keywords": [
+                  "ℤ",
+                  "Group 18"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "Group_17",
+                "enabled": "enabled",
+                "name": "Group 17",
+                "merged": false,
+                "keywords": [
+                  "ℤ",
+                  "Group 17"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "__________",
+                "enabled": "enabled",
+                "name": "(ℚ × ℤ, <)",
+                "merged": false,
+                "keywords": [
+                  "(ℚ × ℤ, <)"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "_k__",
+                "enabled": "enabled",
+                "name": "≡k (ℤ ,<) for all k",
+                "merged": false,
+                "keywords": [
+                  "≡k (ℤ ,<) for all k"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "by_Ehrenfeucht_Fra_ss_",
+                "enabled": "enabled",
+                "name": "by Ehrenfeucht–Fraïssé",
+                "merged": true,
+                "keywords": [
+                  "by Ehrenfeucht–Fraïssé"
+                ],
+                "eventId": "7"
+              }
+            ],
+            "keywords": [
+              "exo3-otherwise"
+            ],
+            "eventId": "8",
+            "originalParams": {
+              "Group_12": {
+                "opacity": 1
+              },
+              "Group_16": {
+                "opacity": 1
+              },
+              "Group_18": {
+                "opacity": 1
+              },
+              "Group_17": {
+                "opacity": 1
+              },
+              "__________": {
+                "opacity": 1
+              },
+              "_k__": {
+                "opacity": 1
+              },
+              "by_Ehrenfeucht_Fra_ss_": {
+                "opacity": 1
+              }
+            }
+          }
+        ],
+        "keywords": [
+          "exo3"
+        ],
+        "eventId": "3",
+        "originalParams": {
+          "Group_12": {
+            "opacity": 1
+          },
+          "Group_13": {
+            "opacity": 1
+          },
+          "potential_model": {
+            "opacity": 1
+          },
+          "Group_122": {
+            "opacity": 1
+          },
+          "Group_132": {
+            "opacity": 1
+          },
+          "r___r___": {
+            "opacity": 1
+          },
+          "__r___": {
+            "opacity": 1
+          },
+          "Group_123": {
+            "opacity": 1
+          },
+          "Group_124": {
+            "opacity": 1
+          },
+          "precisely_one_of_F___F": {
+            "opacity": 1
+          },
+          "potential_model2": {
+            "opacity": 1
+          },
+          "i": {
+            "opacity": 1
+          },
+          "By_compactness____": {
+            "opacity": 1
+          },
+          "Hodges": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "exo4",
+        "id": "exo4",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "child",
+            "name": "Sheet2-throwback",
+            "id": "Sheet2_throwback",
+            "enabled": "enabled",
+            "merged": false,
+            "children": [
+              {
+                "type": "show",
+                "id": "image_6",
+                "enabled": "enabled",
+                "name": "image 6",
+                "merged": false,
+                "keywords": [
+                  "image 6"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "image_19",
+                "enabled": "enabled",
+                "name": "image 19",
+                "merged": true,
+                "keywords": [
+                  "image 19"
+                ],
+                "eventId": "3"
+              },
+              {
+                "type": "show",
+                "id": "Rectangle_13",
+                "enabled": "enabled",
+                "name": "Rectangle 13",
+                "merged": false,
+                "keywords": [
+                  "Rectangle 13"
+                ],
+                "eventId": "4"
+              },
+              {
+                "type": "show",
+                "id": "Group_38",
+                "enabled": "enabled",
+                "name": "We now show this!",
+                "merged": false,
+                "keywords": [
+                  "We now show a general enough special case!",
+                  "We now show this!"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "image_20",
+                "enabled": "enabled",
+                "name": "image 20",
+                "merged": false,
+                "keywords": [
+                  "image 20"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "image_21",
+                "enabled": "enabled",
+                "name": "image 21",
+                "merged": false,
+                "keywords": [
+                  "image 21"
+                ],
+                "eventId": "8"
+              }
+            ],
+            "keywords": [
+              "Sheet2-throwback"
+            ],
+            "eventId": "1",
+            "originalParams": {
+              "image_6": {
+                "opacity": 1
+              },
+              "image_19": {
+                "opacity": 1
+              },
+              "Rectangle_13": {
+                "opacity": 1
+              },
+              "Group_38": {
+                "opacity": 1
+              },
+              "image_20": {
+                "opacity": 1
+              },
+              "image_21": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "child",
+            "name": "Sheet2-answer",
+            "id": "Sheet2_answer",
+            "enabled": "enabled",
+            "merged": true,
+            "children": [
+              {
+                "type": "show",
+                "id": "Terms__ax___b__b",
+                "enabled": "enabled",
+                "name": "Terms: ax + b, c with a-1, b, c ∈ ℕ",
+                "merged": false,
+                "keywords": [
+                  "Terms: ax + b, c with a-1, b, c ∈ ℕ"
+                ],
+                "eventId": "8"
+              },
+              {
+                "type": "show",
+                "id": "Group_392",
+                "enabled": "enabled",
+                "name": "Atomic formulas in x :",
+                "merged": false,
+                "keywords": [
+                  "ax + b < c",
+                  "ax + b > c",
+                  "ax + b = c",
+                  "Pk(ax + b)",
+                  "Pk(c)",
+                  "c < c'",
+                  "c = c'",
+                  "Assume x is not in c: otherwise",
+                  "we can rearrange.",
+                  "Atomic formulas in x :"
+                ],
+                "eventId": "5"
+              },
+              {
+                "type": "show",
+                "id": "Group_393",
+                "enabled": "enabled",
+                "name": "Subsets of ℕ defined:",
+                "merged": false,
+                "keywords": [
+                  "Subsets of ℕ defined:",
+                  "empty or: ",
+                  "finite:",
+                  "cofinite:",
+                  "k-periodic:",
+                  "one of:"
+                ],
+                "eventId": "6"
+              },
+              {
+                "type": "show",
+                "id": "all_ultimately_periodic__with_p_1_or_from_n0___0_",
+                "enabled": "enabled",
+                "name": "all ultimately periodic (with p=1 or from n0 = 0)",
+                "merged": false,
+                "keywords": [
+                  "all ultimately periodic (with p=1 or from n0 = 0)"
+                ],
+                "eventId": "7"
+              },
+              {
+                "type": "show",
+                "id": "Group_386",
+                "enabled": "enabled",
+                "name": "Group 38",
+                "merged": false,
+                "keywords": [
+                  "Group 38"
+                ],
+                "eventId": "1"
+              },
+              {
+                "type": "show",
+                "id": "Rectangle_13",
+                "enabled": "enabled",
+                "name": "Rectangle 13",
+                "merged": false,
+                "keywords": [
+                  "Rectangle 13"
+                ],
+                "eventId": "2"
+              },
+              {
+                "type": "show",
+                "id": "Group_39",
+                "enabled": "enabled",
+                "name": "i.e. finite/cofinite",
+                "merged": false,
+                "keywords": [
+                  "i.e. finite/cofinite"
+                ],
+                "eventId": "3"
+              }
+            ],
+            "keywords": [
+              "Atomic formulas in x :",
+              "Recall:",
+              "Sheet2-answer"
+            ],
+            "eventId": "4",
+            "originalParams": {
+              "Group_386": {
+                "opacity": 1
+              },
+              "Rectangle_13": {
+                "opacity": 1
+              },
+              "Group_39": {
+                "opacity": 1
+              },
+              "Group_392": {
+                "opacity": 1
+              },
+              "Group_393": {
+                "opacity": 1
+              },
+              "all_ultimately_periodic__with_p_1_or_from_n0___0_": {
+                "opacity": 1
+              },
+              "Terms__ax___b__b": {
+                "opacity": 1
+              }
+            }
+          },
+          {
+            "type": "show",
+            "id": "image_8",
+            "enabled": "enabled",
+            "name": "image 8",
+            "merged": false,
+            "keywords": [
+              "image 8"
+            ],
+            "eventId": "5"
+          },
+          {
+            "type": "show",
+            "id": "P2____is_not_finite_cofinite_",
+            "enabled": "enabled",
+            "name": "P2(ℕ) is not finite/cofinite.",
+            "merged": false,
+            "keywords": [
+              "P2(ℕ) is not finite/cofinite."
+            ],
+            "eventId": "6"
+          },
+          {
+            "type": "show",
+            "id": "__",
+            "enabled": "enabled",
+            "name": "..",
+            "merged": false,
+            "keywords": [
+              ".."
+            ],
+            "eventId": "8"
+          },
+          {
+            "type": "show",
+            "id": "Let_P2_n_____x__n___x___x__",
+            "enabled": "enabled",
+            "name": "Let P2(n) = ∃x (n = x + x).",
+            "merged": false,
+            "keywords": [
+              "Let P2(n) = ∃x (n = x + x)."
+            ],
+            "eventId": "7"
+          }
+        ],
+        "keywords": [
+          "exo4"
+        ],
+        "eventId": "4",
+        "originalParams": {
+          "image_8": {
+            "opacity": 1
+          },
+          "P2____is_not_finite_cofinite_": {
+            "opacity": 1
+          },
+          "Let_P2_n_____x__n___x___x__": {
+            "opacity": 1
+          },
+          "__": {
+            "opacity": 1
+          }
+        }
+      },
+      {
+        "type": "child",
+        "name": "exo4b",
+        "id": "exo4b",
+        "enabled": "enabled",
+        "merged": true,
+        "children": [
+          {
+            "type": "show",
+            "id": "Group_40",
+            "enabled": "enabled",
+            "name": "F'(cx)",
+            "merged": false,
+            "keywords": [
+              "F'(cx)"
+            ],
+            "eventId": "19"
+          },
+          {
+            "type": "show",
+            "id": "Suppose_F__cx__holds_for_some_x_",
+            "enabled": "enabled",
+            "name": "Suppose ∃x F'(cx) holds.",
+            "merged": true,
+            "keywords": [
+              "Suppose ∃x F'(cx) holds."
+            ],
+            "eventId": "20"
+          },
+          {
+            "type": "show",
+            "id": "Let_x_be_the_least_such_",
+            "enabled": "enabled",
+            "name": "Let x be the least such:",
+            "merged": false,
+            "keywords": [
+              "Let x be the least such:"
+            ],
+            "eventId": "21"
+          },
+          {
+            "type": "show",
+            "id": "if_m___0__then_cx___0_works_",
+            "enabled": "enabled",
+            "name": "if m = 0, then cx = 0 works.",
+            "merged": false,
+            "keywords": [
+              "if m = 0, then cx = 0 works."
+            ],
+            "eventId": "22"
+          },
+          {
+            "type": "show",
+            "id": "if_m___0__let_li___li_for_all_i__then_cx___li_is_the_next_largest_multiple_of_c_",
+            "enabled": "enabled",
+            "name": "if m > 0, let li < li' for all i ;",
+            "merged": false,
+            "keywords": [
+              "if m > 0, let li < li' for all i ;"
+            ],
+            "eventId": "23"
+          },
+          {
+            "type": "show",
+            "id": "then_cx___next_largest_multiple_of_c_in_li___1__li___2_____",
+            "enabled": "enabled",
+            "name": "then cx = next largest multiple of c in li' +1, li' +2, ...",
+            "merged": false,
+            "keywords": [
+              "then cx = next largest multiple of c in li' +1, li' +2, ..."
+            ],
+            "eventId": "24"
+          },
+          {
+            "type": "show",
+            "id": "__li___c",
+            "enabled": "enabled",
+            "name": ", li' +c",
+            "merged": false,
+            "keywords": [
+              ", li' +c"
+            ],
+            "eventId": "25"
+          },
+          {
+            "type": "show",
+            "id": "Group_403",
+            "enabled": "enabled",
+            "name": "F'(0) \\vee \\bigvee_{i'=1}^m ",
+            "merged": false,
+            "keywords": [
+              "∃x F'(cx) holds",
+              "⇐(⇒)",
+              "F'(0) \\vee \\bigvee_{i'=1}^m ",
+              "∨",
+              "F'(li'+1) ∧ Pc(li'+1)",
+              "F'(li'+2) ∧ Pc(li'+2)",
+              "F'(li'+c) ∧ Pc(li'+c)",
+              "∨ ⋯ ∨",
+              "holds.",
+              "So:"
+            ],
+            "eventId": "28"
+          },
+          {
+            "type": "show",
+            "id": "Group_402",
+            "enabled": "enabled",
+            "name": "is y > 2y + z ?",
+            "merged": false,
+            "keywords": [
+              "is 2y > y + z ?",
+              "is y > 2y + z ?"
+            ],
+            "eventId": "26"
+          },
+          {
+            "type": "show",
+            "id": "__depends_",
+            "enabled": "enabled",
+            "name": "— depends!",
+            "merged": false,
+            "keywords": [
+              "— depends!"
+            ],
+            "eventId": "27"
+          },
+          {
+            "type": "show",
+            "id": "Group_404",
+            "enabled": "enabled",
+            "name": "Group 40",
+            "merged": false,
+            "keywords": [
+              "Group 40"
+            ],
+            "eventId": "29"
+          }
+        ],
+        "keywords": [
+          "exo4b"
+        ],
+        "eventId": "5",
+        "originalParams": {
+          "Group_40": {
+            "opacity": 1
+          },
+          "Suppose_F__cx__holds_for_some_x_": {
+            "opacity": 1
+          },
+          "Let_x_be_the_least_such_": {
+            "opacity": 1
+          },
+          "if_m___0__then_cx___0_works_": {
+            "opacity": 1
+          },
+          "if_m___0__let_li___li_for_all_i__then_cx___li_is_the_next_largest_multiple_of_c_": {
+            "opacity": 1
+          },
+          "then_cx___next_largest_multiple_of_c_in_li___1__li___2_____": {
+            "opacity": 1
+          },
+          "__li___c": {
+            "opacity": 1
+          },
+          "Group_402": {
+            "opacity": 1
+          },
+          "__depends_": {
+            "opacity": 1
+          },
+          "Group_403": {
+            "opacity": 1
+          },
+          "Group_404": {
+            "opacity": 1
+          }
+        }
+      }
+    ],
+    "keywords": [
+      "Slides by Jingjie Yang",
+      "root"
+    ],
+    "eventId": "root",
+    "originalParams": {
+      "Line_49": {
+        "opacity": 1
+      }
+    }
+  },
+  "treeTimeLine": [],
+  "chronicleTimeLine": []
+}

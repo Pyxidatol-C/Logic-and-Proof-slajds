@@ -1033,6 +1033,17 @@
               },
               {
                 "type": "show",
+                "id": "image_1",
+                "enabled": "enabled",
+                "name": "image 1",
+                "merged": true,
+                "keywords": [
+                  "image 1"
+                ],
+                "eventId": "27"
+              },
+              {
+                "type": "show",
                 "id": "Line_24",
                 "enabled": "enabled",
                 "name": "OOPS",
@@ -1480,6 +1491,9 @@
                 "opacity": 1
               },
               "Line_24": {
+                "opacity": 1
+              },
+              "image_1": {
                 "opacity": 1
               }
             }
